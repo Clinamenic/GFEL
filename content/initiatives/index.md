@@ -1,14 +1,9 @@
 ---
 title: Initiatives
 ---
-
 Ethereum Localism comes to life through concrete initiatives happening in communities around the world. These projects demonstrate the practical application of our principles and provide models for others to adapt and build upon.
 
 ## Featured Initiatives
-
-### Local DAO Summer 2024
-
-[Local DAO Summer 2024](/local-dao-summer-2024) is a coordinated effort to launch and support community DAOs across multiple locations. The program provides resources, technical support, and a shared learning framework for communities ready to experiment with decentralized governance.
 
 ### Chicken Coop Catalyst Project
 
