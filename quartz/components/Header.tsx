@@ -21,7 +21,16 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
   // This inner function is what gets called during rendering
   function HeaderComponent(props: QuartzComponentProps) {
     return (
-      <header className="bg-[#1c1c1e] text-white sticky top-0 z-50 shadow-sm">
+      <header
+        style={{
+          backgroundColor: "#1c1c1e",
+           color: "white",
+            position: "sticky",
+            top: 0,
+            zIndex: 50,
+            boxShadow: "0 1px 4px rgba(0, 0, 0, 0.2)",
+        }}
+>
         <div className="container flex h-14 items-center">
           <div className="mr-4 flex">
           <a href="/" className="mr-6 flex items-center space-x-2">
