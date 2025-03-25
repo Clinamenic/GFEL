@@ -1,5 +1,5 @@
 ---
-title:
+title: Welcome to GFEL
 ---
 Welcome to the Global Fellowship for Ethereum Localism (GFEL) digital garden. This space brings together knowledge, resources, and real-world initiatives that bridge blockchain technology with local community action.
 
