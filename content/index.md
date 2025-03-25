@@ -63,3 +63,5 @@ Together, we're building a future where technology serves community needs and st
 </div>
 
 Check out the Ethereum localism book [here](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ), or claim a free NFT version of on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
+
+---
