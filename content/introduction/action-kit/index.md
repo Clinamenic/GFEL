@@ -5,7 +5,7 @@ title: Action Kit
 # Ethereum Localism Action Kit
 
 Welcome to the Action Kit! This is your starting point for implementing Ethereum Localism principles in your community. Whether you're a blockchain expert or new to the space, these resources will help you take meaningful action.
-
+![[IMG_5172.png]]
 ## Getting Started
 
 ### 1. Assess Your Community
