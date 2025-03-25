@@ -1,8 +1,7 @@
 ---
 title: An Introduction to Extitutional Theory
 draft: false
-tags:
-  - article
+tags: []
 date: 2021-01-18
 author: Jessy Kate Schingler, Primavera de Filippi
 ---

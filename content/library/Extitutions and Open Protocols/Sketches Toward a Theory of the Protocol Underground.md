@@ -1,14 +1,11 @@
 ---
 title: Sketches Toward a Theory of the Protocol Underground
 draft: 
-tags:
-  - article
+tags: []
 author: Exeunt, Open Protocol Research Group
 date: 2024-07-10
 ---
-### Sketches Toward a Theory of the Protocol Underground
-*
-By Exeunt & the Open Protocol Research Group*
+*By Exeunt & the Open Protocol Research Group*
 
 
 *The movement Philip groans—­ the undercommons, the underlanguage, underground, underwater, which is the ­ people’s macrophone—­ wants to know/make the relationship between form and instability, when the informal becomes a form of life precisely insofar as it is where forms of life come from.­ There is an ecol­ogy of unaccountable self-­positing, unaccountable­ because what’s more and less than self, disposed and without position or deposition, makes this positing in refusing being bought and sold. The logistics—­ the analogistics, the ecologistics—of the unaccountable population is barely audible, given only in distortion, which is our plain of code.*

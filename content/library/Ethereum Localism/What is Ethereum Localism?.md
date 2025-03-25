@@ -4,6 +4,8 @@ author: Exeunt
 ---
 June 29, 2024
 
+By Exeunt
+
 When we first suggested the theme of Ethereum Localism in anticipation of the GFEL conference, it was a totally open ended provocation, meant to stir up a diversity of interpretations. The result was definitely generative, putting varied bioregional thinkers in sync, exposing members of the Ethereum community to the Collaborative Finance (CoFi) meme, and even helping to spur the creation of the MyCoFi [book](https://greenpill.network/pdf/mycofi.pdf). It also sprouted a conversation which eventually led to the temporary suspension of PDX DAO until such a time as there is a sufficient network infrastructure in place to generate a meaningfully decentralized City DAO by that name (the time is nigh!).
 
 Still, it fell short of synthesis - ultimately, crypto people talked about crypto stuff, localists talked about the city and the bioregion, and how exactly the two touched stayed by the wayside. And that’s okay. But as we move forward with both [Local DAO Summer](https://x.com/EthForestDAO/status/1796998591976005695) and the [General Forum on Ethereum Localism](https://etherealforest.org/blog/2024-05-06-gfel-2024/), it feels like the time for us to offer a frame - still one among a plural many, please take this as a challenge - for the ETH Localism question.

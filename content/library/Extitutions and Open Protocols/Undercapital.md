@@ -1,14 +1,11 @@
 ---
 title: Undercapital
 draft: 
-tags:
-  - article
+tags: []
 author: Exeunt, Open Protocol Research Group
 date: 2024-09-10
 ---
-### **Undercapital**
-
-*By Exeunt and the Open Protocol Research Group*
+By Exeunt and the Open Protocol Research Group*
 
 
 *The following essay marks a significant expansion of both the open protocol strand of our research and the archival detour into what we have called “the protocol underground” that precedes it in this pamphlet. In it, we attempt to explain the behavior of the underground through the lens of the virtual, a philosophical concept for the real and materially embedded trace of potential that exists within or perhaps alongside the world of proper things. This trace is articulated in a polyphonic voice, laden with indeterminacy and subtlety. It resists mechanization. To perceive and generatively engage with it requires an atmosphere of nonviolence and open experimentation. For these reasons, it is anathema to institutions.* 

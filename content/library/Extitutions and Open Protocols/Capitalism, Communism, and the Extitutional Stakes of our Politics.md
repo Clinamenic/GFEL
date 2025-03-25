@@ -1,12 +1,10 @@
 ---
 title: Capitalism, Communism, and the Extitutional Stakes of our Politics
 draft: 
-tags:
-  - article
+tags: []
 date: 2025-03-09
 author: Exeunt
 ---
-
 ![](https://github.com/oovg/quartz/blob/v4/capitalismcommunism.png?raw=true)
 ### Capitalism, Communism, and the Extitutional Stakes of our Politics
 

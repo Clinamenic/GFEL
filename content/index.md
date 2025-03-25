@@ -57,7 +57,7 @@ Together, we're building a future where technology serves community needs and st
 
 ## Localism Resources
 
-- [[Ethereal Forest - What is Ethereum Localism? 2024]]
+- [[What is Ethereum Localism?]]
 - [[Local DAO Summer 2024]]
 - [[Ethereum Localism - Grounding the Future of Coordination]]
 

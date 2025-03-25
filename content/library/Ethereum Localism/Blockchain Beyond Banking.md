@@ -2,6 +2,8 @@
 author: Living Systems Flowspace
 subtitle: A New Coordination Infrastructure for Direct Action
 ---
+*By Living Systems Flowspace*
+
 _When most people hear "blockchain," they think cryptocurrency, NFTs, or speculative investments. But what if the most powerful application of this technology isn't financial at all? What if blockchain's true potential lies in helping us coordinate effective action on our most pressing challenges?_
 
 ## The Real Promise of Blockchain

@@ -2,7 +2,7 @@
 author: Living Systems Flowspace
 subtitle: Blockchain as Communication Infrastructure for Direct Action
 ---
-
+*By Living Systems Flowspace*
 ## 1. Introduction: The Coordination Problem
 
 The community hall buzzes with tension. Residents from across the watershed have gathered—farmers whose fields are increasingly parched, townspeople facing water restrictions, conservation advocates concerned about stream health, and Indigenous elders who've watched the water patterns change over generations. A local official stands at the front, explaining why the latest management plan has stalled.

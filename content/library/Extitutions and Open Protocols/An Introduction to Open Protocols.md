@@ -1,8 +1,7 @@
 ---
 title: An Introduction to Open Protocols
 draft: 
-tags:
-  - article
+tags: []
 date: 2024-04-23
 author: Open Protocol Research Group
 ---
