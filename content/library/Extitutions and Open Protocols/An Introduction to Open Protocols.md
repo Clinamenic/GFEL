@@ -4,6 +4,7 @@ draft:
 tags:
   - article
 date: 2024-04-23
+author: Open Protocol Research Group
 ---
 ### An Introduction to Open Protocols
 

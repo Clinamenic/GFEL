@@ -4,6 +4,7 @@ draft:
 tags:
   - article
 date: 2025-02-20
+author: Exeunt, Open Protocol Research Group
 ---
 
 ### Speculative P2P and the Urban Protocol Underground: An Update on the Open Protocol Research Group

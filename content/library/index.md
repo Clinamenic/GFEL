@@ -1,23 +1,27 @@
 ---
 title: Library
 ---
+Welcome to the Ethereum Localism Library - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
-Welcome to the Ethereum Localism Knowledge Garden - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
-
-[Ethereum Localism](https://www.ethereumlocalism.xyz/library/Ethereum-Localism/) 
+### [Ethereum Localism](https://www.ethereumlocalism.xyz/library/Ethereum-Localism/) 
 General content on the Ethereum Localism thesis.
 
-[Extitutions and Open Protocols](https://www.ethereumlocalism.xyz/library/Extitutions-and-Open-Protocols)
-Research and theory into how protocols operate beyond institutional enclosures.
+### [Extitutions and Open Protocols](https://www.ethereumlocalism.xyz/library/Extitutions-and-Open-Protocols)
+Research and theory into how both web and analogue protocols operate beyond institutional enclosures.
 
-[GFEL](https://www.ethereumlocalism.xyz/library/GFEL) 
+### [GFEL](https://www.ethereumlocalism.xyz/library/GFEL) 
 Documentation from past General Forums on Ethereum Localism.
 
-[Implementation Guides](https://www.ethereumlocalism.xyz/library/Implementation-Guides) 
-Detailed resources for how to implement Ethereum localist principles and toolkits.
+### [Implementation Guides](https://www.ethereumlocalism.xyz/library/Implementation-Guides) 
+Detailed resources for how to implement Ethereum Localist principles and toolkits.
 
-[Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
-Documentation from Local DAO Summer.
-## Contribute
+### [Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
+Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
-Have knowledge to share? We welcome contributions from the community. Contact us to learn how you can add your insights to our growing knowledge garden.
+### Contribute
+
+Have Ethereum Localist knowledge to share? This is the place. 
+
+Email us at etherealforest.eth@protonmail.com with your knowledge artifact and details including where you think the artifact belongs, your organizational affiliation, social media (farcaster and x). We may respond with some editorial comments, or we may post directly. 
+
+*Note: Detailed editorial standards are forthcoming.*

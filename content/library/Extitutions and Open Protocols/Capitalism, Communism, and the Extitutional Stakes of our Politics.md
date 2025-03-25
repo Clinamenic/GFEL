@@ -4,6 +4,7 @@ draft:
 tags:
   - article
 date: 2025-03-09
+author: Exeunt
 ---
 
 ![](https://github.com/oovg/quartz/blob/v4/capitalismcommunism.png?raw=true)

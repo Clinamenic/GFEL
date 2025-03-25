@@ -4,6 +4,7 @@ draft: false
 tags:
   - article
 date: 2021-01-18
+author: Jessy Kate Schingler, Primavera de Filippi
 ---
 ### An Introduction to Extitutional Theory
 
