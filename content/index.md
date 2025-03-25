@@ -20,9 +20,9 @@ Ethereum Localism is a movement that uses decentralized technology to strengthen
   </div>
   
   <div class="home-card">
-    <h3>Knowledge Garden</h3>
+    <h3>Library</h3>
     <p>Dive into articles, research, and theory about blockchain and community revitalization.</p>
-    <a href="/knowledge">Explore →</a>
+    <a href="/library">Explore →</a>
   </div>
   
   <div class="home-card">
