@@ -26,7 +26,7 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
           <div className="mr-4 flex">
           <a href="/" className="mr-6 flex items-center space-x-2">
           <img
-          src="/logo.png"
+          src="https://images.mirror-media.xyz/publication-images/z69owjWO53griImJbBG_k.png"
           alt="Ethereum Localism"
           style={{ height: "2.5rem", objectFit: "contain" }}
             /> 
