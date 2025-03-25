@@ -1,12 +1,12 @@
 ---
 title: Ethereum Localism
 ---
-
 Welcome to the Global Fellowship for Ethereum Localism (GFEL) digital garden. This space brings together knowledge, resources, and real-world initiatives that bridge blockchain technology with local community action.
 
+![[IMG_5172.png]]
 ## What is Ethereum Localism?
 
-Ethereum Localism is a movement that uses decentralized technology to strengthen local communities and economies. We believe that by combining the global reach of blockchain with the wisdom of local action, we can create more resilient, equitable, and vibrant places to live.
+Ethereum Localism is a movement that uses decentralized technology to strengthen local communities and economies. We believe that by combining the global coordination capacities of blockchain with the wisdom of local action, we can create more resilient, equitable, and vibrant places to live.
 
 [Learn more about Ethereum Localism →](/introduction)
 
@@ -40,7 +40,6 @@ Ethereum Localism is a movement that uses decentralized technology to strengthen
 
 ## Recent Additions
 
-- [Local DAO Summer 2024](/local-dao-summer-2024) - Our flagship program for launching community DAOs
 - [Blockchain Beyond Banking](/blockchain-beyond-banking) - Exploring non-financial applications of blockchain
 - [Implementation Guide: Chicken Coop Catalyst Project](/implementation-guide-chicken-coop-catalyst-project) - A step-by-step guide to a small but impactful community project
 
