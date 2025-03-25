@@ -1,0 +1,1 @@
+[Click here](https://pdxdao.xyz/localism/) to check out the audio documentation and slides from GFEL 1 on the PDX DAO website. 
