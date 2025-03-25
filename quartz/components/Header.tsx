@@ -31,7 +31,7 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
             boxShadow: "0 1px 4px rgba(0, 0, 0, 0.2)",
         }}
 >
-        <div className="container flex h-14 items-center">
+        <div className="flex h-14 items-center w-full max-w-screen-xl mx-auto px-4">
           <div className="mr-4 flex">
           <a href="/" className="mr-6 flex items-center space-x-2">
           <img
