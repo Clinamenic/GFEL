@@ -1,7 +1,6 @@
 ---
 title: Ethereum Localism
 ---
-![Test Logo](https://raw.githubusercontent.com/Clinamenic/GFEL/main/logo.png)
 Welcome to the Global Fellowship for Ethereum Localism (GFEL) digital garden. This space brings together knowledge, resources, and real-world initiatives that bridge blockchain technology with local community action.
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
