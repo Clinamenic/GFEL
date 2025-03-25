@@ -79,6 +79,7 @@ Together, we're building a future where technology serves community needs and st
 #### Commons Economy
 - [Commons Economy Roadmap](https://www.commonseconomy.org/?v=28e89012f4b0491383940ca7ba568403)
 - [Ostrom's Eight Principles for Successful Commons](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)
+- [Commons-Based Peer Production](https://wiki.p2pfoundation.net/Commons-Based_Peer_Production)
 #### Cosmolocal Governance
 - [Open Civics](https://www.opencivics.co)
 - [Metagov](https://metagov.org)
