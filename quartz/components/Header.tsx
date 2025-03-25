@@ -21,7 +21,7 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
   // This inner function is what gets called during rendering
   function HeaderComponent(props: QuartzComponentProps) {
     return (
-      <<header>
+      <header>
       <div className="container flex h-14 items-center">
         <div className="mr-4 flex">
         <a href="/" className="mr-6 flex items-center space-x-2">
