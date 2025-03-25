@@ -20,9 +20,9 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 ## [Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
+## Contribute
 
 ![](https://github.com/Clinamenic/GFEL/blob/main/lovewall.jpeg?raw=true)
-## Contribute
 
 Have Ethereum Localist knowledge to share? This is the place. 
 
