@@ -1,5 +1,5 @@
 ---
-title: Knowledge Garden
+title: Library
 ---
 
 Welcome to the Ethereum Localism Knowledge Garden - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
