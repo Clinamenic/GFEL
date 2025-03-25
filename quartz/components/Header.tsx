@@ -21,55 +21,36 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
   // This inner function is what gets called during rendering
   function HeaderComponent(props: QuartzComponentProps) {
     return (
-      <header
-      className="!bg-[#1c1c1e] !text-white"
-      style={{
-        backgroundColor: "#1c1c1e",
-        color: "white",
-        position: "sticky",
-        top: 0,
-        zIndex: 50,
-        width: "100%",
-        left: 0,
-        right: 0,
-      }}
-    >
-        <div className="container flex h-14 items-center">
-          <div className="mr-4 flex">
-          <a href="/" className="mr-6 flex items-center space-x-2">
-          <img
-            src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
-               className="block dark:hidden"
-                alt="Ethereum Localism"
-                 style={{ height: "2.5rem", objectFit: "contain" }} 
-            />
-          <img
-            src="https://images.mirror-media.xyz/publication-images/idBOsHMAnpRiSBjru_UVi.png"
-               className="hidden dark:block"
-               alt="Ethereum Localism"
-                style={{ height: "2.5rem", objectFit: "contain" }}
-            /> 
-          </a>
-          </div>
-          <div className="flex flex-1 items-center justify-end space-x-2">
-            {/* Children (Darkmode, Search) are rendered here */}
-            <div className="header-actions">
-              {props.children}
-            </div>
-            
-            <button
-              id="mobile-menu-button"
-              aria-label="Toggle menu"
-              className="mobile-nav-trigger"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="3" y1="12" x2="21" y2="12"></line>
-                <line x1="3" y1="6" x2="21" y2="6"></line>
-                <line x1="3" y1="18" x2="21" y2="18"></line>
-              </svg>
-            </button>
-          </div>
+      <<header>
+      <div className="container flex h-14 items-center">
+        <div className="mr-4 flex">
+        <a href="/" className="mr-6 flex items-center space-x-2">
+        <img
+        src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
+        alt="Ethereum Localism"
+        style={{ height: "2.5rem", objectFit: "contain" }}
+          /> 
+        </a>
         </div>
+        <div className="flex flex-1 items-center justify-end space-x-2">
+          {/* Children (Darkmode, Search) are rendered here */}
+          <div className="header-actions">
+            {props.children}
+          </div>
+          
+          <button
+            id="mobile-menu-button"
+            aria-label="Toggle menu"
+            className="mobile-nav-trigger"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+      </div>
 
         {/* Navigation menu */}
         <div id="nav-menu" className="nav-menu">
