@@ -28,7 +28,7 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
         <img
         src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
         alt="Ethereum Localism"
-        style={{ height: "2.5rem", objectFit: "contain" }}
+        style={{ height: "3.5rem", objectFit: "contain" }}
           /> 
         </a>
         </div>
