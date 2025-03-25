@@ -38,9 +38,16 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
           <div className="mr-4 flex">
           <a href="/" className="mr-6 flex items-center space-x-2">
           <img
-          src="https://images.mirror-media.xyz/publication-images/z69owjWO53griImJbBG_k.png"
-          alt="Ethereum Localism"
-          style={{ height: "2.5rem", objectFit: "contain" }}
+            src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
+               className="block dark:hidden"
+                alt="Ethereum Localism"
+                 style={{ height: "2.5rem", objectFit: "contain" }} 
+            />
+          <img
+            src="https://images.mirror-media.xyz/publication-images/idBOsHMAnpRiSBjru_UVi.png"
+               className="hidden dark:block"
+               alt="Ethereum Localism"
+                style={{ height: "2.5rem", objectFit: "contain" }}
             /> 
           </a>
           </div>
