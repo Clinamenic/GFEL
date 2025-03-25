@@ -1,24 +1,28 @@
 ---
 title: Library
 ---
-Welcome to the Ethereum Localism Library - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
+Welcome to the **Ethereum Localism Library** - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
-### [Ethereum Localism](https://www.ethereumlocalism.xyz/library/Ethereum-Localism/) 
+![](https://github.com/Clinamenic/GFEL/blob/main/IMG_5172.png?raw=true)
+
+## [Ethereum Localism](https://www.ethereumlocalism.xyz/library/Ethereum-Localism/) 
 General content on the Ethereum Localism thesis.
 
-### [Extitutions and Open Protocols](https://www.ethereumlocalism.xyz/library/Extitutions-and-Open-Protocols)
+## [Extitutions and Open Protocols](https://www.ethereumlocalism.xyz/library/Extitutions-and-Open-Protocols)
 Research and theory into how both web and analogue protocols operate beyond institutional enclosures.
 
-### [GFEL](https://www.ethereumlocalism.xyz/library/GFEL) 
+## [GFEL](https://www.ethereumlocalism.xyz/library/GFEL) 
 Documentation from past General Forums on Ethereum Localism.
 
-### [Implementation Guides](https://www.ethereumlocalism.xyz/library/Implementation-Guides) 
+## [Implementation Guides](https://www.ethereumlocalism.xyz/library/Implementation-Guides) 
 Detailed resources for how to implement Ethereum Localist principles and toolkits.
 
-### [Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
+## [Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
-### Contribute
+
+![](https://github.com/Clinamenic/GFEL/blob/main/lovewall.jpeg?raw=true)
+## Contribute
 
 Have Ethereum Localist knowledge to share? This is the place. 
 
