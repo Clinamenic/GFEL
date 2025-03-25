@@ -4,37 +4,15 @@ title: Library
 
 Welcome to the Ethereum Localism Knowledge Garden - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
-## Explore the Garden
+[Ethereum Localism](https://www.ethereumlocalism.xyz/library/Ethereum-Localism/)
 
-Our knowledge garden is organized to help you find the information you need, whether you're new to the concepts or looking to deepen your expertise:
+[Extitutions and Open Protocols](https://www.ethereumlocalism.xyz/library/Extitutions-and-Open-Protocols)
 
-### Core Concepts
+[GFEL](https://www.ethereumlocalism.xyz/library/GFEL)
 
-- **Ethereum Basics**: Understanding the technology that powers our movement
-- **Localism Principles**: Core ideas behind community autonomy and resilience
-- **Regenerative Economics**: Moving beyond extractive systems
-- **DAO Governance**: Decentralized models for community decision-making
+[Implementation Guides](https://www.ethereumlocalism.xyz/library/Implementation-Guides)
 
-### Practical Resources
-
-- **Case Studies**: Real-world examples of Ethereum Localism in action
-- **Implementation Guides**: Step-by-step instructions for launching projects
-- **Design Patterns**: Proven approaches to common challenges
-- **Technical Tutorials**: Hands-on guidance for building with Web3 tools
-
-### Research & Theory
-
-- **Academic Papers**: Scholarly research on decentralization and community systems
-- **White Papers**: In-depth explorations of key concepts
-- **Thought Leadership**: Essays from leading voices in the space
-
-## Latest Additions
-
-Check back often as our knowledge garden is constantly growing with new contributions from the community. Some of our recent additions include:
-
-- [Blockchain Beyond Banking](/blockchain-beyond-banking)
-- [Beyond Financial Instruments](/beyond-financial-instruments)
-- [Implementation Guide: Chicken Coop Catalyst Project](/implementation-guide-chicken-coop-catalyst-project)
+[Local DAO Summer](https://www.ethereumlocalism.xyz/library/Local-DAO-Summer)
 
 ## Contribute
 
