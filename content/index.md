@@ -73,7 +73,28 @@ Together, we're building a future where technology serves community needs and st
 
 ## External Resources
 
-- [[Blockchain 101 Q&As]]
+#### Ethereum
+- [Learn About Ethereum](https://ethereum.org/en/learn/)
+
+#### Commons Economy
+- [Commons Economy Roadmap](https://www.commonseconomy.org/?v=28e89012f4b0491383940ca7ba568403)
+- [Ostrom's Eight Principles for Successful Commons](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)
+#### Cosmolocal Governance
+- [Open Civics](https://www.opencivics.co)
+- [Metagov](https://metagov.org)
+- [DAOHaus](https://daohaus.club)
+- [Gardens.fund](https://www.gardens.fund)
+- [Neighborhoods](https://neighbourhoods.network)
+- [Community Rule](https://communityrule.info) 
+#### Regeneration
+- [Regen Foundation](https://regen.foundation)
+- [Regen Commons](https://regencommons.com)
+- [Feral Computing](http://feral.earth)
+- [Eight Forms of Capital](https://wiki.p2pfoundation.net/Eight_Forms_of_Capital)
+#### Participatory Funding
+- [Easy Retro PGF](https://easyretropgf.xyz)
+- [Gitcoin Grants](https://grants.gitcoin.co)
+- [Allo IRL](https://irl.allo.capital)
 
 <div class="dashboard-tiles">
   <div class="project-tile" data-entry-id="00011"></div>
