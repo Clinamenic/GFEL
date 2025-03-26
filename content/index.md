@@ -1,5 +1,5 @@
 ---
-title: Welcome to GFEL
+title: GM
 ---
 Welcome to the Ethereum Localism digital garden. This space brings together knowledge, resources, and real-world initiatives that bridge blockchain technology with local community action.
 
