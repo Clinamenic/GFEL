@@ -1,5 +1,5 @@
 ---
-title:
+title: Ethereum Localism
 ---
 ## Connecting Ethereum's global technologies with local community action to support regenerative systems and more vibrant local economies.
 

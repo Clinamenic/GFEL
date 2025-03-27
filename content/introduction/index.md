@@ -1,5 +1,5 @@
 ---
-title:
+title: Introduction to Ethereum Localism
 ---
 ## Exploring the intersections of blockchain innovation with community-driven local action
 
