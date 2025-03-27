@@ -28,6 +28,8 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   </div>
 </div>
 
+![https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
+
 ## Join the Movement
 
 **Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
@@ -37,8 +39,6 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 - **'<Contribute'> your knowledge and experiences to our digital garden** 
 
 **Together, we're building a future where technology serves community needs and fosters local resilience while remaining connected to global networks of innovation and support.**
-
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
 
 ---
 ## Keep Reading
