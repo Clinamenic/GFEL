@@ -23,7 +23,7 @@ This kit is modular by design - you can use the parts that make sense for your c
   <div class="home-card">
     <h3>Start a Regen Hub</h3>
     <p>Initiate a space for your community to come together</p>
-    <a href="/initiatives">Explore →</a>
+    <a href="/library/Implementation-Guides/Regen-Hub-Playbook">Explore →</a>
   </div>
 </div>
 
