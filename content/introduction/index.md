@@ -26,7 +26,7 @@ Our mission is to steward a global network of locally-rooted initiatives that de
 ![](https://github.com/Clinamenic/GFEL/blob/main/goat.jpeg?raw=true)
 ## Join the Movement
 
-**Join the growing community of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
+**Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
 
 - **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
 - **'<Connect'> with others working on similar projects in your region**

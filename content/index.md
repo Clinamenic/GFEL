@@ -1,13 +1,9 @@
 ---
 title: Ethereum Localism
 ---
-## Connecting Ethereum's global technologies with local community action to support regenerative systems and more vibrant local economies.
+**Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies.**
 
-**tl;dr** Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies.
-
-[Learn more about Ethereum Localism →](/introduction)
-
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
+[An Introduction to Ethereum Localism →](/introduction)
 
 ## Explore Our Digital Knowledge Garden
 
@@ -26,12 +22,6 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   </div>
   
   <div class="home-card">
-    <h3>Initiatives</h3>
-    <p>Discover real-world projects happening in communities across the globe.</p>
-    <a href="/initiatives">Explore →</a>
-  </div>
-  
-  <div class="home-card">
     <h3>Resources</h3>
     <p>Access tools, templates, and connections to support your local efforts.</p>
     <a href="/resources">Explore →</a>
@@ -40,13 +30,15 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 
 ## Join the Movement
 
-**Join the growing community of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
+**Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
 
 - **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
 - **'<Connect'> with others working on similar projects in your region**
 - **'<Contribute'> your knowledge and experiences to our digital garden** 
 
 **Together, we're building a future where technology serves community needs and fosters local resilience while remaining connected to global networks of innovation and support.**
+
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
 
 ---
 ## Keep Reading
