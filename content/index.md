@@ -1,17 +1,19 @@
 ---
-title: GM
+title:
 ---
-Welcome to the Ethereum Localism digital garden. This space brings together knowledge, resources, and real-world initiatives that bridge blockchain technology with local community action.
+# Ethereum Localism
 
-![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
-## What is Ethereum Localism?
+## Connecting Ethereum's global technologies with local community action to support regenerative systems and more vibrant local economies.
 
-Ethereum Localism is a movement that uses decentralized technology to strengthen local communities and economies. We believe that by combining the global coordination capacities of blockchain with the wisdom of local action, we can create more resilient, equitable, and vibrant places to live.
+**tl;dr** Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling new, sustainable local economies powered by blockchain and peer to peer technologies.
 
 [Learn more about Ethereum Localism →](/introduction)
 
-## Explore Our Digital Garden
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
 
+## Explore Our Digital Knowledge Garden
+
+Interconnected collection of ideas, concepts, and resources on Ethereum Localism. The Knowledge Garden grows through community contributions and provides a rich, networked understanding of the movement.
 <div class="home-grid">
   <div class="home-card">
     <h3>Introduction</h3>
