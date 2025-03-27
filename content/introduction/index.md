@@ -30,7 +30,7 @@ Our mission is to steward a global network of locally-rooted initiatives that de
 
 - **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
 - **'<Connect'> with others working on similar projects in your region**
-- **'<Contribute'> your knowledge and experiences to our digital garden** 
+- **'<Contribute'> your knowledge and experiences to the knowledge garden** 
 
 **Together, we're building a future where technology serves community needs and fosters local resilience while remaining connected to global networks of innovation and support.**
 

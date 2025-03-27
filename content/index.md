@@ -23,10 +23,12 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   
   <div class="home-card">
     <h3>Resources</h3>
-    <p>Access tools, templates, and connections to support your local efforts.</p>
+    <p>Access tools, templates, and connections to support your localism efforts.</p>
     <a href="/resources">Explore →</a>
   </div>
 </div>
+
+---
 
 ![https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
 
@@ -36,7 +38,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 
 - **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
 - **'<Connect'> with others working on similar projects in your region**
-- **'<Contribute'> your knowledge and experiences to our digital garden** 
+- **'<Contribute'> your knowledge and experiences to the knowledge garden** 
 
 **Together, we're building a future where technology serves community needs and fosters local resilience while remaining connected to global networks of innovation and support.**
 

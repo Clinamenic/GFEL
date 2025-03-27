@@ -7,6 +7,10 @@ Explore our curated collection of resources to help you learn about, implement, 
 ## Ethereum
 - [Learn About Ethereum](https://ethereum.org/en/learn/) – A beginner-friendly guide to understanding Ethereum and how it works.
 
+## Ethereum Localism Playbooks
+- [Ethereum Localism Action Kit](/introduction/action-kit) - Practical tools, templates, and guidance to start creating local impact.
+- [Local Regen Guide #1](https://greenpill.network/pdf/local-regen-guide.pdf) – by greenpill.network. A practical handbook that empowers local communities to create regenerative systems through open-source collaboration and Web3 tools.
+
 ## Regenerative Finance & Commons Economy
 - [Regen Foundation](https://regen.foundation) – Supports ecological regeneration through Web3 tools and community-led initiatives.  
 - [Regen Commons](https://regencommons.com) – A digital space fostering collaboration for regenerative finance and land stewardship.  
