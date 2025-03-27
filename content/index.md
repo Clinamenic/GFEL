@@ -28,7 +28,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   </div>
 </div>
 
-![](graphic-KnowledgeGarden-FINAL.jpg)
+![](assets/graphic-KnowledgeGarden-FINAL.jpg)
 ## Ethereum Localism Action Kit
 
 Ready to grow the movement in your community? Our Action Kit provides tools to help you get started creating local impact, powered by Ethereum.
