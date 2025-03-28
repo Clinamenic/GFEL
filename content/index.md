@@ -42,7 +42,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 ## Keep Reading
 
 **Ethereum Localism: Grounding the Future of Coordination**
-Collated by The Open Machine (February 2024)
+Collated by The Open Machine (February 2025)
 
 Download the book PDF [here](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ), and claim a free NFT version on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
 
