@@ -1,22 +1,17 @@
 ---
 title: Ethereum Localism
 ---
-**Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies. Tools like onchain governance, quadratic funding, local stablecoins, and decentralized finance create tangible impacts and expand Ethereum’s utility beyond digital spaces.**
+**Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies. Onchain tools like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.**
 
+[An Introduction to Ethereum Localism →](/introduction)
 ## Explore Our Digital Knowledge Garden
 
 An interconnected collection of ideas, concepts, and resources on Ethereum Localism. The Knowledge Garden grows through community contributions and provides a rich, networked understanding of the movement.
 <div class="home-grid">
   <div class="home-card">
-    <h3>Introduction</h3>
-    <p>Understand the principles, vision, and potential of Ethereum Localism.</p>
-    <a href="/introduction">Introduction to Ethereum Localism →</a>
-  </div>
-  
-  <div class="home-card">
     <h3>Library</h3>
     <p>Dive into articles, research, and theory about blockchain and community revitalization.</p>
-    <a href="/library">Explore →</a>
+    <a href="/library">Learn →</a>
   </div>
   
   <div class="home-card">
@@ -24,28 +19,24 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
     <p>Access tools, templates, and connections to support your localism efforts.</p>
     <a href="/resources">Explore →</a>
   </div>
+
+  <div class="home-card">
+    <h3>Action Kit</h3>
+    <p>Get started creating local impact, powered by Ethereum.</p>
+    <a href="/introduction/action-kit">Take Action →</a>
+  </div>
 </div>
 
 ![](assets/graphic-KnowledgeGarden-FINAL.jpg)
-## Ethereum Localism Action Kit
-
-Ready to grow the movement in your community? Our Action Kit provides tools to help you get started creating local impact, powered by Ethereum.
-
-[Action Kit →](/introduction/action-kit)
-
----
-
-![https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049c8f4a-f479-40db-aa17-aaebaf3b2d4e_1280x960.heic)
-
 ## Join the Movement
 
-**Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
+Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.
 
-- **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
-- **'<Connect'> with others working on similar projects in your region**
+- **'<Connect'> with others working on similar projects
+- **Start with our [Action Kit](/introduction/action-kit) for practical first steps
 - **'<Contribute'> your knowledge and experiences to the knowledge garden** 
 
-**Together, we're building a future where technology serves community needs and fosters local resilience while remaining connected to global networks of innovation and support.**
+![](assets/gfel-bouldercircle.jpg)
 
 ---
 ## Keep Reading
@@ -55,4 +46,4 @@ Collated by The Open Machine (February 2024)
 
 Download the book PDF [here](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ), and claim a free NFT version on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
 
-![](https://github.com/Clinamenic/GFEL/blob/main/ELbookcover.png?raw=true)
+![](assets/ELbookcover.png)
