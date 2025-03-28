@@ -1,9 +1,7 @@
 ---
 title: Ethereum Localism
 ---
-**Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies.**
-
-[An Introduction to Ethereum Localism →](/introduction)
+**Ethereum Localism bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer to peer technologies. Tools like onchain governance, quadratic funding, local stablecoins, and decentralized finance create tangible impacts and expand Ethereum’s utility beyond digital spaces.**
 
 ## Explore Our Digital Knowledge Garden
 
@@ -12,7 +10,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   <div class="home-card">
     <h3>Introduction</h3>
     <p>Understand the principles, vision, and potential of Ethereum Localism.</p>
-    <a href="/introduction">Explore →</a>
+    <a href="/introduction">Introduction to Ethereum Localism →</a>
   </div>
   
   <div class="home-card">
