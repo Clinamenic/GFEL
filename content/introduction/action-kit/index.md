@@ -11,7 +11,7 @@ This kit is modular by design - you can use the parts that make sense for your c
   <div class="home-card">
     <h3>Host an Eth Localism Event</h3>
     <p>Resources for hosting local gatherings</p>
-    <a href="/introduction">Explore →</a>
+    <a href="/introduction/action-kit/host-an-event">Explore →</a>
   </div>
   
   <div class="home-card">
