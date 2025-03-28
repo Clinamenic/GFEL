@@ -28,12 +28,12 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 </div>
 
 ![](assets/graphic-KnowledgeGarden-FINAL.jpg)
-## Join the Movement
+## Get Involved
 
-Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.
+**Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
 
-- **'<Connect'> with others working on similar projects
-- **Start with our [Action Kit](/introduction/action-kit) for practical first steps
+- **'<Connect'> with others working on similar projects**
+- **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
 - **'<Contribute'> your knowledge and experiences to the knowledge garden** 
 
 ![](assets/gfel-bouldercircle.jpg)
