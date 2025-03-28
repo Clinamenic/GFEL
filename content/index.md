@@ -16,7 +16,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   
   <div class="home-card">
     <h3>Resources</h3>
-    <p>Tools, templates, and connections to support your localism efforts.</p>
+    <p>Tools, templates, and community to support your localism work.</p>
     <a href="/resources">Explore →</a>
   </div>
 
