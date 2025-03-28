@@ -11,6 +11,6 @@ Whether you’re drawn to convening a cozy discussion circle, starting a local F
 
 ---
 
-- [Recipes: Fun DAO](/library/Implementation-guides/Fun-DAO) 
+- [Recipes: Fun DAO](/library/Implementation-Guides/Fun-DAO) 
 - [Recipes: Cosmolocal Convening](/library/Implementation-Guides/Cosmolocal-Convening) 
 - Planning Guide: General Forum on Ethereum Localism

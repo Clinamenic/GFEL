@@ -12,10 +12,10 @@ Fun DAO:
 – Provides a place for community members to get to know each other, and potentially brainstorm other projects and workgroups that might eventually animate a diverse local DAO ecosystem.
 
 ### Ingredients
-– A local group of web3 enthusiasts interested in active participation in an ongoing hands-on learning experiment.
-– A DAOHaus DAO for onchain membership. You may not have a treasury to start (or ever?).
-– A DAO Telegram channel, or any effective communications/coordination channel.
-– Optional: Implement Hats-hats.xyz for DAO member role attribution and administration. FUN!
+- A local group of web3 enthusiasts interested in active participation in an ongoing hands-on learning experiment.
+- A DAOHaus DAO for onchain membership. You may not have a treasury to start (or ever?).
+- A DAO Telegram channel, or any effective communications/coordination channel.
+- Optional: Implement Hats ([hatsprotocol.xyz](https://www.hatsprotocol.xyz)) for DAO member role attribution and administration. FUN!
 
 ### Instructions
 1. Every month the DAO will decide on a local group outing. The outing could be just for fun - a sports game or a park barbeque - or it could be purpose driven, like a community garden
