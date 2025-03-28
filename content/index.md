@@ -10,20 +10,20 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
 <div class="home-grid">
   <div class="home-card">
     <h3>Library</h3>
-    <p>Dive into articles, research, and theory about blockchain and community revitalization.</p>
+    <p>Curated collection of resources foundational to the movement.</p>
     <a href="/library">Learn →</a>
   </div>
   
   <div class="home-card">
     <h3>Resources</h3>
-    <p>Access tools, templates, and connections to support your localism efforts.</p>
+    <p>Tools, templates, and connections to support your localism efforts.</p>
     <a href="/resources">Explore →</a>
   </div>
 
   <div class="home-card">
     <h3>Action Kit</h3>
     <p>Get started creating local impact, powered by Ethereum.</p>
-    <a href="/introduction/action-kit">Take Action →</a>
+    <a href="/introduction/action-kit">Act →</a>
   </div>
 </div>
 
