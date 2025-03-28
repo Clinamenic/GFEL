@@ -7,10 +7,10 @@ Whether you’re drawn to convening a cozy discussion circle, starting a local F
 
 **Start where you are, with what you have, and who you know.** We’ve assembled some tools and templates below to help spark and support your process—but there’s no one-size-fits-all. The real magic happens when people remix and adapt in ways that feel alive and relevant in their local contexts.
 
+![](assets/imagination-circle.jpeg)
+
 ---
 
-[Recipes: Fun DAO](/library/Implementation-guides/Fun-DAO) 
-
-[Recipes: Cosmolocal Convening](/library/Implementation-Guides/Cosmolocal Convening) 
-
-Planning Guide: General Forum on Ethereum Localism
+- [Recipes: Fun DAO](/library/Implementation-guides/Fun-DAO) 
+- [Recipes: Cosmolocal Convening](/library/Implementation-Guides/Cosmolocal-Convening) 
+- Planning Guide: General Forum on Ethereum Localism
