@@ -49,6 +49,7 @@ Movements grow through relationships. Ethereum Localism is part of a larger, int
 
 Explore these communities to find kinship, inspiration, and invitations to collaborate.
 
+- [greenpill.network](https://greenpill.network) – A network-society working to export regenerative digital infrastructure to the world through the lens of the green pill meme.
 - [Regens Unite](https://www.regensunite.earth/) – A convergence of creators, technologists, and community weavers organizing immersive gatherings around regeneration, coordination, and trust.
 - [Crypto Commons Association](https://www.crypto-commons.org/) – A think/do tank in the Austrian Alps cultivating research, residency, and retreat spaces for crypto-commons, post-capitalist tech, and open knowledge infrastructures.
 
