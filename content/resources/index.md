@@ -1,7 +1,6 @@
 ---
 title: Resources
 ---
-
 Explore our curated collection of resources to help you learn about, implement, and advocate for Ethereum Localism in your community.
 
 ## Ethereum
@@ -14,6 +13,7 @@ Ethereum is more than a blockchain—it’s a substrate for shared imagination, 
 Ethereum Localism is not a doctrine—it’s a living design space. These playbooks offer practical entry points for organizing locally using Web3 tools and cosmo-local principles. From starting a Fun DAO to hosting a GFEL, you’ll find scaffolding to help translate shared values into situated action.
 
 - [Ethereum Localism Action Kit](/introduction/action-kit) - Practical tools, templates, and guidance to start creating local impact.
+- [Ethereum Localism Implementation Guides](/library/Implementation-Guides)
 - [Local Regen Guide #1](https://greenpill.network/pdf/local-regen-guide.pdf) – by greenpill.network. A practical handbook that empowers local communities to create regenerative systems through open-source collaboration and Web3 tools.
 
 ## Regenerative Finance & Commons Economy
