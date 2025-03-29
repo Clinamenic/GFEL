@@ -1,4 +1,5 @@
 **The Inverted City: A Journal of Ethereum Localism**
+*The Open Machine (February 2024)*
 
 ![](assets/invertedcity.jpg)
 
