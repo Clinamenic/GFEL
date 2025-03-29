@@ -5,3 +5,5 @@ Resources for GFEL alum who are interested in bringing the General Forum on Ethe
 
 Resources:
 [Ethereum Localism Library > GFEL](library/GFEL)
+
+![](assets/gfel24-panel.jpeg)
