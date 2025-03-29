@@ -8,6 +8,7 @@ Explore our curated collection of resources to help you learn about, implement, 
 Ethereum is more than a blockchain—it’s a substrate for shared imagination, coordination, and experimentation. This section offers foundational pieces on what Ethereum is, how it works, and why it might matter to communities seeking autonomy, cooperation, and regenerative alternatives to extractive systems.
 
 - [Learn About Ethereum](https://ethereum.org/en/learn/) – A beginner-friendly guide to understanding Ethereum and how it works.
+- [Introduction to Ethereum Localism](/introduction)
 
 ## Ethereum Localism Playbooks
 Ethereum Localism is not a doctrine—it’s a living design space. These playbooks offer practical entry points for organizing locally using Web3 tools and cosmo-local principles. From starting a Fun DAO to hosting a GFEL, you’ll find scaffolding to help translate shared values into situated action.
