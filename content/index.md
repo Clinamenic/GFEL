@@ -35,13 +35,13 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   <div class="home-card">
     <h3>Connect</h3>
     <p>Join the conversation in our Telegram chat.</p>
-    <a href="/resources">Connect →</a>
+    <a href="/resources">Connect on Telegram →</a>
   </div>
 
   <div class="home-card">
     <h3>Contribute</h3>
-    <p>Add your experience and expertise to our Garden.</p>
-    <a href="/introduction">Contribute →</a>
+    <p>Add your experience and expertise to our Knowledge Garden.</p>
+    <a href="/introduction">Contribution Guide →</a>
   </div>
 </div>
 
