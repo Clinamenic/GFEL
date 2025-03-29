@@ -47,17 +47,12 @@ Blockchain-based systems coordinate local manufacturing, track provenance of loc
 - Supply chain transparency
 ## Challenges and Considerations
 
-**Technical Barriers**: Blockchain technology remains complex and inaccessible to many people, requiring thoughtful onboarding and user experience design.
-
-**Regulatory Uncertainty**: The legal and regulatory landscape for blockchain-based community systems is still evolving.
-
-**Digital Divide**: Access to technology and digital literacy varies widely within and between communities.
-
-**Infrastructure Resilience**: Ensuring decentralized networks remain functional in low-connectivity environments is crucial for widespread adoption.
-
-**Balancing Local and Global**: Finding the right balance between local autonomy and global interoperability is an ongoing challenge.
-
-**Market Volatility**: Price instability can impact funding, payments, and the reliability of blockchain-based financial tools.
+- **Technical Barriers**: Blockchain technology remains complex and inaccessible to many people, requiring thoughtful onboarding and user experience design.
+- **Regulatory Uncertainty**: The legal and regulatory landscape for blockchain-based community systems is still evolving.
+- **Digital Divide**: Access to technology and digital literacy varies widely within and between communities.
+- **Infrastructure Resilience**: Ensuring decentralized networks remain functional in low-connectivity environments is crucial for widespread adoption.
+- **Balancing Local and Global**: Finding the right balance between local autonomy and global interoperability is an ongoing challenge.
+- **Market Volatility**: Price instability can impact funding, payments, and the reliability of blockchain-based financial tools.
 ## Our Mission
 
 Our mission is to steward a global network of locally-rooted initiatives that demonstrate how blockchain technology can enhance community resilience, regenerative practices, and participatory governance.
