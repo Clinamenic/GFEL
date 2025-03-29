@@ -2,6 +2,8 @@
 title: "Recipes: Cosmolocal Convening"
 author: christypdx
 ---
+*by christypdx*
+
 Bringing together a regional and global consortium of passionate individuals who are working, individually and together, in pursuit of a shared vision can and very likely will be generative in both planned and unexpected ways.
 
 ### Ingredients

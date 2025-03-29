@@ -1,6 +1,6 @@
 ## We Got Us: A Regen Hub Playbook
 
-*Benjamin Life and Kevin Owocki*
+*by Benjamin Life and Kevin Owocki*
 
 ## Civic Utilities and Commons Architectures
 

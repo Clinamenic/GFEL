@@ -13,4 +13,7 @@ Whether you’re drawn to convening a cozy discussion circle, starting a local F
 
 - [Recipes: Fun DAO](/library/Implementation-Guides/Fun-DAO) 
 - [Recipes: Cosmolocal Convening](/library/Implementation-Guides/Cosmolocal-Convening) 
-- Planning Guide: General Forum on Ethereum Localism
+
+- [Lessons Learned from the Boulder Blockchain Meetup](library/Implementation-Guides/Lessons-Learned-from-the-Boulder-Blockchain-Meetup)
+
+- [Hosting a GFEL (General Forum on Ethereum Localism)](library/Implementation-Guides/Hosting-a-GFEL)

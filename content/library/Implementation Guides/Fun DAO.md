@@ -3,6 +3,8 @@ title: "Recipes: Fun DAO"
 subtitle: an Onboarding DAO for the People
 author: christypdx
 ---
+*by christypdx*
+
 Fun DAO provides IRL community members with the opportunity to join a low barrier to entry, low overhead DAO for the purposes of playing with novel coordination tools and governance mechanisms, while growing and strengthening the local web3 network in the process! This project is not meant to take significant time or energy from its members, but be a casual gathering and an opportunity to experiment with a new interface on occasion. The primary goal of Fun DAO is to decentrally facilitate and have FUN!
 
 Fun DAO:
