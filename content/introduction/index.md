@@ -68,9 +68,24 @@ Our mission is to steward a global network of locally-rooted initiatives that de
 ## Join the Movement
 
 **Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
+<div class="home-grid">
+  <div class="home-card">
+    <h3>Connect</h3>
+    <p>Join the conversation in our Telegram chat.</p>
+    <a href="/resources">Connect →</a>
+  </div>
 
-- **'<Connect'> with others working on similar projects**
-- **Start with our [Action Kit](/introduction/action-kit) for practical first steps**
-- **'<Contribute'> your knowledge and experiences to the knowledge garden** 
+  <div class="home-card">
+    <h3>Contribute</h3>
+    <p>Add your experience and expertise to our Garden.</p>
+    <a href="/introduction">Contribute →</a>
+  </div>
+  
+  <div class="home-card">
+    <h3>Action Kit</h3>
+    <p>Get started creating local impact, powered by Ethereum.</p>
+    <a href="/introduction/action-kit">Act →</a>
+  </div>
+</div>
 
 
