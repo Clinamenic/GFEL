@@ -1,7 +1,7 @@
 ---
 title: Introduction to Ethereum Localism
 ---
-![](assets/whatisethereum.jpeg)
+![](assets/whatisethereum.png)
 
 ## What is Ethereum Localism?
 
