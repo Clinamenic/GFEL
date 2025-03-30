@@ -81,6 +81,12 @@ Our mission is to steward a global network of locally-rooted initiatives that de
     <p>Get started creating local impact, powered by Ethereum.</p>
     <a href="/introduction/action-kit">Take Action →</a>
   </div>
+    
+  <div class="home-card">
+    <h3>Resources</h3>
+    <p>Tools, templates, and community to support your localism work.</p>
+    <a href="/resources">Explore →</a>
+  </div>
 </div>
 
 

@@ -55,4 +55,37 @@ Explore these communities to find kinship, inspiration, and invitations to colla
 
 
 ---
-Have a resource in mind that resonates with the spirit of Ethereum Localism? We’d love to hear about it. This list is alive and evolving—'<drop us a note in the Telegram channel'> to suggest a community, network, or initiative that should be woven into the web.
+
+**This list is alive and evolving—register your initiative to be added!**
+
+[Ethereum Localism Initiative & Community Registry →]() (coming soon...)
+
+Have a resource in mind that resonates with the spirit of Ethereum Localism? We’d love to hear about it. '<drop us a note in the Telegram channel'> to suggest a community, network, or initiative that should be woven into the web.
+
+
+---
+<div class="home-grid">
+	<div class="home-card">
+    <h3>Connect</h3>
+    <p>Join the conversation in our Telegram chat.</p>
+    <a href="/resources">Connect on Telegram →</a>
+  </div>
+
+  <div class="home-card">
+    <h3>Contribute</h3>
+    <p>Add your experience and expertise to our Knowledge Garden.</p>
+    <a href="/introduction">Contribution Guide →</a>
+  </div>
+  
+  <div class="home-card">
+    <h3>Library</h3>
+    <p>Curated collection of resources foundational to the movement.</p>
+    <a href="/library">Learn →</a>
+  </div>
+  
+  <div class="home-card">
+    <h3>Action Kit</h3>
+    <p>Get started creating local impact, powered by Ethereum.</p>
+    <a href="/introduction/action-kit">Act →</a>
+  </div>
+</div>
