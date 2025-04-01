@@ -10,8 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       title: "Ethereum Localism",
       links: {
         "Introduction": "/introduction",
-        "Knowledge": "/knowledge",
-        "Initiatives": "/initiatives",
+        "Library": "/library",
         "Resources": "/resources",
       }
     }),
