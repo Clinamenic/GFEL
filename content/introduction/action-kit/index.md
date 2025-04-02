@@ -29,6 +29,6 @@ This kit is modular by design - you can use the parts that make sense for your c
 
 ## Looking for Support?
 
-Join our community chat to connect with others implementing Ethereum Localism projects and get help with your specific questions.
+Join our community chat on Telegram to connect with others interested in and implementing Ethereum Localism.
 
-[Telegram Group](https://v0-ethereumlocalism-website.vercel.app/introduction/action-kit#)
+[Join the Telegram Group](https://t.me/+5Enk4J4d98MyMDkx)

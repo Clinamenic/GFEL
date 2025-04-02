@@ -1,7 +1,9 @@
 ---
 title: Resources
 ---
-Explore our curated collection of resources to help you learn about, implement, and advocate for Ethereum Localism in your community.
+Discover a constellation of curated resources from across the ecosystem to help you learn about, implement, and advocate for Ethereum Localism in your community. 
+
+We've gathered these tools, guides, and platforms to connect you with the broader movement of builders, thinkers, and practitioners working toward regenerative futures. Each section represents a different facet of the emerging Ethereum Localism movement, with pathways to explore based on your interests and needs.
 
 ## Ethereum
 Ethereum is more than a blockchain—it’s a substrate for shared imagination, coordination, and experimentation. This section offers foundational pieces on what Ethereum is, how it works, and why it might matter to communities seeking autonomy, cooperation, and regenerative alternatives to extractive systems.
@@ -60,7 +62,7 @@ Explore these communities to find kinship, inspiration, and invitations to colla
 
 [Ethereum Localism Initiative & Community Registry →]() (coming soon...)
 
-Have a resource in mind that resonates with the spirit of Ethereum Localism? We’d love to hear about it. '<drop us a note in the Telegram channel'> to suggest a community, network, or initiative that should be woven into the web.
+Have a resource in mind that resonates with the spirit of Ethereum Localism? We’d love to hear about it. [Drop us a note in the Telegram channel](https://t.me/+5Enk4J4d98MyMDkx) to suggest a community, network, or initiative that should be woven into the web.
 
 
 ---
@@ -68,7 +70,7 @@ Have a resource in mind that resonates with the spirit of Ethereum Localism? We�
 	<div class="home-card">
     <h3>Connect</h3>
     <p>Join the conversation in our Telegram chat.</p>
-    <a href="/resources">Connect on Telegram →</a>
+    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a>
   </div>
 
   <div class="home-card">

@@ -27,7 +27,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   </div>
 </div>
 
-![](assets/graphic-KnowledgeGarden-FINAL.jpg)
+![](assets/knowledgegarden-v2.png)
 ## Get Involved
 
 **Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
@@ -35,7 +35,7 @@ An interconnected collection of ideas, concepts, and resources on Ethereum Local
   <div class="home-card">
     <h3>Connect</h3>
     <p>Join the conversation in our Telegram chat.</p>
-    <a href="/resources">Connect on Telegram →</a>
+    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a>
   </div>
 
   <div class="home-card">

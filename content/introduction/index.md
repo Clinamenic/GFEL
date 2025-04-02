@@ -67,7 +67,7 @@ Our mission is to steward a global network of locally-rooted initiatives that de
   <div class="home-card">
     <h3>Connect</h3>
     <p>Join the conversation in our Telegram chat.</p>
-    <a href="/resources">Connect on Telegram →</a>
+    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a>
   </div>
 
   <div class="home-card">
