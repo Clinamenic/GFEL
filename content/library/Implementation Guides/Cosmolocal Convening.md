@@ -40,3 +40,12 @@ PDX DAO’s relationships with a variety of local people, projects and places th
 The Forum itself was a three-day event, a structured unconference, hosted at a community warehouse in Portland’s Inner Eastside. The warehouse space could be set up to accommodate whole-group speaking and panel sessions or several breakout groups. We had a solid A/V setup (we even enjoyed live music one evening), a chill zone with couches, morning yoga and catered lunch each day as an incentive for participants to stay convened throughout the course of the day. It worked!
 
 ![](assets/gfel23-end.png)
+
+
+---
+
+**Tags:**  
+#format/guide     
+#theme/ethereum-localism   
+#theme/community 
+#theme/gatherings 

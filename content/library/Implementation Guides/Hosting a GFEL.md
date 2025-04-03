@@ -3,7 +3,16 @@ Resources for GFEL alum who are interested in bringing the General Forum on Ethe
 - [GFEL Planning Guide](https://docs.google.com/document/d/11Cwsk4MaRzYysADmczofbqSRcyvtvCugc360KoDlCkc/edit?usp=sharing)
 - Hosting a GFEL - Interest Submission Form (to come...)
 
-Resources:
+Historical Resources:
 [Ethereum Localism Library > GFEL](library/GFEL)
 
 ![](assets/gfel24-panel.jpeg)
+
+
+---
+
+**Tags:**  
+
+#theme/ethereum-localism   
+#theme/community 
+#theme/gatherings 

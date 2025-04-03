@@ -29,3 +29,11 @@ Fun DAO PDX had its first outing on Saturday, January 27th, 2024, to see a free 
 Though the DAO has 10 onchain members, the outing’s attendance was fifteen, with newcomers joining to say they don’t yet understand how to set up a wallet but would like to be included. To this end the DAO coordinated dedicated onboarding hours (hosted at Ethereal Forest’s affiliate community space, Bridgespace) on the second Tuesday of every month, complimenting our EthPDX meetup which occur monthly on first Wednesdays.
 
 The first cycle onboarded a handful of community members to self-custody wallets while being the first experience with jokerace for many more of us. The next cycle is likely to use Pairwise voting through General Magic. (etherealforest.org/blog)
+
+---
+
+**Tags:**  
+#format/guide     
+#theme/community 
+#theme/gatherings 
+#tool/dao 

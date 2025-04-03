@@ -27,8 +27,6 @@ In this sense, it doesn't matter if you're a communist or libertarian.
 
 What unites us is our belief that another world is possible and that we can utilize decentralized and opt in infrastructures to make it a reality. For Ethereum to be successful as the substrate for that endeavor, many flowers must bloom in the infinite garden.
 
-Subscribe
-
 ### A note on Ethereum as planetary cyber-physical commons
 
 In another twist of cosmic irony, blockspace on a public ledger may be the last private space we can access as global Citizens of the web.
@@ -70,3 +68,10 @@ Even though Audrey Tang and Glenn Weyl were thrown under the bus amidst the Ethe
 There are many intermediary steps that can be taken towards those ends, from implementing the IETF’s early internet protocol governance mechanisms to Ethereum town halls, AI assisted sense-making, or V-Taiwan-style public sensemaking processes. These interventions would not only make Ethereum the most successful Layer 1 blockchain, they would create the substrate for the blossoming of a truly flourishing and pluralistic human civilization. While our current social contract is in shambles, torn asunder more and more each day as rising generations lose all hope in a viable future, a substrate for the pluralistic experimentation towards new social contracts is needed now more than ever. Ethereum can be a beacon of hope amidst dying systems as a place in which many new kinds of systems are born. Our fight is not one between left and right, rather it is a fight between open and closed systems.
 
 I believe this is what Ethereum is for.
+
+---
+
+**Tags:**  
+#format/article   
+#theme/ethereum   
+#value/pluralism 

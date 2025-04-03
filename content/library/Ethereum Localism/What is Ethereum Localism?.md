@@ -4,7 +4,7 @@ author: Exeunt
 ---
 June 29, 2024
 
-By Exeunt
+*By Exeunt*
 
 When we first suggested the theme of Ethereum Localism in anticipation of the GFEL conference, it was a totally open ended provocation, meant to stir up a diversity of interpretations. The result was definitely generative, putting varied bioregional thinkers in sync, exposing members of the Ethereum community to the Collaborative Finance (CoFi) meme, and even helping to spur the creation of the MyCoFi [book](https://greenpill.network/pdf/mycofi.pdf). It also sprouted a conversation which eventually led to the temporary suspension of PDX DAO until such a time as there is a sufficient network infrastructure in place to generate a meaningfully decentralized City DAO by that name (the time is nigh!).
 
@@ -29,3 +29,10 @@ Our frame on Ethereum Localism isn’t simply that we identify these kin, that w
 Ethereum localism, in summary - (in this account which is necessarily only one) - is a strategy of reciprocal mimesis between open, protocol-based cultures of the internet and the open pragmatist cultures of cities and bioregions. They are entangled by shared attitudes of [immediacy](https://theanarchistlibrary.org/library/hakim-bey-immediatism), a pirate empiricism, a dread of coercive authority and a cutting sense of adequate technology. They self-identify not around what they are but _what they can do_, and they judge structures against the mysterious pragmatism of the terrain, whether virtual or material. Mysterious because there is no prescribing what you are - individual, alter, people, swarm - and there is no prescribing what you can or should do. It has to be built.
 
 That possibility space is our Ether.
+
+
+---
+
+**Tags:**  
+#format/article   
+#theme/ethereum-localism     

@@ -155,3 +155,12 @@ We imagine a world where these types of civic utilities are a commonplace aspect
 *We Got Us,*
 
 *– Benjamin Life and Kevin Owocki*
+
+
+---
+
+**Tags:**  
+#format/guide     
+#theme/community 
+#theme/gatherings
+#theme/community-governance 

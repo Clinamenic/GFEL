@@ -8,3 +8,10 @@ View the direct link to the PDF of the [Ethereum Localism book](https://qxvqdga4
 Claim a free NFT version of the book on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
 
 (Markdown edition forthcoming.)
+
+
+---
+
+**Tags:**  
+#format/book  
+#theme/ethereum-localism   

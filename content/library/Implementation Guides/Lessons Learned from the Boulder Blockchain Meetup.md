@@ -38,3 +38,11 @@ If you are bootstrapping a meetup community and are having trouble finding a ven
 We post all of our scheduled meetups to [meetup.com](https://www.meetup.com). This makes it discoverable to those who are looking for meetups based on a particular topic. Using meetup.com also makes it easy for existing meetup members to know when the meetup is happening because it is easily accessible and will even send members event reminder emails.
 
 In addition to the Meetup.com page, we have a telegram group people can join to stay updated on monthly meetups and other community events. We would send out an email reminder and a Telegram Channel post to everyone the Sunday before our Tuesday meetup to remind everyone of the time/location/and suggestion to come with a few topics to discuss.
+
+
+---
+
+**Tags:**  
+#format/article        
+#theme/community 
+#theme/gatherings 
