@@ -1,6 +1,9 @@
 ---
 date: June 29, 2024
 author: Exeunt
+tags:
+  - format/article
+  - theme/ethereum-localism
 ---
 June 29, 2024
 
@@ -32,7 +35,3 @@ That possibility space is our Ether.
 
 
 ---
-
-**Tags:**  
-#format/article   
-#theme/ethereum-localism     

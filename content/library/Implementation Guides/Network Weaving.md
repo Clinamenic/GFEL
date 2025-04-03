@@ -1,6 +1,10 @@
 ---
 title: "Recipes: Network Weaving"
 author: christypdx
+tags:
+  - format/guide
+  - theme/community
+  - theme/gatherings
 ---
 *by christypdx*
 
@@ -14,8 +18,3 @@ An online community events calendar like meetup.com is a good resource for disco
 
 
 ---
-
-**Tags:**  
-#format/guide      
-#theme/community 
-#theme/gatherings 

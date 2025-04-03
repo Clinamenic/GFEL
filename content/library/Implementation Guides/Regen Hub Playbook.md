@@ -1,3 +1,10 @@
+---
+tags:
+  - format/guide
+  - theme/community
+  - theme/gatherings
+  - theme/community-governance
+---
 ## We Got Us: A Regen Hub Playbook
 
 *by Benjamin Life and Kevin Owocki*
@@ -158,9 +165,3 @@ We imagine a world where these types of civic utilities are a commonplace aspect
 
 
 ---
-
-**Tags:**  
-#format/guide     
-#theme/community 
-#theme/gatherings
-#theme/community-governance 

@@ -1,5 +1,6 @@
 ---
 title: Library
+tags:
 ---
 ![](assets/library.png)
 

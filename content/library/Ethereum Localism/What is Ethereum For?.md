@@ -1,3 +1,9 @@
+---
+tags:
+  - format/article
+  - theme/ethereum
+  - value/pluralism
+---
 ## A Battle For The Soul Of Web3
 
 *By Benjamin Life*
@@ -70,8 +76,3 @@ There are many intermediary steps that can be taken towards those ends, from imp
 I believe this is what Ethereum is for.
 
 ---
-
-**Tags:**  
-#format/article   
-#theme/ethereum   
-#value/pluralism 

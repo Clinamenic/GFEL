@@ -1,6 +1,11 @@
 ---
 title: "Recipes: Cosmolocal Convening"
 author: christypdx
+tags:
+  - format/guide
+  - theme/ethereum-localism
+  - theme/community
+  - theme/gatherings
 ---
 *by christypdx*
 
@@ -43,9 +48,3 @@ The Forum itself was a three-day event, a structured unconference, hosted at a c
 
 
 ---
-
-**Tags:**  
-#format/guide     
-#theme/ethereum-localism   
-#theme/community 
-#theme/gatherings 

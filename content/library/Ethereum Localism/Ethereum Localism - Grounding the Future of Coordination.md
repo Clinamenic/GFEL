@@ -1,5 +1,8 @@
 ---
 date: February 21, 2025
+tags:
+  - format/book
+  - theme/ethereum-localism
 ---
 ![](https://github.com/Clinamenic/GFEL/blob/main/ELbookcover.png?raw=true)
 
@@ -11,7 +14,3 @@ Claim a free NFT version of the book on [Manifold](https://app.manifold.xyz/c/et
 
 
 ---
-
-**Tags:**  
-#format/book  
-#theme/ethereum-localism   

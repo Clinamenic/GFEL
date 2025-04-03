@@ -1,3 +1,9 @@
+---
+tags:
+  - format/article
+  - theme/community
+  - theme/gatherings
+---
 *by Michael Green*
 *from [Local Regen Guide #1](https://greenpill.network/pdf/local-regen-guide.pdf) – by greenpill.network*
 
@@ -41,8 +47,3 @@ In addition to the Meetup.com page, we have a telegram group people can join to 
 
 
 ---
-
-**Tags:**  
-#format/article        
-#theme/community 
-#theme/gatherings 

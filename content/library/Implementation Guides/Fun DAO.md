@@ -2,6 +2,11 @@
 title: "Recipes: Fun DAO"
 subtitle: an Onboarding DAO for the People
 author: christypdx
+tags:
+  - format/guide
+  - theme/community
+  - theme/gatherings
+  - tool/dao
 ---
 *by christypdx*
 
@@ -31,9 +36,3 @@ Though the DAO has 10 onchain members, the outing’s attendance was fifteen, wi
 The first cycle onboarded a handful of community members to self-custody wallets while being the first experience with jokerace for many more of us. The next cycle is likely to use Pairwise voting through General Magic. (etherealforest.org/blog)
 
 ---
-
-**Tags:**  
-#format/guide     
-#theme/community 
-#theme/gatherings 
-#tool/dao 
