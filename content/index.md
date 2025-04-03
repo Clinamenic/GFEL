@@ -1,14 +1,14 @@
 ---
 title: ethereumlocalism.xyz
 ---
-Welcome! **Ethereum Localism** bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer-to-peer technologies. Tools and mechanisms like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.
+Welcome! **ethereumlocalism.xyz** is an open knowledge garden and action-oriented research hub dedicated to propagating the meme and practice of Ethereum Localism. 
 
-ethereumlocalism.xyz is an open knowledge garden and action-oriented research hub dedicated to propagating the meme and practice of Ethereum Localism. This knowledge hub and our movement only exists with your participation - check out the resources here on the site, and get involved!
+ **Ethereum Localism** bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer-to-peer technologies. Tools and mechanisms like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.
+
+This movement and knowledge hub only exists with your participation - check out the resources here on the site, and get involved!
 
 
 [An Introduction to Ethereum Localism →](/introduction)
-
-
 
 
 ## Explore Our Digital Knowledge Garden
