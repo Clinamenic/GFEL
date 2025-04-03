@@ -10,6 +10,7 @@ Ethereum is more than a blockchain—it’s a substrate for shared imagination, 
 
 - [Learn About Ethereum](https://ethereum.org/en/learn/) – A beginner-friendly guide to understanding Ethereum and how it works.
 - [Introduction to Ethereum Localism](/introduction)
+- [Cosmo GPT](https://chatgpt.com/g/g-67bcda8bdffc8191bb45c9aa78064051-cosmo) – An AI steward trained on Ethereum Localism gatherings, offering guidance related to cosmo-local coordination and regenerative systems.
 
 ## Ethereum Localism Playbooks
 Ethereum Localism is not a doctrine—it’s a living design space. These playbooks offer practical entry points for organizing locally using Web3 tools and cosmo-local principles. From starting a Fun DAO to hosting a GFEL, you’ll find scaffolding to help translate shared values into situated action.
