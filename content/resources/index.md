@@ -54,6 +54,7 @@ Explore these communities to find kinship, inspiration, and invitations to colla
 - [greenpill.network](https://greenpill.network) – A network-society working to export regenerative digital infrastructure to the world through the lens of the green pill meme.
 - [Regens Unite](https://www.regensunite.earth/) – A convergence of creators, technologists, and community weavers organizing immersive gatherings around regeneration, coordination, and trust.
 - [Crypto Commons Association](https://www.crypto-commons.org/) – A think/do tank in the Austrian Alps cultivating research, residency, and retreat spaces for crypto-commons, post-capitalist tech, and open knowledge infrastructures.
+- [Ekonavi](https://ekonavi.com) – A collaborative community platform for ecological development, striving to connect agriculture, ecological activities and bio-construction, in Brazil and beyond.
 
 
 ---
