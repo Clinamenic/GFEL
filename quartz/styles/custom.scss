@@ -717,3 +717,7 @@ body.dark {
     }
   }
 }
+
+body[data-slug^="library/"] .page-listing .tags {
+  display: none;
+}
