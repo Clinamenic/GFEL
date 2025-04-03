@@ -12,9 +12,7 @@ Unlike many blockchain projects that focus primarily on global, borderless appli
 > Ethereum Localism balances blockchain's global power and intelligence with values-aligned, on-the-ground communities that bring life to the technology—enabling an ecosystem that roots down deeper to rise up higher.
 
 
-**==RESOURCE==**
-
-**Cosmo GPT: A Cosmo-Local Knowledge Agent for the Ethereum Localism movement.**
+**==RESOURCE: Cosmo GPT==**
 
 → [Chat and Learn about Ethereum Localism with Cosmo](https://chatgpt.com/g/g-67bcda8bdffc8191bb45c9aa78064051-cosmo)
 
