@@ -63,6 +63,9 @@ Explore these communities to find kinship, inspiration, and invitations to colla
 
 [Ethereum Localism Initiative & Community Registry →]() (coming soon...)
 
+
+![](assets/lovewall.jpeg)
+
 Have a resource in mind that resonates with the spirit of Ethereum Localism? We’d love to hear about it. [Drop us a note in the Telegram channel](https://t.me/+5Enk4J4d98MyMDkx) to suggest a community, network, or initiative that should be woven into the web.
 
 

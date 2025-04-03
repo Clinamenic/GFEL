@@ -1,9 +1,9 @@
 ---
 title: Library
 ---
-Welcome to the **Ethereum Localism Library** - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
+![](assets/library.png)
 
-![](https://github.com/Clinamenic/GFEL/blob/main/IMG_5172.png?raw=true)
+Welcome to the **Ethereum Localism Library** - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
 ## 📰 [Movement Signals](library/Movement-Signals)
 Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
@@ -24,8 +24,6 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
 ## Contribute
-
-![](https://github.com/Clinamenic/GFEL/blob/main/lovewall.jpeg?raw=true)
 
 Have Ethereum Localist knowledge to share? This is the place. 
 
