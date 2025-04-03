@@ -1,9 +1,9 @@
 ---
 title: Resources
 ---
-Discover a constellation of curated resources from across the ecosystem to help you learn about, implement, and advocate for Ethereum Localism in your community. 
+Curated resources from across the ecosystem to help you learn about, implement, and advocate for Ethereum Localism in your community. We've gathered these tools, guides, and platforms to connect you with the broader movement of builders, thinkers, and practitioners working toward regenerative futures.
 
-We've gathered these tools, guides, and platforms to connect you with the broader movement of builders, thinkers, and practitioners working toward regenerative futures. Each section represents a different facet of the emerging Ethereum Localism movement, with pathways to explore based on your interests and needs.
+Each section represents a different facet of the emerging Ethereum Localism movement, with pathways to explore based on your interests and needs.
 
 ## Ethereum
 Ethereum is more than a blockchain—it’s a substrate for shared imagination, coordination, and experimentation. This section offers foundational pieces on what Ethereum is, how it works, and why it might matter to communities seeking autonomy, cooperation, and regenerative alternatives to extractive systems.
