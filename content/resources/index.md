@@ -24,6 +24,7 @@ Ethereum Localism is not a doctrine—it’s a living design space. These playbo
 Regeneration begins with relationship—to land, to people, to value itself. This section gathers frameworks and experiments in building economies of care, trust, and reciprocity. It includes both theory and practice on local currencies, commons governance, and financial infrastructures that nourish rather than extract.
 
 - [Regen Foundation](https://regen.foundation) – Supports ecological regeneration through Web3 tools and community-led initiatives.  
+- [Regen Coordination](https://www.regencoordination.xyz/?v=1b22e7251f2f800594c2000c9bb5a316) – An evolving alliance of Web3 organizations united in fostering collaboration to drive ecological, social, and economic regeneration.
 - [Regen Commons](https://regencommons.com) – A digital space fostering collaboration for regenerative finance and land stewardship.  
 - [Eight Forms of Capital](https://wiki.p2pfoundation.net/Eight_Forms_of_Capital) – A framework that expands value beyond financial capital to include social, cultural, and ecological capital.  
 - [Grassroots Economics](https://www.grassrootseconomics.org) – A non-profit foundation focused on community currencies and local economic empowerment.  
