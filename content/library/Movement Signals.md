@@ -4,15 +4,10 @@ _Dispatches, articles, and project updates from the growing ecosystem of Ethereu
 ### Creating Community Asset Vouchers in Jackson, MS  
 
 **Date:** March 19, 2025
-
-**Tags:** Community Currencies, Black Radical Tradition
-
 **Source:** Cooperation Jackson Blog
-
 **Location:** Jackson, Mississippi
 
-
-How Cooperation Jackson developed a mutual credit system rooted in Black cooperative economics and community autonomy. A foundational signal for the movement.  
+How Cooperation Jackson is developing a Mutual Exchange and Rotational Labor Association (ROLA) system. Their long-term vision: "Turn every yard into a farm and every garage into a factory, and through community collaboration and planning meet our collective needs.”
 
 [Read More →](https://cooperationjackson.org/blog/creatingcommunityassetvouchersinjacksonms)
 
