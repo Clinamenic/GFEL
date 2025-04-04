@@ -10,7 +10,10 @@ This movement and knowledge hub only exists with your participation - check out 
 
 [An Introduction to Ethereum Localism →](/introduction)
 
+---
+![Ethereum Localism: Boulder 2025](https://youtu.be/1rGrFA1JTmo?si=NIGbXA9AW5RTYcRZ)
 
+---
 ## Explore Our Digital Knowledge Garden
 
 Our Digital Knowledge Garden is an interconnected collection of ideas, concepts, and resources on Ethereum Localism. The Knowledge Garden grows through community contributions and provides a rich, networked understanding of the movement.
