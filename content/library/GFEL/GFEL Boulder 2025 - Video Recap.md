@@ -9,4 +9,4 @@ The most recent gathering of [a General Forum on Ethereum Localism (GFEL) in Bou
 
 As you’ll see in the recap, Ethereum Localism is not a fixed ideology, rather it's a collaborative design space—where tools like DAOs, local currencies, and cosmo-local infrastructure are combined with deeply rooted local action to be wielded not for profit alone, but in service of regeneration, reciprocity, and collective resilience.
 
-(coming soon...)
+![Ethereum Localism: Boulder 2025](https://youtu.be/1rGrFA1JTmo?si=NIGbXA9AW5RTYcRZ)
