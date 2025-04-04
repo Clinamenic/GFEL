@@ -7,12 +7,14 @@
 - #format/interview  
 - #format/research  
 - #format/zine
-- #format/book
+- #format/book 
+- #format/video
 
 ## Themes
 - #theme/ethereum  
 - #theme/ethereum-localism  
 - #theme/community
+- #theme/community-currency
 - #theme/community-governance  
 - #theme/gatherings
 - #theme/public-goods  
