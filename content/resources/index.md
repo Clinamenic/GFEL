@@ -74,13 +74,6 @@ Have a resource in mind that resonates with the spirit of Ethereum Localism? Weâ
 
 
 ---
-<div class="home-grid">
-	<div class="home-card">
-    <h3>Connect</h3>
-    <p>Join the conversation in our Telegram chat.</p>
-    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram â†’</a>
-  </div>
-
   <div class="home-card">
     <h3>Contribute</h3>
     <p>Add your experience and expertise to our Knowledge Garden.</p>
