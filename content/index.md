@@ -11,7 +11,7 @@ This movement and knowledge hub only exist with your participation - check out t
 [An Introduction to Ethereum Localism →](/introduction)
 
 
-==**➔ LIVE! GG23 Regen Coordination Global Round**==: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
+**➔ LIVE! GG23 Regen Coordination Global Round**: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
 
 ## Explore Our Digital Knowledge Garden
 
