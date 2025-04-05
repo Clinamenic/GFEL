@@ -9,10 +9,9 @@ Ethereum Localism represents a growing movement at the intersection of blockchai
 
 Unlike many blockchain projects that focus primarily on global, borderless applications, Ethereum Localism emphasizes the importance of place, community, and local context. It recognizes that while the internet and blockchain technology have connected us globally, our daily lives remain deeply rooted in local geographies and communities.
 
-We know from history that the kind of technological simplicity that precedes real adoption requires local application, in all its experimental plurality. If this is so, then every site of novel local use is a potential inoculation site, a defense against capture. [Localism is an anticapture technology](library/GFEL/GFEL-Announcement-2023).
-
 > Ethereum Localism balances blockchain's global power and intelligence with values-aligned, on-the-ground communities that bring life to the technology—enabling an ecosystem that roots down deeper to rise up higher.
 
+We know from history that the kind of technological simplicity that precedes real adoption requires local application, in all its experimental plurality. If this is so, then every site of novel local use is a potential inoculation site, a defense against capture. [Localism is an anticapture technology](library/GFEL/GFEL-Announcement-2023).
 
 **==RESOURCE==: Cosmo GPT**→ [Chat and Learn about Ethereum Localism with Cosmo](https://chatgpt.com/g/g-67bcda8bdffc8191bb45c9aa78064051-cosmo)
 
