@@ -11,6 +11,8 @@ This movement and knowledge hub only exist with your participation - check out t
 [An Introduction to Ethereum Localism →](/introduction)
 
 
+==**➔ LIVE! GG23 Regen Coordination Global Round**==: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
+
 ## Explore Our Digital Knowledge Garden
 
 Our Digital Knowledge Garden is an interconnected collection of ideas, concepts, and resources on Ethereum Localism. The Knowledge Garden grows through community contributions and provides a rich, networked understanding of the movement.
