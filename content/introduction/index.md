@@ -62,6 +62,7 @@ Ethereum Localism prioritizes the relationships that sustain mutual aid, coordin
 ---
 
 ## Applications and Use Cases
+The field of Ethereum Localism is just taking shape—an evolving design space where communities are actively experimenting with new ways to coordinate, govern, and share resources. These use cases represent early patterns and possibilities rather than fixed models. Each application reflects a different facet of how blockchain tools can support local resilience and autonomy. This section aims to highlight practical examples that are already emerging, while inviting further exploration and adaptation.
 
 ### Local Currencies
 Community currencies, local token systems, and neighborhood marketplaces built on peer-to-peer networks help keep wealth circulating within communities, support local businesses, and incentivize community participation.
@@ -87,7 +88,10 @@ Blockchain-based systems coordinate local manufacturing, track provenance of loc
 - Distributed manufacturing coordination
 - Open source design repositories with local fabrication
 - Supply chain transparency
+
+---
 ## Challenges and Considerations
+While Ethereum Localism offers new possibilities for community autonomy, coordination, and resilience, it also comes with real-world complexities. From the technical learning curve to uneven access to digital tools, communities face a range of challenges when implementing blockchain-based systems. Navigating uncertain regulatory terrain, building infrastructure that works in diverse conditions, and finding equilibrium between local needs and global networks are all critical considerations. This section outlines some of the most pressing barriers.
 
 - **Technical Barriers**: Blockchain technology remains complex and inaccessible to many people, requiring thoughtful onboarding and user experience design.
 - **Regulatory Uncertainty**: The legal and regulatory landscape for blockchain-based community systems is still evolving.
@@ -95,6 +99,8 @@ Blockchain-based systems coordinate local manufacturing, track provenance of loc
 - **Infrastructure Resilience**: Ensuring decentralized networks remain functional in low-connectivity environments is crucial for widespread adoption.
 - **Balancing Local and Global**: Finding the right balance between local autonomy and global interoperability is an ongoing challenge.
 - **Market Volatility**: Price instability can impact funding, payments, and the reliability of blockchain-based financial tools.
+
+---
 ## Our Mission
 
 Our mission is to steward a global network of locally-rooted initiatives that demonstrate how blockchain technology can enhance community resilience, regenerative practices, and participatory governance.
@@ -110,12 +116,6 @@ Our mission is to steward a global network of locally-rooted initiatives that de
     <h3>Connect</h3>
     <p>Join the conversation in our Telegram chat.</p>
     <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a>
-  </div>
-
-  <div class="home-card">
-    <h3>Contribute</h3>
-    <p>Add your experience and expertise to our Knowledge Garden.</p>
-    <a href="/introduction">Contribution Guide →</a>
   </div>
   
   <div class="home-card">
