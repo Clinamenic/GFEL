@@ -18,7 +18,7 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 ## 📁 [Field Reports](library/Field-Reports)
 First person narratives of the messy work of implementation .
 
-## 📁 [Cultural Currents](library/Cultural-Currents)
+## 📁 [Cultural Currents](resources/gallery)
 Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
 
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
