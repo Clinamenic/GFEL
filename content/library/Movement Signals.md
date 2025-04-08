@@ -1,4 +1,4 @@
-Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
+Dispatches, news articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
 ---
 ### Creating Community Asset Vouchers in Jackson, MS  
