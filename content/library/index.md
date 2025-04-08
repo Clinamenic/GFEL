@@ -21,6 +21,9 @@ Documentation from past General Forums on Ethereum Localism.
 ## 📁 [Implementation Guides](library/Implementation-Guides)
 Detailed resources for how to implement Ethereum Localist principles and toolkits.
 
+## 📁 [Field Reports](library/Field-Reports)
+First person narratives of the messy work of implementation .
+
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
