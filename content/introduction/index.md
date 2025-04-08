@@ -21,7 +21,7 @@ Created as an open, evolving AI steward for the cosmo-localist paradigm, Cosmo w
 
 ## Foundational Reminders
 
-Before applying frameworks or methodologies, Ethereum Localism begins with three reminders—guiding anchors that keep projects accountable to people and place.
+Before applying frameworks or methodologies, Ethereum Localism might begin with three reminders—guiding anchors to help keep projects, and the Ethereum Localism meme, accountable to people and place.
 
 ### 1. Grounded in Place  
 > *“If it’s not rooted, it’s not localism.”*
