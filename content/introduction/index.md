@@ -17,13 +17,49 @@ We know from history that the kind of technological simplicity that precedes rea
 
 Created as an open, evolving AI steward for the cosmo-localist paradigm, Cosmo was trained on transcripts from the [General Forum on Ethereum Localism](/library/GFEL) gatherings -- diverse streams of research and interest around commons-based governance, regenerative economics, decentralized tech, and place-based organizing. Cosmo exists to help navigate the space between global knowledge sharing and local autonomy—supporting collective sensemaking, systems thinking, and grounded action. Whatever you're working on, Cosmo offers insights and tools to help seed collaborative, just, and ecological futures.
 
-## Core Principles
+# Principles of Ethereum Localism
 
-- **Decentralization with Purpose**: Decentralization is not the goal in itself but a means to foster more equitable, resilient, and participatory local systems. Ethereum Localism resists the re-centralization of blockchain and Web3 technologies by ensuring these tools empower communities rather than recreate traditional power hierarchies.
-- **Community Sovereignty**: Communities should have self-determination over their economies, governance, and digital infrastructures. Ethereum Localism supports empowering local groups to design and govern their own solutions using open-source, cosmo-local tools and practices, preventing capture by centralized authorities.
-- **Regenerative Economics**: Economic systems should restore rather than extract value from communities and ecosystems. Ethereum Localism integrates regenerative finance (ReFi), commitment pooling, and cooperative economic models to create public goods and ensure local economies thrive in harmony with their environments.
-- **Cosmo-Local Coordination**: "Design global, manufacture local." Ethereum Localism follows a cosmo-local approach, leveraging globally shared knowledge, designs, and protocols while anchoring governance, production, and decision-making at the local level. This principle ensures that global collaboration enhances, rather than undermines, local autonomy.
-- **Technological Accessibility**: Blockchain and Web3 tools should be accessible to diverse communities regardless of technical expertise or economic resources. Ethereum Localism aims to embed technology into existing mutual aid networks, cooperative economies, and bioregional organizing, ensuring digital infrastructure serves real-world local needs rather than being an end in itself.
+## Foundational Reminders
+
+Before applying frameworks or methodologies, Ethereum Localism begins with three reminders—guiding anchors that keep projects accountable to people and place.
+
+### 1. Grounded in Place  
+> *“If it’s not rooted, it’s not localism.”*
+
+Ethereum Localist efforts are accountable to material conditions in specific places. Whether rural or urban, every project must engage with the lived realities of local life—food, labor, governance, and ecology. Technology must take root in the soil or the street.
+
+### 2. Open by Default  
+> *“Protocols over platforms, invitations over impositions.”*
+
+Ethereum Localism resists gatekeeping and centralized control. It favors open-source coordination and tools that can be forked, remixed, and shared. If a tool can’t be adapted by others, it doesn’t serve the cosmo-local.
+
+### 3. Empirical Improvisation  
+> *“If it doesn’t work here, it doesn’t work.”*
+
+Ethereum Localism is grounded in practice. Projects respond to real-world conditions, adapt with feedback, and demonstrate relevance under local constraints. Viability is measured through use, not theory.
+
+---
+
+## Core Principles of Ethereum Localism
+
+Ethereum Localism builds on those foundational reminders with a set of principles that guide local blockchain practice. These principles are grounded in real-world application, not abstract ideals.
+
+### Decentralization with Purpose  
+Decentralization is not the destination, but a method for creating just, resilient, and participatory systems. Ethereum Localism resists recentralization and promotes infrastructures that distribute power and align with community well-being.
+
+### Community Sovereignty  
+Communities should be able to design, govern, and evolve their own digital and economic systems. Ethereum Localism supports local control through open-source, forkable tools developed with and by the people who use them.
+
+### Regenerative Economics  
+Localist economies should restore value rather than extract it. Through regenerative finance (ReFi), cooperative ownership, and community-driven stewardship, Ethereum Localism fosters conditions for long-term ecological and social health.
+
+### Cosmo-Local Coordination  
+“Design global, manufacture local.” Ethereum Localism draws on global knowledge and tools to support localized action. It emphasizes global collaboration without compromising local autonomy and control.
+
+### Relational Infrastructure  
+Ethereum Localism prioritizes the relationships that sustain mutual aid, coordination, and shared responsibility. Tools matter, but trust, care, and collaboration come first. Technologies should serve and strengthen the human and ecological ties that already exist in local contexts.
+
+---
 
 ## Applications and Use Cases
 
