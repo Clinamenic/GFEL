@@ -5,11 +5,13 @@ Welcome! **ethereumlocalism.xyz** is an open knowledge garden and action-oriente
 
  **Ethereum Localism** bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer-to-peer technologies. Tools and mechanisms like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.
 
-This movement and knowledge hub only exists with your participation - check out the resources here on the site, and get involved!
+This movement and knowledge hub only exist with your participation - check out the resources here on the site, and get involved!
 
 
 [An Introduction to Ethereum Localism →](/introduction)
 
+
+**➔ LIVE! GG23 Regen Coordination Global Round**: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
 
 ## Explore Our Digital Knowledge Garden
 

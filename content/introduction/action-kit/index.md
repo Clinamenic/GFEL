@@ -15,9 +15,9 @@ This kit is modular by design - you can use the parts that make sense for your c
   </div>
   
   <div class="home-card">
-    <h3>AlloIRL Funding Round Guide</h3>
-    <p>Resources for operating local onchain funding rounds</p>
-    <a href="/library">Explore →</a>
+    <h3>Host an AlloIRL Funding Round</h3>
+    <p>Resource for operating a local onchain funding round</p>
+    <a href="https://irl.allo.capital">Explore →</a>
   </div>
   
   <div class="home-card">
