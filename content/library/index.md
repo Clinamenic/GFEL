@@ -18,11 +18,14 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 ## 📁 [Field Reports](library/Field-Reports)
 First person narratives of the messy work of implementation .
 
-## 📁 [GFEL](library/GFEL)
-Documentation from past General Forums on Ethereum Localism.
+## 📁 [Cultural Currents](library/Cultural-Currents)
+Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
 
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
+
+## 📁 [GFEL](library/GFEL)
+Documentation from past General Forums on Ethereum Localism.
 
 ## 📁 [Extitutions and Open Protocols](library/Extitutions-and-Open-Protocols)
 Research and theory into how both web and analogue protocols operate beyond institutional enclosures.
