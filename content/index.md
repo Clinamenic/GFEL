@@ -1,5 +1,6 @@
 ---
 title: ethereumlocalism.xyz
+date: 2025-04-01
 ---
 Welcome! **ethereumlocalism.xyz** is an open knowledge garden and action-oriented research hub dedicated to propagating the meme and practice of Ethereum Localism. 
 
