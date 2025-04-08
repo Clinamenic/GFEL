@@ -13,9 +13,9 @@ Unlike many blockchain projects that focus primarily on global, borderless appli
 
 We know from history that the kind of technological simplicity that precedes real adoption requires local application, in all its experimental plurality. If this is so, then every site of novel local use is a potential inoculation site, a defense against capture. [Localism is an anticapture technology](library/GFEL/GFEL-Announcement-2023).
 
-**==RESOURCE==: Cosmo GPT**→ [Chat and Learn about Ethereum Localism with Cosmo](https://chatgpt.com/g/g-67bcda8bdffc8191bb45c9aa78064051-cosmo)
+**==RESOURCE==: CosmoGPT**→ [Chat and Learn about Ethereum Localism with Cosmo](https://chatgpt.com/g/g-67bcda8bdffc8191bb45c9aa78064051-cosmo)
 
-Created as an open, evolving AI steward for the cosmo-localist paradigm, Cosmo was trained on transcripts from the [General Forum on Ethereum Localism](/library/GFEL) gatherings -- diverse streams of research and interest around commons-based governance, regenerative economics, decentralized tech, and place-based organizing. Cosmo exists to help navigate the space between global knowledge sharing and local autonomy—supporting collective sensemaking, systems thinking, and grounded action. Whatever you're working on, Cosmo offers insights and tools to help seed collaborative, just, and ecological futures.
+*Created as an open, evolving AI steward for the cosmo-localist paradigm, CosmoGPT was trained on transcripts from the [General Forum on Ethereum Localism](/library/GFEL) gatherings -- diverse streams of research and interest around commons-based governance, regenerative economics, decentralized tech, and place-based organizing. Cosmo exists to help navigate the space between global knowledge sharing and local autonomy—supporting collective sensemaking, systems thinking, and grounded action. Whatever you're working on, Cosmo offers insights and tools to help seed collaborative, just, and ecological futures.*
 
 # Principles of Ethereum Localism
 
