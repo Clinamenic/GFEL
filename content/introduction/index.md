@@ -26,7 +26,7 @@ Before applying frameworks or methodologies, Ethereum Localism might begin with 
 ### 1. Grounded in Place  
 > *“If it’s not rooted, it’s not localism.”*
 
-Ethereum Localist efforts are accountable to material conditions in specific places. Whether rural or urban, every project must engage with the lived realities of local life—food, labor, governance, and ecology. Technology must take root in the soil or the street.
+Ethereum Localist efforts are accountable to material conditions in specific places. Whether rural or urban, every project must engage with the lived realities of local life—community, food, labor, governance, and ecology. Technology must take root in the soil or the street.
 
 ### 2. Open by Default  
 > *“Protocols over platforms, invitations over impositions.”*
