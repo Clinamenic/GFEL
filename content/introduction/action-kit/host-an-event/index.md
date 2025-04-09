@@ -45,6 +45,6 @@ Design immersive experiences for deeper learning, experimentation, and relations
 ---
 
 **Have a guide, template, or tool to share?**  
-We welcome contributions that help others organize, gather, and build in the spirit of Ethereum Localism. Email us at etherealforest.eth@protonmail.com to share for inclusion.
+We welcome contributions that help others organize, gather, and build in the spirit of Ethereum Localism → [Contribution Guide](resources/contribution-guide)
 
 ![](assets/imagination-circle.png)

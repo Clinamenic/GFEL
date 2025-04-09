@@ -9,23 +9,17 @@ title: Contribution Guide
 
 Our knowledge garden is a [markdown-based](https://www.markdownguide.org/cheat-sheet/) wiki, built using [Quartz](https://quartz.jzhao.xyz/). We generally use [Obsidian](https://obsidian.md/) to create and curate documents for our knowledge garden.
 
+To contribute to this knowledge garden, you have two options: share resources with existing curators, or become a curator yourself. Once you've reached out we may ask for additional information or respond with some editorial comments, or we may post directly.
+
 ---
-
-## Get Started
-
-To contribute to this knowledge garden, you have two options: share resources with existing curators, or become a curator yourself.
-
 ### Option 1: Share Resources
 
-If you have a resource you’d like to submit but don’t want to join the GitHub repo, you can share a Google Doc or markdown file with one of the curators:
+If you have a resource you’d like to submit but don’t want to join the GitHub repo, you can share a Google Doc or markdown file with one of the curators to be added:
 
 - **christypdx & exeunt:** [etherealforest.eth@protonmail.com](mailto:etherealforest.eth@protonmail.com)
 - **Clinamenic:** [ssc@clinamenic.com](mailto:ssc@clinamenic.com)
 
-One of the curators will add it to the Knowledge Garden. We may ask for additional information or respond with some editorial comments, or we may post directly.
-
 ---
-
 ### Option 2: Join the Repo
 
 1. Download [Obsidian](https://obsidian.md/download), a Markdown editor we use for authoring.
@@ -36,7 +30,6 @@ One of the curators will add it to the Knowledge Garden. We may ask for addition
 6. Once accepted, your content will go live on the site.
 
 ---
-
 ## Authoring Content
 
 ### Licensing
@@ -73,13 +66,11 @@ tags:  - format/case-study  - place/rural  - theme/community-currency
 - `license`: License of the publication
 
 ---
-
 ### Markdown Cheatsheet
 
 Use standard [Markdown formatting](https://www.markdownguide.org/cheat-sheet/) to write your content. Obsidian provides helpful shortcuts, but any text editor will work.
 
 ---
-
 ### Content Architecture
 
 Content lives in two main sections of the Knowledge Garden:

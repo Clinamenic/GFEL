@@ -32,8 +32,6 @@ Research and theory into how both web and analogue protocols operate beyond inst
 
 ## Contribute
 
-Have Ethereum Localist knowledge to share? This is the place. 
+Have Ethereum Localist knowledge to share? This is the place.
 
-Email us at etherealforest.eth@protonmail.com with your knowledge artifact and details including where you think the artifact belongs, your organizational affiliation, social media (farcaster and x). We may respond with some editorial comments, or we may post directly. 
-
-*Note: Detailed editorial standards are forthcoming.*
+→ [Contribution Guide](resources/contribution-guide)
