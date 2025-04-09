@@ -3,3 +3,12 @@ The _General Forum on Ethereum Localism Coloring & Activity Book_ is available a
 The book is formatted for easy home or local print shop use—most neighborhood printers can produce it at low cost. Download, print, and share with your GFEL community!
 
 [**Download the GFEL Coloring Book**](assets/gfel-coloring-book.pdf)
+
+<style>
+    iframe {
+        border-radius: 10px;
+        margin-top: 1rem;
+    }
+</style>
+
+<iframe src="assets/gfel-coloring-book.pdf" style="width: 100%; height: 400px" allowfullscreen></iframe>
