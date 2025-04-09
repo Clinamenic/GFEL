@@ -9,6 +9,10 @@ date: 2025-04-01
   display: none;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
 
 
 </style>
@@ -24,6 +28,8 @@ This movement and knowledge hub only exist with your participation - check out t
 [An Introduction to Ethereum Localism →](/introduction)
 
 **➔ LIVE! GG23 Regen Coordination Global Round**: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
+
+---
 
 ## Explore Our Digital Knowledge Garden
 
@@ -52,6 +58,8 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 </div>
 
 ![](assets/knowledgegarden-v2.png)
+
+---
 
 ## Get Involved
 

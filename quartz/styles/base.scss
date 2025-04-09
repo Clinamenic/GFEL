@@ -9,11 +9,50 @@
   font-weight: 100;
 }
 
-/* OnlyTrue */
+/* OnlyTrueNeutral */
 @font-face {
   font-family: "OnlyTrueNeutral";
   src: url("https://arweave.net/KcwvshmcMFCkoWMailgvRLmlALv0Ufjp__eSJU8EBSA") format("truetype");
   font-weight: 100;
+}
+
+
+/* Parasitype ExtraLight */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/GHkgacI1lBLYUODS0HgW4nyX9faMfY8LARvr7TBGusg") format("opentype");
+  font-weight: 100;
+}
+
+/* Parasitype Light */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/8kIQJQI1nfv7NdFa2OvKkgLIw8ArCO36IqA71xTmqVU") format("opentype");
+  font-weight: 200;
+}
+/* Parasitype Regular */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/qBdUBmJE1E6QwpsdcDZpoKTlRHAulmv5P0GHo9vZ8Pk") format("opentype");
+  font-weight: 300;
+}
+/* Parasitype Medium */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/dXva0YhRUK4tny_j3TjCsWJ1rYnI8rH3AofokOnG3ew") format("opentype");
+  font-weight: 400;
+}
+/* Parasitype SemiBold */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/5k8Pgs2eo01e8HczW9N_MfFxUYbNCxIBSHQKqun49C0") format("opentype");
+  font-weight: 500;
+}
+/* Parasitype Bold */
+@font-face {
+  font-family: "Parasitype";
+  src: url("https://arweave.net/dC1mAuwjjMBsQCo20Ex8CP869pLuk7OThN-AkZ-_veY") format("opentype");
+  font-weight: 600;
 }
 
 html {
