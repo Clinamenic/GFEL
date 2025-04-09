@@ -39,23 +39,38 @@ One of the curators will add it to the Knowledge Garden. We may ask for addition
 
 ## Authoring Content
 
+### Licensing
+Knowledge Garden publications by default will be licensed under CC BY-SA 4.0. Alternative licensing can be specified via metadata (see below). [About CC Licenses](https://creativecommons.org/share-your-work/cclicenses/)
+
 ### Metadata (Frontmatter)
 
-Each Markdown file should begin with a metadata section. This helps categorize and sort content throughout the site.
+Each Markdown file should begin with a metadata section that includes at least the minimum required information shared below. This helps categorize and sort content throughout the site. Additional metadata can be included at the submitter's discretion, examples below.
 
 Here’s a full example:
 
 ```markdown
----title: "Community Currencies in Chiapas"date: 2024-11-12author: "Sofia Martínez"tags:  - format/case-study  - place/rural  - theme/community-currency---
+---
+title: "Community Currencies in Chiapas"
+date: 2024-11-12
+author: "Sofia Martínez"
+tags:  - format/case-study  - place/rural  - theme/community-currency
+---
 ```
 
 ### Metadata Field Reference
 
+**Required**
 - `title`: The title of your piece
 - `date`: Submission or publication date (`YYYY-MM-DD`)
 - `author`: Your name or author name(s)
 - `tags`: A list of lowercase keywords to help with categorization
 	- [View the Tag Index](/tag-index)
+
+**Optional**
+- `authorURL`: URL of the author
+- `source`: Original source of the publication
+- `language`: Language of the publication
+- `license`: License of the publication
 
 ---
 
