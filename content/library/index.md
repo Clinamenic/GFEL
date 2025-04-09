@@ -34,4 +34,4 @@ Research and theory into how both web and analogue protocols operate beyond inst
 
 Have Ethereum Localist knowledge to share? This is the place.
 
-→ [Contribution Guide](resources/contribution-guide)
+→ [Contribution Guide](contribution-guide.md)

@@ -78,7 +78,7 @@ Have a resource in mind that resonates with the spirit of Ethereum Localism? We�
   <div class="home-card">
     <h3>Contribute</h3>
     <p>Add your experience and expertise to our Knowledge Garden.</p>
-    <a href="/resources/contribution-guide">Contribution Guide →</a>
+    <a href="/contribution-guide">Contribution Guide →</a>
   </div>
   
   <div class="home-card">

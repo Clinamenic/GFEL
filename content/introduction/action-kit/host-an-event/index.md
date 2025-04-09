@@ -45,6 +45,6 @@ Design immersive experiences for deeper learning, experimentation, and relations
 ---
 
 **Have a guide, template, or tool to share?**  
-We welcome contributions that help others organize, gather, and build in the spirit of Ethereum Localism → [Contribution Guide](resources/contribution-guide)
+We welcome contributions that help others organize, gather, and build in the spirit of Ethereum Localism → [Contribution Guide](contribution-guide.md)
 
 ![](assets/imagination-circle.png)
