@@ -2,6 +2,20 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+/* OnlyTrue */
+@font-face {
+  font-family: "OnlyTrue";
+  src: url("https://arweave.net/8X_aPZhwYX5-yT-Qu5iLCFdSmv1LpjNtMvYSZ5UgiKM") format("truetype");
+  font-weight: 100;
+}
+
+/* OnlyTrue */
+@font-face {
+  font-family: "OnlyTrueNeutral";
+  src: url("https://arweave.net/KcwvshmcMFCkoWMailgvRLmlALv0Ufjp__eSJU8EBSA") format("truetype");
+  font-weight: 100;
+}
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -150,6 +164,8 @@ a {
   }
 
   & > #quartz-body {
+    margin: 0 auto;
+    max-width: 750px;
     display: grid;
     grid-template-columns: #{map-get($desktopGrid, templateColumns)};
     grid-template-rows: #{map-get($desktopGrid, templateRows)};
@@ -172,7 +188,7 @@ a {
     }
 
     @media all and ($desktop) {
-      padding: 0 1rem;
+      padding: 0 0rem;
     }
     @media all and ($mobile) {
       margin: 0 auto;

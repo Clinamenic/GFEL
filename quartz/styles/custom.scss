@@ -1,6 +1,8 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+
+
 // for automated dashboard tile grid
 
 .dashboard-tiles {
@@ -209,8 +211,10 @@ header {
   z-index: 100;
   background-color: var(--light);
   width: 100%;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  border-bottom: 1px solid var(--lightgray);
+  max-width: 750px;
+  margin: 0.5rem auto 0rem auto;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
 }
 
 .header-wrapper {
@@ -393,6 +397,12 @@ header .search .search-button p {
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
+}
+
+@keyframes ColorChange {
+  0% { color: var(--secondary); }
+  50% { color: var(--tertiary); }
+  100% { color: var(--secondary); }
 }
 
 .nav-menu {

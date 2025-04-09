@@ -2,15 +2,26 @@
 title: ethereumlocalism.xyz
 date: 2025-04-01
 ---
-Welcome! **ethereumlocalism.xyz** is an open knowledge garden and action-oriented research hub dedicated to propagating the meme and practice of Ethereum Localism. 
 
- **Ethereum Localism** bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer-to-peer technologies. Tools and mechanisms like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.
+<style>
+
+.page-header .popover-hint {
+  display: none;
+}
+
+
+
+</style>
+
+<div id="index-header" style="font-family: 'OnlyTrue', monospace; font-size: clamp(1.75rem, 10vw, 5rem); text-transform: uppercase; text-align: center; margin: 5rem auto; animation: ColorChange 15s infinite ease-in-out; ">Ethereum<br> Localism</div>
+
+Welcome! **ethereumlocalism.xyz** is an open knowledge garden and action-oriented research hub dedicated to propagating the meme and practice of Ethereum Localism.
+
+**Ethereum Localism** bridges digital innovation with real-world impact through community-driven initiatives, enabling resilient and sustainable local economies powered by blockchain and peer-to-peer technologies. Tools and mechanisms like quadratic funding, local stablecoins, and decentralized governance and finance expand Ethereum’s utility beyond digital spaces to create tangible local impacts.
 
 This movement and knowledge hub only exist with your participation - check out the resources here on the site, and get involved!
 
-
 [An Introduction to Ethereum Localism →](/introduction)
-
 
 **➔ LIVE! GG23 Regen Coordination Global Round**: Support the ethereumlocalism.xyz operations guild! [https://explorer.gitcoin.co/#/round/42220/31/51](https://explorer.gitcoin.co/#/round/42220/31/51)
 
@@ -19,6 +30,7 @@ This movement and knowledge hub only exist with your participation - check out t
 Our Digital Knowledge Garden is an interconnected collection of ideas, concepts, and resources on Ethereum Localism. The Knowledge Garden grows through community contributions and provides a rich, networked understanding of the movement.
 
 _What is heavy should be local. What is light should be global and shared._ Welcome to the garden.
+
 <div class="home-grid">
   <div class="home-card">
     <h3>Library</h3>
@@ -40,9 +52,11 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 </div>
 
 ![](assets/knowledgegarden-v2.png)
+
 ## Get Involved
 
 **Join the growing community network of Ethereum Localists working toward more resilient, equitable, and regenerative local systems.**
+
 <div class="home-grid">
   <div class="home-card">
     <h3>Connect</h3>
@@ -60,6 +74,7 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 ![](assets/gfel-bouldercircle.jpg)
 
 ---
+
 ## Featured Resource: GFEL Boulder 2025 Video Recap
 
 The most recent gathering of [a General Forum on Ethereum Localism (GFEL) in Boulder](library/GFEL/GFEL-2025-Boulder-Documentation) was more than a conference—it was a living inquiry into how we build and sustain systems of coordination, community, and care in a time of both precarity and possibility.
@@ -69,6 +84,7 @@ As you’ll see in the recap, Ethereum Localism is not a fixed ideology, rather 
 ![Ethereum Localism: Boulder 2025](https://youtu.be/1rGrFA1JTmo?si=NIGbXA9AW5RTYcRZ)
 
 ---
+
 ## Keep Reading
 
 **Ethereum Localism: Grounding the Future of Coordination**
