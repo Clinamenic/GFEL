@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import { Script } from "./Script"
 import Header from "./Header"
+import Banner from "./Banner"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   Breadcrumbs,
   Comments,
   Script,
+  Banner,
 }

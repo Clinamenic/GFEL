@@ -11,6 +11,8 @@ replit.nix
 
 #Ignore obsidian folder (So that users can have their own obsidian vault configuration)
 .obsidian/
+!.obsidian/plugins/templater-obsidian/
+!.obsidian/plugins/templater-obsidian/**
 
 #Ignore specstory folder (Cursor chat export files, using Cursor extention Specstory)
 .specstory/
