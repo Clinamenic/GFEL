@@ -14,7 +14,7 @@ To contribute to this knowledge garden, you have two options: share resources wi
 ---
 ### Option 1: Share Resources
 
-If you have a resource you’d like to submit but don’t want to join the GitHub repo, you can share a Google Doc or markdown file with one of the curators to be added:
+If you have a resource you’d like to submit but don’t want to join the GitHub repo, you can share a Google Doc or markdown file (please include the required metadata, noted in the "Authoring Content" section below) with one of the curators - email:
 
 - **christypdx & exeunt:** [etherealforest.eth@protonmail.com](mailto:etherealforest.eth@protonmail.com)
 - **Clinamenic:** [ssc@clinamenic.com](mailto:ssc@clinamenic.com)
