@@ -4,6 +4,8 @@ The book is formatted for easy home or local print shop use—most neighborhood 
 
 [**Download the GFEL Coloring Book**](assets/gfel-coloring-book.pdf)
 
+[Mint the NFT for Free on Manifold](https://app.manifold.xyz/c/gfel-coloring-book)
+
 <style>
     iframe {
         border-radius: 10px;
