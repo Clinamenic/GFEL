@@ -21,48 +21,48 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
   function HeaderComponent(props: QuartzComponentProps) {
     return (
       <header>
-      <div className="container flex h-14 items-center">
-        <div className="mr-4 flex">
-        <a href="/" className="mr-6 flex items-center space-x-2">
-        <img
-        src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
-        alt="Ethereum Localism"
-        style={{ height: "2rem", objectFit: "contain", margin: "0rem" }}
-          /> 
-        </a>
-        </div>
-        <div className="flex flex-1 items-center justify-end space-x-2">
-          {/* Children (Darkmode, Search) are rendered here */}
-          <div className="header-actions">
-            {props.children}
+        <div className="container flex h-14 items-center">
+          <div className="mr-4 flex">
+            <a href="/" className="mr-6 flex items-center space-x-2">
+              <img
+                src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
+                alt="Ethereum Localism"
+                style={{ height: "2rem", objectFit: "contain", margin: "0rem" }}
+              /> 
+            </a>
           </div>
-          
-          <button
-            id="mobile-menu-button"
-            aria-label="Toggle menu"
-            className="mobile-nav-trigger"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <line x1="3" y1="12" x2="21" y2="12"></line>
-              <line x1="3" y1="6" x2="21" y2="6"></line>
-              <line x1="3" y1="18" x2="21" y2="18"></line>
-            </svg>
-          </button>
-        </div>
-      </div>
+          <div className="flex flex-1 items-center justify-end space-x-2">
+            {/* Children (Darkmode, Search) are rendered here */}
+            <div className="header-actions">
+              {props.children}
+            </div>
+            
+            <button
+              id="mobile-menu-button"
+              aria-label="Toggle menu"
+              className="mobile-nav-trigger"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+              </svg>
+            </button>
+          </div>
 
-        {/* Navigation menu */}
-        <div id="nav-menu" className="nav-menu">
-          <div className="nav-menu-content">
-            <a href="/">Home</a>
-            {Object.entries(links).map(([text, href]) => (
-              <a key={href} href={href}>{text}</a>
-            ))}
-            <a href="/introduction/action-kit">Action Kit</a>
+          {/* Navigation menu - moved inside container */}
+          <div id="nav-menu" className="nav-menu">
+            <div className="nav-menu-content">
+              <a href="/">Home</a>
+              {Object.entries(links).map(([text, href]) => (
+                <a key={href} href={href}>{text}</a>
+              ))}
+              <a href="/introduction/action-kit">Action Kit</a>
+            </div>
           </div>
         </div>
 
-        {/* Overlay to detect clicks outside of menu */}
+        {/* Overlay for closing menu */}
         <div id="nav-menu-overlay" className="nav-menu-overlay"></div>
       </header>
     )
