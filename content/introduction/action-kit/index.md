@@ -32,3 +32,5 @@ This kit is modular by design - you can use the parts that make sense for your c
 Join our community chat on Telegram to connect with others interested in and implementing Ethereum Localism.
 
 [Join the Telegram Group](https://t.me/+5Enk4J4d98MyMDkx)
+
+---
