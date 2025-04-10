@@ -9,6 +9,8 @@ language: en
 uuid: ded49b52-83ec-41cd-9c74-1c645941076f
 license:
 ---
+# urbe.eth – Building Rome’s Web3 Hub
+
 → [Read the full Field Report](library/Field-Reports/the-rise-of-urbe.eth)
 
 **Summary**  
