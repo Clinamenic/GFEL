@@ -29,7 +29,7 @@ Before applying frameworks or methodologies, Ethereum Localism might begin with 
 Ethereum Localist efforts are accountable to material conditions in specific places. Whether rural or urban, every project must engage with the lived realities of local life—community, food, labor, governance, and ecology. Localist technology takes root in the soil or the street.
 
 ### 2. Open by Default  
-> *“Invitations over impositions.”*
+> *“open source and interoperable; invitation over imposition.”*
 
 Ethereum Localism resists gatekeeping and centralized control. It favors open-source coordination and tools that can be forked, remixed, and shared. If a tool can’t be adapted by others, it is not in service to the cosmo-local. 
 
