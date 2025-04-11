@@ -59,6 +59,7 @@ Explore these communities to find kinship, inspiration, and invitations to colla
 - [Regens Unite](https://www.regensunite.earth/) – A convergence of creators, technologists, and community weavers organizing immersive gatherings around regeneration, coordination, and trust.
 - [Crypto Commons Association](https://www.crypto-commons.org/) – A think/do tank in the Austrian Alps cultivating research, residency, and retreat spaces for crypto-commons, post-capitalist tech, and open knowledge infrastructures.
 - [Ekonavi](https://ekonavi.com) – A collaborative community platform for ecological development, striving to connect agriculture, ecological activities and bio-construction, in Brazil and beyond.
+- [citydao.network (Telegram link)](http://t.me/citydaonetwork) - Networking hub group for members or aspiring builders of local city DAOs (i.e. ATX DAO, The Boston DAO)
 
 
 ---
