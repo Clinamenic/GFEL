@@ -1,3 +1,6 @@
+---
+date: 2025-04-15
+---
 *Source: [https://x.com/owocki/status/1912181165508694326](https://x.com/owocki/status/1912181165508694326)*
 
 *Written by [@montymerlin](https://x.com/@montymerlin), with input from [@owocki](https://x.com/@owocki) & [@christypdxeth](https://x.com/@christypdxeth).*
