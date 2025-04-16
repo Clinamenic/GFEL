@@ -1,10 +1,11 @@
 ---
 title:
 subtitle:
+date: YYYY-MM-DD
 author:
 authorURL:
-date:
-bannerURI:
+tags:
+source:
 language: en
 uuid: <%* 
 function generateUUID() {
@@ -18,5 +19,5 @@ function generateUUID() {
 }
 tR += generateUUID(); 
 %>
-license:
+license: CC BY-SA 4.0
 ---
