@@ -34,7 +34,7 @@ The project engages a global network of builders, long-time Ethereum contributor
 
 ## Tools & Infrastructure  
 - **Core Platforms:** [Arweave](https://www.arweave.org/), [DAOHaus](https://daohaus.club/)  
-- **Collaborative Stack:** Telegram, Obsidian, Gitcoin, and shared Google Docs  
+- **Collaborative Stack:** Telegram, Obsidian, GitHub, Gitcoin, and shared Google Docs  
 - **Pre-existing Networks:** GFEL community, Knowledge Garden stewards  
 
 ---
@@ -43,7 +43,7 @@ The project engages a global network of builders, long-time Ethereum contributor
 - **February 2025** — Initiative launches at GFEL Boulder  
 - **April 2025** — Telegram group and initial site go live  
 
-- Contributors organize co-working sessions, async collaboration, and community calls  
+- Contributors organize online co-working sessions, async collaboration, and community calls  
 - A dedicated channel for development fosters transparency and shared ownership  
 
 Governance is informal yet participatory: decisions are made by the most engaged contributors through collective dialogue and shared visioning.

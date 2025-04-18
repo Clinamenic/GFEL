@@ -1,3 +1,15 @@
+---
+title: The Cosmo-Local Plan for our Next Civilization
+subtitle: Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
+date: YYYY-MM-DD
+author: Michel Bauwens
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: eba51060-ea8d-451c-adaa-a26cb971db7e
+license: CC BY-SA 4.0
+---
 # The Cosmo-Local Plan for our Next Civilization
 
 ## Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
@@ -6,17 +18,17 @@ _by Michel Bauwens_
 
 In this essay I want to summarize the specificity of the cosmo-local approach to the present and future of human civilization. Cosmo-localism is a third option, next to the two great competing options of the Western 'mercantile' world order and the neo-sovereignist alternatives that are based on a renewed control of associated nation-states. In these two options, the digital is merely used to reinforce existing logics of power and control; in cosmo-localism, the digital is used to fundamentally reorganize the world order.
 
-So let us first define what we mean by adding these two contradictory terms together: the local and the cosmic.
+So let us first define what we mean by adding these two contradictory terms together: the *local* and the *cosmic*.
 
 Cosmo-localism is an approach that aims to combine resilient and regenerative forms of localized production, closer to demand, but combined with access to globally shared knowledge commons, translocal protocols of cooperation, and access to forms of capital that are compatible with commons-oriented approaches to local production. Each of the three elements of this definition is an important characteristic.
 
 It is sometimes summarized with the adage:
 
-> What is heavy should be local, and what is light should be global and shared.
+> **What is heavy should be local, and what is light should be global and shared.**
 
 Why is this a desirable goal?
 
-- The current global system of production and trade is reported to use three times more of its resource use for transport, not for making. This creates a profound 'ecological', i.e. biophysical and thermodynamic, rationale for relocalizing production
+- The current global system of production and trade is reported to use three times more of its resource use for transport, not for making[^1]. This creates a profound 'ecological', i.e. biophysical and thermodynamic, rationale for relocalizing production
 - The current system of production is based on mass production, and requires the constant creation of new desires and needs, which need to be created through advertising, and require massive forms of potentially unnecessary material production
 - The current system is 'closed source', and is carried out by competitive agents that do not share innovations for very long time periods; the competitiveness of these agents requires behaviors that externalize costs to the public and the state institutions
 - There is also a 'temporal' element to this analysis: we are no longer in a period of non-problematic globalization, but in a chaotic transition with increased and potentially violent competition for scarcifying resources, which requires de-risking supply chains.
@@ -25,20 +37,20 @@ A cosmo-local approach has obvious advantages in this context:
 
 - Relocalizing production saves a sizeable amount of matter and energy
 - Production on demand can eliminate the huge impetus to create artificial needs and desires
-- If we add open source knowledge, this means that any innovation anywhere in the common network is instantly available to every node in the network; this means that the switch in growth from exclusively focusing on efficiency, towards a balance between efficiency and resilience, can be accelerated. This is what we have called 'True Accelerationism'.
-- In addition, adding mutualizing forms of governance and ownership, can also have extraordinary effects on the amount of needed energy and materials. For example, in the context of shared transport, one shared car can replace 9 to 13 private cars, without any loss of mobility. A 'factor 20' movement can be imagined, in fact, already exists, which aims to reduce energy usage by 95%, coupled with significant savings in the use of materials. This movement is already active in various European cities.
+- If we add open source knowledge, this means that any innovation anywhere in the common network is instantly available to every node in the network; this means that the switch in growth from exclusively focusing on efficiency, towards a balance between efficiency and resilience, can be accelerated. This is what we have called 'True Accelerationism'.[^2]
+- In addition, adding mutualizing forms of governance and ownership, can also have extraordinary effects on the amount of needed energy and materials. For example, in the context of shared transport, one shared car can replace 9 to 13 private cars, without any loss of mobility. A 'factor 20' movement can be imagined, in fact, already exists, which aims to reduce energy usage by 95%, coupled with significant savings in the use of materials.[^3] This movement is already active in various European cities.
 
 The current techno-logical conditions make such a shift eminently imaginable, and technically feasible, although there are still huge social and political obstacles in the way of such a shift.
 
 On the positive side of the ledger:
 
-- Open source technology, now responsible for 80% of all used software, in the form of free software, shared knowledge, and open designs, creates the capacity to share knowledge and experience over networks, rapid collective learning, and accelerated innovation
-- Web3 and crypto have created the capacity to fund shared infrastructures in open eco-systems, through processes such as public goods funding; other advances in funding make it possible to move towards bioregional regenerative funding ecosystems
+- Open source technology, now responsible for 80% of all used software[^4], in the form of free software, shared knowledge, and open designs, creates the capacity to share knowledge and experience over networks, rapid collective learning, and accelerated innovation
+- Web3 and crypto have created the capacity to fund shared infrastructures in open eco-systems, through processes such as public goods funding[^5]; other advances in funding make it possible to move towards bioregional regenerative funding ecosystems[^6]
 - Maker technology, including advances in 3D printing, make it possible to move towards distributed manufacturing, using a 'on demand' logic of production
-- Advances in regenerative practices, such as the circular economy, biomimicry, biodegradable materials, make more sustainable production realistic. This includes new paradigms of productive organization, such as the 'mycelium' paradigm which has a certain popularity in the Web3 movement.
-- The blockchain, as universal ledger, creates a vast capacity for translocal coordination, and creates a new fourth sector model of 'organized networks based on common infrastructure'
-- A culture of translocal cooperation and mutual learning has been created, creating capacities for digital nomads for being the catalysts for translocal production alliances. With catalyst, I do not necessarily mean they are the founders and creators, but that they play vital roles as facilitators between the various locales. Imagine a global coalition between bioregional guilds rooted in the resilient production of their locales, aided and abetted by the more collective 'cosmic' knowledge of the appropriate 'cosmic' guilds.
-- Millions of people have turned to mutualized, regenerative and resilient local production and consumption practices, in all domains of production
+- Advances in regenerative practices, such as the circular economy, biomimicry, biodegradable materials, make more sustainable production realistic. This includes new paradigms of productive organization, such as the 'mycelium' paradigm which has a certain popularity in the Web3 movement.[^7]
+- The blockchain, as universal ledger[^8], creates a vast capacity for translocal coordination, and creates a new fourth sector model of 'organized networks based on common infrastructure'[^9]
+- A culture of translocal cooperation and mutual learning has been created, creating capacities for digital nomads for being the catalysts for translocal production alliances.[^10] With catalyst, I do not necessarily mean they are the founders and creators, but that they play vital roles as facilitators between the various locales. Imagine a global coalition between bioregional guilds rooted in the resilient production of their locales, aided and abetted by the more collective 'cosmic' knowledge of the appropriate 'cosmic' guilds.[^11]
+- Millions of people have turned to mutualized, regenerative and resilient local production and consumption practices, in all domains of production[^12]
 
 It may be useful to distinguish the 'players' that we see involved in such a transformation:
 
@@ -52,11 +64,11 @@ It may be useful to distinguish the 'players' that we see involved in such a tra
 In the new cosmo-local paradigm, one can distinguish different 'economic players' as well:
 
 - The 'open source' contributors, are all those that contribute, in one way or another, to the shared knowledge necessary for the productive project to succeed
-- The entrepreneurs, or as we would like to call them, the 'entredonneurs'. These are all those that add value to the open source common base, and create 'value for the market'. However, they are all co-dependent on the common pool. This is why the moniker of 'entredonneur' makes sense, as they are not merely extracting for their own benefit and profit, but realizing that their success depends on their common advantages through their networked production community. The search is on for the transformation of the more extractive forms of ownership, to more generative forms of property, in which there is more of balance between the market players and the commons they are interdependent with.
+- The entrepreneurs, or as we would like to call them, the 'entredonneurs'.[^13] These are all those that add value to the open source common base, and create 'value for the market'. However, they are all co-dependent on the common pool. This is why the moniker of 'entredonneur' makes sense, as they are not merely extracting for their own benefit and profit, but realizing that their success depends on their common advantages through their networked production community. The search is on for the transformation of the more extractive forms of ownership, to more generative forms of property, in which there is more of balance between the market players and the commons they are interdependent with.[^14]
 - In that context, it is important to acknowledge that the new economic institution is not just a corporation, or even a 'cooperative', but an 'organized network with commons'. Like the example of the DAO, this is a 'meta-container' that can organize at a higher level of integration, non-market (permissionless contributions), market (commodity-based value), but also public players.
 - But all of these arrangements also need capital inflows, but a particular kind of capital that is compatible with the development of commons-based networks.
 
-Elsewhere, we have provided a 'global history of regulation', which indicates the systemic characteristics that the new system must have.
+Elsewhere, we have provided a 'global history of regulation', which indicates the systemic characteristics that the new system must have.[^15]
 
 The essential and simplified of regulation would be the following:
 
@@ -69,9 +81,9 @@ In this context, the cosmo-local option is not focused neither on a belief in th
 
 In the short term, the cosmo-local option and strategy is concerned with translocally strengthening alliances of locally-oriented regenerative production.
 
-The goal to be imagined is the following:
+*The goal to be imagined is the following:*
 
-- On the local level we have the existence of allied local productive actors which can be organized around specific functional domains of activity (say the various provisioning systems), or perhaps, alliances of complementary local production initiatives, which may seek transnational support and strength, but most importantly translocal capital. The historical precedent for this, have been called 'Neo-Venetian Networks' or 'Phyles' by David de Ugarte. In an earlier essay, I have described the entanglement of local and transnational capital in the Maronite communities of Northern Lebanon, while I have also described the local affinity based funding scheme experimented by Hugo Mathecowitsch in Honduras and Brazil. Traditional surviving kinship-based solidarity models are now supplemented by affinity-based neo-tribes that share a common social object in the commons they are mutually dependent on.
+- On the local level we have the existence of allied local productive actors which can be organized around specific functional domains of activity (say the various provisioning systems), or perhaps, alliances of complementary local production initiatives, which may seek transnational support and strength, but most importantly translocal capital. The historical precedent for this, have been called 'Neo-Venetian Networks'[^16] or 'Phyles'[^17] by David de Ugarte. In an earlier essay, I have described the entanglement of local and transnational capital in the Maronite communities of Northern Lebanon, while I have also described the local affinity based funding scheme experimented by Hugo Mathecowitsch in Honduras and Brazil[^18][^19]. Traditional surviving kinship-based solidarity models are now supplemented by affinity-based neo-tribes that share a common social object in the commons they are mutually dependent on.
 - On the trans-local level, we must imagine productive alliances organizing the joint knowledge commons, their protocols of cooperation, collective learning, collective management of jointly held resources.
 - The local units have the capacity to invest and co-own the translocal resources of the alliances and commons they belong to; the trans-national alliances have the capacity to direct investment to the local units, and perhaps co-own some part of it. The idea here is a potential 'entanglement' between the local and the translocal level, which creates new levels of strength and capacity for the local.
 - Hence, faced with the potential hostility of nation-states that are under the influence of extractive forces of trans-national finance, the local is no longer just the local, but a local that is also cosmo-local, and can mobilize counter-power.
@@ -83,22 +95,22 @@ It is to be stressed that this Cosmo-Localism is not at the outset a monolithic 
 - In which circumstance is it best to envisage trans-local alliances that are linked to the functional domain of a particular provisioning system?
 - In which circumstance is it best to envisage a cross-functional alliance?
 
-Cosmo-localism is compatible with functional city alliances that bypass nation-state levels of organization (for example, say a trans-local city league of FairBnB's), but it is also compatible with a bioregional reorganization of the physical-productive world, in which bioregionalization is facilitated by the historical and political unifying tradition of the nation-state.
+Cosmo-localism is compatible with functional city alliances that bypass nation-state levels of organization (for example, say a trans-local city league of FairBnB's[^20]), but it is also compatible with a bioregional reorganization of the physical-productive world, in which bioregionalization is facilitated by the historical and political unifying tradition of the nation-state.
 
 What is crucial in the cosmo-local option is some form of new integration of:
 
 - Reinforced local and functional differentialism; in contrast with the purely standardizing commercial globalization model, it must leave more room for differentialist specificity, which can be both a localist feature (bioregional identity), a trans-local cultural identity (a diasporic project), but also a functional differentiation, i.e. a value based solution for a particular provisioning system.
 - Reinforced planetary care: localism on its own cannot resist globalized pressure, nor solve planetary and global thermo-dynamic issues.
 
-Cosmo-localism attempts a difficult 'unity of opposites', which recognizes both local and functional autonomy (the latter is called Sphere Sovereignty, and can be traced to Althussius, the alternative to Hobbesian absolute 'sovereignty') and the need for higher levels of unity and coordination. The cosmo-local option rejects any 'absolute' form of sovereignty, and opts preferentially for distributed forms of governance.
+Cosmo-localism attempts a difficult 'unity of opposites', which recognizes both local and functional autonomy (the latter is called Sphere Sovereignty[^21], and can be traced to Althussius, the alternative to Hobbesian absolute 'sovereignty') and the need for higher levels of unity and coordination. The cosmo-local option rejects any 'absolute' form of sovereignty, and opts preferentially for distributed forms of governance.
 
 It is important to recap what Web3 has already brought to the table in this context:
 
 - A capacity to globally coordinate human labor and fund it
 - A universal ledger which can create open ecosystems for non-local coordination, with new accounting systems for contributory labor, 3D systems flow, and thermo-dynamic flow
-- Programmable currencies which can represent various value options.
+- Programmable currencies which can represent various value options.[^22]
 - The capacity to fund its own commons-based infrastructures, i.e. public funding, and even retroactive public funding
-- Anti-oligarchic, 'timocratic' coordination and decision-making mechanisms, such as quadratic voting, and other new capacities to align incentives between various stakeholders. In Web3, both capital and labor, and other productive factors and forces, can be interpreted and treated as contributions to a common project.
+- Anti-oligarchic, 'timocratic' coordination[^23] and decision-making mechanisms, such as quadratic voting, and other new capacities to align incentives between various stakeholders. In Web3, both capital and labor, and other productive factors and forces, can be interpreted and treated as contributions to a common project.
 
 All these techno-social trends are very much underway already.
 
@@ -114,4 +126,30 @@ On the one hand, we have a thriving and well-funded field of Web3 technologies, 
 
 To achieve the next great civilizational advance, towards a cosmo-local world order, we will need to bring those two worlds together!
 
+---
+[^1]: Michel Bauwens, “Three times as many raw materials are used to export traded goods than are used in their manufacture,” P2P Foundation, https://blog.p2pfoundation.net/three-times-as-many-raw-materials-are-used-to-export-traded-goods-than-are-used-in-their-manufacture/2013/09/15
+[^2]: “True Accelerationism,” https://blog.p2pfoundation.net/?s=True+Accelerationism
+[^3]: “Factor 20 Reduction,” https://wiki.p2pfoundation.net/Factor_20_Reduction
+[^4]: “Linux Statistics,” https://gitnux.org/linux-statistics/
+[^5]: “Regenerative Public Goods for Sustainable Communities,” https://www.youtube.com/watch?v=q-xlv_D7yqo
+[^6]: “What is a BFF?” https://www.biofi.earth/what-is-a-bff
+[^7]: Jeff Emmett & Jessica Zartler, Exploring MycoFi: Mycelial Design Patterns for Web3 and Beyond (Mycopunk, 2024), https://greenpill.network/pdf/mycofi.pdf
+[^8]: Michael Bauwens & Alex Pazaitas, P2P Accounting For Planetary Survival,” P2P Foundation, https://wiki.p2pfoundation.net/images/AccountingForPlanetarySurvival_def.pdf
+[^9]: “Fourth Sector,” https://wiki.p2pfoundation.net/Fourth_Sector
+[^10]: “Somewheres, Nowheres, Everywheres,” https://wiki.p2pfoundation.net/Some-wheres,_Nowheres,_and_Everywheres
+[^11]: “Bioregional DAOs vs. Guild DAOs,” https://wiki.p2pfoundation.net/Bioregional_DAOs_vs_Guild_DAOs
+[^12]: Michel Bauwens, Rok Kranjc, Jose Ramos, “Commons Economies in Action: Mutualizing Urban Provisioning Systems,” https://wiki.p2pfoundation.net/images/Commons_Economies_in_Action.pdf
+[^13]: ”Entredonneur,” https://wiki.p2pfoundation.net/Entredonneur
+[^14]: Marjorie Kelly, “Generative vs. Extractive Ownership” in Owning Our Future: The Emerging Ownership Revolution. Journeys to a Generative Economy, Berrett-Koehler Publishers, 2012, 11-12
+[^15]: Michel Bauwens, “A Global History of Societal Regulation: Why Commons-based Institutions Now Need to Regulate the Market and State ‘Cosmo-locally’,” https://4thgenerationcivilization.substack.com/p/a-global-history-of-societal-regulation
+[^16]: “Neo-Venetianism,” https://wiki.p2pfoundation.net/Neo-Venetianism
+[^17]: “Phyles,” https://wiki.p2pfoundation.net/Phyles
+[^18]: Michel Bauwens, “Beirut - Istanbul - Athens: the fate of tribes in a cosmo-local world” https://4thgenerationcivilization.substack.com/p/beirut-istanbul-athens-the-fate-of
+[^19]: Michel Bauwens, “A system of sovereign bonds but for alternative types of sovereignties?” https://4thgenerationcivilization.substack.com/p/a-system-of-sovereign-bonds-
+[^20]: “FairBnB,” https://wiki.p2pfoundation.net/FairBnB
+[^21]: “Sphere Sovereignty,” https://wiki.p2pfoundation.net/Sphere_Sovereignty
+[^22]: Akseli Vertanin, “Crypto-Political Economy: Transcending Hayek and his digital disciples,” econaut, https://medium.com/econaut/crypto-political-economy-dd91c6fcff7
+[^23]: “Timocratic Governance,” https://wiki.p2pfoundation.net/Timocratic_Governance
+but-for
+---
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Interlude](https://claude.ai/chat/ethereum-localism-interlude) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective)
