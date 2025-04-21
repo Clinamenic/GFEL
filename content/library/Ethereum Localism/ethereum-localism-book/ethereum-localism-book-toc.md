@@ -17,7 +17,6 @@ This table of contents provides links to all the Markdown sections of the book "
 11. [Bioregional Organizing Networks](ethereum-localism-book-bioregional.md) By Andrea Farias
 12. [Neighbourhoods: Web3 Technologies and Progressive Alter-globalism](ethereum-localism-book-neighbourhoods.md) by Emaline Friedman
 13. [dPAN's: Reimagining Collective Action in the 21st century](ethereum-localism-book-dpans.md) by Nate Suits
-    - [dPAN's: Continued](ethereum-localism-book-dpans-continued.md)
 14. [From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy](ethereum-localism-book-information-tsunamis.md) By Crystal Street
 15. [MycoFi: Where Web3 meets Emergency Finance for Communities](ethereum-localism-book-mycofi.md) By Scott Morris
 16. [We Got Us: A Regen Hub Playbook](ethereum-localism-book-regen-hub.md) by Kevin Owocki and Benjamin Life

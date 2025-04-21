@@ -1,7 +1,6 @@
 ---
 title: The Cosmo-Local Plan for our Next Civilization
 subtitle: Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
-date: YYYY-MM-DD
 author: Michel Bauwens
 authorURL: 
 tags: 
@@ -150,6 +149,5 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 [^21]: “Sphere Sovereignty,” https://wiki.p2pfoundation.net/Sphere_Sovereignty
 [^22]: Akseli Vertanin, “Crypto-Political Economy: Transcending Hayek and his digital disciples,” econaut, https://medium.com/econaut/crypto-political-economy-dd91c6fcff7
 [^23]: “Timocratic Governance,” https://wiki.p2pfoundation.net/Timocratic_Governance
-but-for
 ---
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Interlude](https://claude.ai/chat/ethereum-localism-interlude) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective)
