@@ -1,5 +1,5 @@
 ---
-title: index
+title: Ethereum Localism Initiative & Community Registry
 subtitle: 
 author: 
 authorURL: 
