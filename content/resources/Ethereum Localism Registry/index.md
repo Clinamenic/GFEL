@@ -16,8 +16,6 @@ Want to be listed? → [Submit your initiative](LINK-TO-FORM)
 
 ---
 
-## Registered Initiatives
-
 - **[PDX DAO](/library/Registry/pdx-dao)**  
   **Portland, Oregon** | Local DAO, Governance Experiments | 🟡 On Hold  
   A local Ethereum collective focused on civic education, policy engagement, and urban coordination.
