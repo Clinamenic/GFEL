@@ -13,6 +13,7 @@ license: CC BY-SA 4.0
 **Bioregion:** Cascadia  
 **Started:** March 2023  
 **Status:** On Hold  
+**ENS:** ethpdx.eth
 **Website / Socials:** [pdxdao.xyz](https://pdxdao.xyz) / [@PDXDAO](https://twitter.com/pdxdao)
 **Contact**: etherealforest.eth@protonmail.com
 
@@ -39,4 +40,4 @@ PDX DAO functions as a permissionless coalition of local DAOs. Anyone can create
 **Offers:** Consultation on civic DAOs early experiments and research, and how Ethereum Localism is suited to enable the mass onboarding of humans and fiat capital, and shape the future of human coordination.
 
 ## Contributor  
-pdx.eth
+christypdx.eth

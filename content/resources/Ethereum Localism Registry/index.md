@@ -16,10 +16,13 @@ Want to be listed? → [Submit your initiative](LINK-TO-FORM)
 
 ---
 
-- **[PDX DAO](/library/Registry/pdx-dao)**  
-  **Portland, Oregon** | Local DAO, Governance Experiments | 🟡 On Hold  
+- Ethereal ForestO](resources/Ethereum-localism)**  
+  **Portl
+ 
+- **[PDX DAO](resources/Ethereum-localism)**  
+  **Portland, Oregon** | Local DAO, Governance Experiments | 🟡 **On Hold**  
   A local Ethereum collective focused on civic education, policy engagement, and urban coordination.
 
 - **[Regen Hub Boulder](/library/Registry/regen-hub-boulder)**  
-  **Boulder, Colorado** | Regenerative Finance, Community Coordination | 🟢 Active  
+  **Boulder, Colorado** | Regenerative Finance, Community Coordination | 🟢 **Active**  
   A bioregional hub piloting local coordination for land stewardship, public goods, and regenerative practices.
