@@ -1,5 +1,14 @@
-# On Open Civic Systems
-
+---
+title: On Open Civic Systems
+subtitle: 
+author: 
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 3a5f8d95-1c4c-422a-a6d3-d887629a0c6d
+license: CC BY-SA 4.0
+---
 _An Excerpt From Towards An Open Civics_
 
 ## Stigmergy: The Nature Of Open Civic Systems
@@ -45,5 +54,9 @@ This design approach to open civic systems is directly connected to the developm
 As the system evolves, patterns that produce positive outcomes will be selected, with forking and merging of patterns achieving the same effects as genetic mutation and reproduction. Through an open protocol pattern language, these learnings and evolutionary adaptations can be cosmo-locally shared and integrated, allowing humanity to learn together how best to design and deploy open civic systems.
 
 If humanity can align around open civic innovation models, our collective intelligence can be harnessed to collaboratively compose the civilization that we share.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Rooted Society Manifesto](https://claude.ai/chat/ethereum-localism-manifesto) | [Next: Walkthrough of the Green Crypto Handbook](https://claude.ai/chat/ethereum-localism-green-crypto)

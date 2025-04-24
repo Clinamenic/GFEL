@@ -1,4 +1,14 @@
-# Ethereum Localism: Grounding the Future of Coordination
+---
+title: "Ethereum Localism: Grounding the Future of Coordination"
+subtitle: 
+author: 
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 5af313e6-2a4a-48aa-a05d-a3036c87ea6d
+license: CC BY-SA 4.0
+---
 ## Table of Contents
 
 This table of contents provides links to all the Markdown sections of the book "Ethereum Localism: Grounding the Future of Coordination" for easy navigation.
@@ -8,7 +18,6 @@ This table of contents provides links to all the Markdown sections of the book "
 3. [The Cosmo-Local Plan for our Next Civilization](ethereum-localism-book-cosmo-local-plan.md) by Michel Bauwens
 4. [Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-shift-in-perspective.md) by Marcus Barrick
 5. [The Inverted City: Speculative P2P and the Urban Protocol Underground](ethereum-localism-book-inverted-city.md) by Exeunt
-   - [The Inverted City: Continued](ethereum-localism-inverted-city-continued)
 6. [Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy](ethereum-localism-book-semiotic-bridging.md) by Giulio Quarta
 7. [Second Interlude](ethereum-localism-book-interlude-2.md)
 8. [Manifesto da Sociedade Enraizada / The Rooted Society Manifesto](ethereum-localism-book-manifesto.md) via AgroforestDAO
@@ -20,4 +29,5 @@ This table of contents provides links to all the Markdown sections of the book "
 14. [From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy](ethereum-localism-book-information-tsunamis.md) By Crystal Street
 15. [MycoFi: Where Web3 meets Emergency Finance for Communities](ethereum-localism-book-mycofi.md) By Scott Morris
 16. [We Got Us: A Regen Hub Playbook](ethereum-localism-book-regen-hub.md) by Kevin Owocki and Benjamin Life
-    - [We Got Us: Continued](ethereum-localism-book-regen-hub-continued.md)
+
+![](assets/ELbookcover.png)

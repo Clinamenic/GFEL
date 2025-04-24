@@ -1,5 +1,14 @@
-# Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy
-
+---
+title: "Semiotic Bridging: a practice for Ethereum Localism and the Commons Economy"
+subtitle: 
+author: Giulio Quarta
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: bf7ae146-1e4b-4e57-9309-c22ae29e786b
+license: CC BY-SA 4.0
+---
 _By Giulio Quarta, Director of the Commons Economy Roadmap_
 
 The art of weaving together different perspectives toward a common goal is nothing new. Political movements have long practiced the hard work of reformulating diverse viewpoints into unifying powerful narratives. Corporate marketing departments invest billions in understanding and influencing collective narratives to keep the profits machine going.
@@ -45,5 +54,9 @@ For such new narrative layers to be successful, all these meaning building block
 The future of Ethereum Localism and the Commons depends on our ability to bridge multiple worlds: the technical and the social, the global and the local, the digital and the ecological. Organizing plurality without leaving anybody behind is the most demanding mode of existence one can choose in general, and much more so when fascism is coming back on the global stage with the precise goal of exterminating such diversity. We are convinced the semiotic bridging practices introduced in this piece can better equip us all in this struggle, helping us to appreciate both the wonderful variety of our efforts and their fundamental unity, as well as the deep beauty of this tension.
 
 For updates on this work and to join the conversation, subscribe to the Commons Economy Roadmap newsletter or contact giulioquarta@protonmail.com
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city) | [Next: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2)

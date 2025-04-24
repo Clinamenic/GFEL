@@ -43,4 +43,8 @@ Finally, the **Market Layer** represents the conditions under which green crypto
 
 The rise of Web3 unlocks a new substrate for computational civilization to experiment with the production of new forms of natural capital. Ultimately, the goal of applying cybernetic principles to the 21st century economy "to combat the general entropy that threatens living beings" lives on and through Web3's emerging environmental finance stack, which is uniquely poised to create socioecological networks that are resilient, responsive, and capable of achieving their adaptive objectives in a digitalized, dynamic, and climate-catastrophic world.
 
+---
+
+---
+
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics) | [Next: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional)

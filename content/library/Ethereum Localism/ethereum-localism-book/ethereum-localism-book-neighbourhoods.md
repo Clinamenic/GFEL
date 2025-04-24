@@ -1,5 +1,14 @@
-# Neighbourhoods: Web3 Technologies and Progressive Alter-globalism
-
+---
+title: "Neighbourhoods: Web3 Technologies and Progressive Alter-globalism"
+subtitle: 
+author: Emaline Friedman
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: a6eca411-2ba0-4421-932e-22c84a1cef29
+license: CC BY-SA 4.0
+---
 _By Emaline Friedman_
 
 The 1999 protests in Seattle at the World Trade Organization (WTO) was described by Naomi Klein as the 'coming-out party of a resistance movement'. Activists organized to decry the damning effects of neoliberalism and the reduction of all social life to transaction relationships, and all meaning to capital. Since then, anti-globalists have sought alternatives that aren't against globalization per se, instead understanding it as an objective process. This conceptual shift has led such activists to move progressively from condemnation of globalization, to demanding a more fair and humane globalization, and finally to articulating means by which forces of globalization might be harnessed toward the interest of civil, human, and employee rights.
@@ -45,5 +54,9 @@ The combination of local-first/distributed/p2p protocols and Web3 technologies o
 ## Conclusion and questions
 
 In summary: hold data in common with the community of purpose that generates it! Decide together how to append these to a resilient, "global" ledger for the benefit of those to whom the data pertains. Many questions about what this entails remain. For example, is the context of data generation necessary geographically local? I don't think so, though this may often be the case. As the era of de-globalization progresses, it remains to be seen what the target unit of social change will be. Much to the chagrin of blockchain maximalists, many of whom represent the market fundamentalism that alter-globalism opposes, the nation-state may again come to matter as much as ever in representing the interest of members of various societies and communities on the ground, arranging methods of peaceful coexistence with other collectivities, and facilitating or blocking access to computing infrastructure. And, while context may be non-geographically proximate, personal data generation will always pertain to the imagined communities on which actual people depend. The way in which 'online first' and 'offline first' communities stand to utilize the approach outlined here remains to be seen; my hope is that the tension between local and global participation become generative, rather than cancerous, to the development of subjectivity and society in the 21st century.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional) | [Next: dPAN's](https://claude.ai/chat/ethereum-localism-dpans)

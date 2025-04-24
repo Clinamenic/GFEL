@@ -1,5 +1,14 @@
-# Does organizing at the Cosmo-local level require a profound shift in perspective?
-
+---
+title: Does organizing at the Cosmo-local level require a profound shift in perspective?
+subtitle: 
+author: Marcus Barrick
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 962947e6-afdf-49e7-a99f-8d04f7403131
+license: CC BY-SA 4.0
+---
 _by Marcus Barrick_
 
 In socioeconomic discourse, the often overlooked factor is the way a system scales; if mentioned, it is typically reduced to mere "economies of scale," the rate at which the human population and technology have scaled, or the desire to scale new emerging systems. Such a term is still interpreted merely as the scale of quantity, yet the defining features of scale are the myriad of qualitative phase shifts that occur at different orders of scale. The way we relate to each scale becomes the central focus: a tree packages the smallest amount of nutrients and information to travel long distances within a seed, it does not regrow a tree beside it and then ship it away to long distances. Throughout humanity's industrial revolutions we have mastered all too well how to scale quantities, yet have missed an incredible opportunity and lesson in the qualitative dimensions of scale. The global population has greatly increased throughout these industrial revolutions, and again, we have forgotten the qualitative changes that occur within any group or organization.
@@ -19,5 +28,9 @@ In her book Doughnut Economics, Kate Raworth describes various experimental mone
 If the 20th century was marked by the dependency between the individual and nation-state, which has led to various social and environmental crises, may the 21st century focus on the local and global scales? I suggest that local coordination isn't merely a scaled-up version of individual coordination, but is distinct in many ways and requires an entirely different frame of mind. Through walls and weapons, we create imaginary lines between self and other, between the products we own and those we trade. But at the local level, such rigid boundaries are not viable; instead of products, we must focus on processes. The myopia of the product-mindset is why we fail to organize at the local and global levels and can only seem to plunder their commons.
 
 To the extent that the diverse processes of our world are construed as mere products with their value somehow reducible and fungible to a single quantity, the true wealth of this world is corrupted. Similarly, when we determine the success of an economy by measuring the sale of products, we promote a system of individual property to increase consumption. Organizing at the local level in a way that fosters the commons, sharing, and gift economies thrive precisely by not measuring the sale of products but focusing on relational processes, which in turn reduce consumption. The failure to organize at the global level has been met with naïve attempts to model it as a singular game led by a world economy operating as a scaled-up neoliberal nation-state. These are all category errors; the local and cosmopolitan scales are different in kind than the individual and national levels. Such a frameshift requires a different way of thinking about life, organization, and economies along with the nature of work, ownership and reward. If we are to take the existential risks of the meta-crisis seriously, the solutions aren't merely technological, political, or economic, but address the core of our being and identification.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Cosmo-Local Plan](https://claude.ai/chat/ethereum-localism-cosmo-local-plan) | [Next: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city)

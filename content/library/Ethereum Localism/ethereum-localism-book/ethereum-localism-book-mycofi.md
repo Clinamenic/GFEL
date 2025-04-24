@@ -1,5 +1,14 @@
-# MycoFi: Where Web3 meets Emergency Finance for Communities
-
+---
+title: "MycoFi: Where Web3 meets Emergency Finance for Communities"
+subtitle: 
+author: Scott Morris
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 25e21a38-f066-4c7f-bb18-1859ce9403bb
+license: CC BY-SA 4.0
+---
 _By Scott Morris (x Claude 3.5 Sonnet)_
 
 In the shadow of catastrophe lies revelation. Black swan events - the devastating, unpredictable crises that imperil and reshape our world - serve as brutal but illuminating stress tests of our social and economic systems. The 2008 financial crisis exposed the house of cards underlying global banking, while COVID-19 revealed the fragility of globalized supply chains and the deadly consequences of overreliance on centralized response systems.
@@ -120,5 +129,9 @@ The convergence of web3 technologies with time-tested patterns of community fina
 The tools for building resilient community financial systems are at hand and ready to bear. The challenge is not technical feasibility but clarity of vision and coordination. By learning from both historical examples and natural systems, we can create financial infrastructure using new coordinative technologies that strengthen communities rather than extracting from them.
 
 If this is your vibe, join us at MycoFi.Earth to connect with others building these systems and access open-source tools and frameworks for implementation.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: From Information Tsunamis to Local Streams](https://claude.ai/chat/ethereum-localism-information-tsunamis) | [Next: We Got Us - A Regen Hub Playbook](https://claude.ai/chat/ethereum-localism-regen-hub)

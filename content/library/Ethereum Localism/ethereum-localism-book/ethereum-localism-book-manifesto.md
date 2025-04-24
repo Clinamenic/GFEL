@@ -1,3 +1,14 @@
+---
+title: The Rooted Society Manifesto
+subtitle: 
+author: AgroforestDAO
+authorURL: 
+tags: 
+source: 
+language: en, pt-br
+uuid: 3bcc303b-50cc-44e4-85d2-93f1292e8c6d
+license: CC BY-SA 4.0
+---
 # Manifesto da Sociedade Enraizada
 
 _via AgroforestDAO_
@@ -53,5 +64,9 @@ We advocate for the understanding that we are a global tribe and that our planet
 6. Conflict-resolution mechanisms that are low cost and easily accessible for members of the commons.
 7. The ability to create regulations without the infringement of an outside authority.
 8. Decentralized decision-making in the case of larger commons.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2) | [Next: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics)

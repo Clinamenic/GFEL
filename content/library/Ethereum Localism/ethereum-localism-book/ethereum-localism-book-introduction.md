@@ -1,5 +1,14 @@
-# Ethereum Localism: Grounding the Future of Coordination
-
+---
+title: Introduction
+subtitle: 
+author: 
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 56de4acc-4d55-4836-9302-b62de88c6d48
+license: CC BY-SA 4.0
+---
 _21.2.2025_
 
 **Collated and Published by**  
@@ -68,3 +77,8 @@ Alternative currency Jedi master Scott Morris offers a glimpse into the avant ga
 As mentioned above, the 2023 GFEL conference took place at a community warehouse space in Portland that may have been one of the inspirations for the ambitious Regen Hub protocol outlined in Benjamin Life and Kevin Owocki's RegenHub Franchise Guide. An appropriate bookend, the step by step guide is informed throughout by the collective experiential knowledge that is crucial to filling in and elaborating the work this volume lays out. Note that the piece uses the word "friend" twelve times.
 
 Visit ethereumlocalism.xyz to find insights from and documentation of Ethereum Localism events, more essays in the vein of this book, and a space to contribute if you have perspective to add to this conversation.
+
+---
+
+---
+

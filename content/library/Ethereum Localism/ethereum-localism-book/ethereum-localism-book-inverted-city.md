@@ -1,5 +1,14 @@
-# The Inverted City: Speculative P2P and the Urban Protocol Underground
-
+---
+title: "The Inverted City: Speculative P2P and the Urban Protocol Underground"
+subtitle: 
+author: Exeunt
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 83b1636b-7db2-4204-8274-f17436b3a025
+license: CC BY-SA 4.0
+---
 _by Exeunt_
 
 _The Open Protocol Research Group is Ven Gist, MacksWolf and Exeunt. We are a research initiative of Portland's Ethereal Forest DAO, currently conducting interviews in the Portland region to gain insight on the autonomous structures that animate our present - and the promise they hold for our future._
@@ -59,5 +68,9 @@ For the undergrounds, it's on the level of cultural imagination, for they have e
 On the other hand, these experiments in many-worlding remain scarce, offering little threat of competition to the dominant systems that enjoy robust channels of expansion and reproduction. Reproducing without the above mentioned "hazards of scaling" has remained a taboo for these undergrounds, while for the Ethereum community, the nurturing and resourcing of free protocols is a technical problem with dozens of engineered solutions, from DAOs to self curated registries to token engineering and exotic participatory funding strategies to the many hybrids between them.
 
 Cities represent an ancient and creative locus for the capture and censorship resistance Ethereum aspires to. If their cultural undergrounds have long since discovered open protocolization as a natural defense against an (often legally enforced) institutional hegemony, along with scenes and extitutional storefronts to expand those protocols, their sole limitation is the one of scaling. To our eye, many scene veterans are morbidly content with the fatalism of this project: to scale is to die (a sensible impulse, given the barriers mentioned above). Against this self-reinforcing impasse, Ethereum's pragmatic sensibility offers an exit: in a machinic, thermodynamically grounded formalization without institutions, the social tendency to pluralism and empathic imagination could be unleashed.
+
+---
+
+---
 
 [Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective) | [Next: Semiotic Bridging](https://claude.ai/chat/ethereum-localism-semiotic-bridging)

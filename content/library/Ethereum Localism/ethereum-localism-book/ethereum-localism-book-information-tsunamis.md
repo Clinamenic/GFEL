@@ -1,5 +1,15 @@
-# From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy
-
+---
+title: "From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy"
+subtitle: 
+date: YYYY-MM-DD
+author: 
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: 991df19d-238a-4087-8d67-a10d10911126
+license: CC BY-SA 4.0
+---
 _By Crystal Street of JournoDAO_
 
 We live in an era of information tsunamis. What passes as "news" in 2025 travels at a dizzying speed, is riddled with disinformation and bias, dumbed down to the point of futility and echoed back to us through our "trusted neighbors" lacking doubt or discernment. We consume this information in glances, soundbites and TikToks while doom scrolling the drama du jour. The disinformation pipeline is fortified by weaponized algorithms running through the fingers of oligarchs on a mission to reshape society into a techno-utopia where an elite class dictates an unwanted reality upon us. And we all participate in the Spectacle (knowingly or not) as those algorithms are intertwined in almost every aspect of our modern lives.
@@ -33,5 +43,9 @@ We know our technology is far from mass adoption and our solutions are ephemeral
 - Information that can never be removed from the record of history because it lives on decentralized servers owned by no one and powered by everyone.
 
 Can hyperlocal rivers of information flowing on and within Ethereum ecosystems restore what was lost so we can continue this great American experiment? Or will our local human systems suffocate under the amplification of false realities as neighbors embrace dissolution and separation in a race to protect themselves from the mirage of a culture war masking the very real class warfare burning down everything we hold dear as a collective?
+
+---
+
+---
 
 [Back to Introduction](https://claude.ai/chat/ethereum-localism-introduction) | [Previous: dPAN's](https://claude.ai/chat/ethereum-localism-dpans-continued)
