@@ -8,6 +8,7 @@ source:
 language: en, pt-br
 uuid: 3bcc303b-50cc-44e4-85d2-93f1292e8c6d
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
 # Manifesto da Sociedade Enraizada
 

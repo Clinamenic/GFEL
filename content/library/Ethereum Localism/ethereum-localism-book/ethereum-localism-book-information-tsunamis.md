@@ -1,7 +1,7 @@
 ---
 title: "From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy"
 subtitle: 
-date: YYYY-MM-DD
+date: 2025-02-21
 author: 
 authorURL: 
 tags: 

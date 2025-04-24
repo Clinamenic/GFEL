@@ -8,6 +8,7 @@ source:
 language: en
 uuid: 5af313e6-2a4a-48aa-a05d-a3036c87ea6d
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
 ## Table of Contents
 
@@ -30,4 +31,5 @@ This table of contents provides links to all the Markdown sections of the book "
 15. [MycoFi: Where Web3 meets Emergency Finance for Communities](ethereum-localism-book-mycofi.md) By Scott Morris
 16. [We Got Us: A Regen Hub Playbook](ethereum-localism-book-regen-hub.md) by Kevin Owocki and Benjamin Life
 
+---
 ![](assets/ELbookcover.png)

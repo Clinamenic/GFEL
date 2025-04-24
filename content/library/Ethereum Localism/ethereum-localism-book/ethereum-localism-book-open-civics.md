@@ -8,6 +8,7 @@ source:
 language: en
 uuid: 3a5f8d95-1c4c-422a-a6d3-d887629a0c6d
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
 _An Excerpt From Towards An Open Civics_
 

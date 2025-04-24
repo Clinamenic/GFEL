@@ -8,6 +8,7 @@ source:
 language: en
 uuid: cf31c127-3eda-4014-94d5-84f16996c029
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
 _When you first get to the location, it may as well be sterile. Some rustling leaves at most. A few stars visible through the canopy and their light seems louder than the life in the surround. You sit quiet, though - you know better. Duration has a flavor if you know how to taste it. Slowly before you is conjured an alchemical process of 'vivification': soon, the landscape is lit up and bustling with life._
 

@@ -8,6 +8,7 @@ source:
 language: en
 uuid: 69964802-c2f7-45e6-957a-5df756744811
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
 _So we worshipped at the altar of model. It was like blowing the dust from the cover an old book that no one had bothered to engage, assuming it was all written, only to open it and find that the words were unsettled, ethereal, too secure in their unquestioned languishing to mean anything in particular at all. Money, institution, market, globe - the terms flickered like candle flame, half real._
 
