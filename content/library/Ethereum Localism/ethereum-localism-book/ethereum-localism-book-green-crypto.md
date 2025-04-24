@@ -1,5 +1,14 @@
-# Walkthrough of the Green Crypto Handbook
-
+---
+title: Walkthrough of the Green Crypto Handbook
+subtitle: 
+author: Patrick Rawson, Louise Borreani
+authorURL: 
+tags: 
+source: 
+language: en
+uuid: eeda1d79-25fb-405a-a3f8-6d61560f316e
+license: CC BY-SA 4.0
+---
 _by Patrick Rawson & Louise Borreani, Ecofrontiers.xyz_
 
 > "The cybernetician's mission is to combat the general entropy that threatens living beings, machines, societies, that is, to create the experimental conditions for a continuous revitalization, to constantly restore the integrity of the whole." – Tiqqun, The Cybernetic Hypothesis

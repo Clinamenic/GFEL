@@ -9,8 +9,6 @@ language: en
 uuid: eba51060-ea8d-451c-adaa-a26cb971db7e
 license: CC BY-SA 4.0
 ---
-# The Cosmo-Local Plan for our Next Civilization
-
 ## Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
 
 _by Michel Bauwens_

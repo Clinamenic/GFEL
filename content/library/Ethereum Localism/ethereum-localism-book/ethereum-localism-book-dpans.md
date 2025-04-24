@@ -9,8 +9,6 @@ language: en
 uuid: f831c325-a12c-49e3-9fac-e368f5e89167
 license: CC BY-SA 4.0
 ---
-# dPAN's: Reimagining Collective Action in the 21st Century
-
 _by Nate Suits_
 
 When disaster strikes, when systems fail, or when communities feel abandoned, it's the collective efforts of individuals that weave the fabric of resilience. It doesn't require grand gestures or sweeping policies; it begins with the simple, profound truth that when we unite, we can achieve more than we ever could alone. Whether it's rebuilding after a storm, reviving a forgotten corner of a neighborhood, or addressing the struggles of daily life, collective action is the thread that binds us, making us stronger and more connected.

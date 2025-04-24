@@ -9,8 +9,6 @@ language: en
 uuid: 9f56bb07-d4a6-4a9d-b5b2-02dfaf765461
 license: CC BY-SA 4.0
 ---
-# Bioregional Organizing Networks
-
 _By Andrea Farias_
 
 In Barcelona, Spain, we've lived with drought since I settled here in 2020. Our reservoirs hover around 30% capacity, even after recent devastating floods that ravaged nearby coastal cities, throwing cars around like toys and tragically claiming hundreds of lives. Every summer, we fear running out of water... and every summer, the solutions proposed feel increasingly desperate.
