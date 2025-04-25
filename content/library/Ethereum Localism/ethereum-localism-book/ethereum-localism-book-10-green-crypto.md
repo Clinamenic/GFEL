@@ -26,7 +26,7 @@ Cryptocurrencies have gained popularity, particularly among individuals with low
 
 As mentioned, The *Green Crypto Handbook* identifies six layers critical to evolving eco-capitalism:
 
-![Environmental Finance Stack diagram showing six layers: Market Layer, Asset Layer, Protocol Layer, Institution Layer, Data Layer, and Underlying Material Reality at the bottom](https://i.imgur.com/xxxxxxx.png)
+![](rawson-borreani-1.png)
 
 At its bottom is the **Underlying Material Reality**, the diverse family of planetary systems described by the natural sciences from which all financial abstractions are derived. Using human-designed tools of observation and measurement, human society translates the physical world into data. The contingent qualities of the technologies used for measurement and the translation of these measurements into accounting frameworks are mediated by the economy as an information-processing assemblage. While The Green Crypto Handbook is not about the epistemology of nature or science, these starting principles must be acknowledged as the basis by which environmental finance is epistemologically situated as accounting technology.
 
