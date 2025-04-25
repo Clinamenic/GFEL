@@ -127,7 +127,6 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 ---
 [Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Interlude](ethereum-localism-book-02-interlude.md) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md)
 
----
 [^1]: Michel Bauwens, “Three times as many raw materials are used to export traded goods than are used in their manufacture,” P2P Foundation, https://blog.p2pfoundation.net/three-times-as-many-raw-materials-are-used-to-export-traded-goods-than-are-used-in-their-manufacture/2013/09/15
 [^2]: “True Accelerationism,” https://blog.p2pfoundation.net/?s=True+Accelerationism
 [^3]: “Factor 20 Reduction,” https://wiki.p2pfoundation.net/Factor_20_Reduction
@@ -151,5 +150,3 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 [^21]: “Sphere Sovereignty,” https://wiki.p2pfoundation.net/Sphere_Sovereignty
 [^22]: Akseli Vertanin, “Crypto-Political Economy: Transcending Hayek and his digital disciples,” econaut, https://medium.com/econaut/crypto-political-economy-dd91c6fcff7
 [^23]: “Timocratic Governance,” https://wiki.p2pfoundation.net/Timocratic_Governance
----
-
