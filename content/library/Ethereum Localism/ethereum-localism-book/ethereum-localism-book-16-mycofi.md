@@ -22,7 +22,7 @@ Today, web3 technologies - particularly Ethereum's programmable trust infrastruc
 
 ## The Crisis Context & Opportunity
 
-Our legacy economic system exhibits alarming vulnerabilities that become starkly apparent during crises. Wealth has become increasingly concentrated, with the top 1% now controlling more resources than the bottom 90% combined. Infrastructure struggles to keep pace with rapid urbanization, as cities globally add 1.5 million new residents each week. Meanwhile, climate change threatens to multiply and intensify systemic shocks, from supply chain disruptions to mass displacement events as we can see in the city of Los Angeles today.
+Our legacy economic system exhibits alarming vulnerabilities that become starkly apparent during crises. Wealth has become increasingly concentrated, with the top 1% now controlling more resources than the bottom 90% combined. Infrastructure struggles to keep pace with rapid urbanization, as cities globally add 1.5 million new residents each week.[^1] Meanwhile, climate change threatens to multiply and intensify systemic shocks, from supply chain disruptions to mass displacement events as we can see in the city of Los Angeles today.
 
 Traditional financial institutions and government responses are consistently inadequate during these moments of crisis. Centralized systems, while efficient in stable conditions, often fail precisely when they're needed most, as the world can see quite plainly today in the way the American government has responded to the disastrous wildfires in Los Angeles. Given these events come at such a staggering cost, it's all the more important we learn the lessons they hold for us about avoiding similar outcomes in the future.
 
@@ -35,7 +35,7 @@ Throughout history, when conventional financial systems fail, communities have c
 - Revolving savings and credit associations: Pooling resources to help community members in turn.
 - Revolving labor associations: Bringing neighbors together to work on shared and personal projects.
 
-These aren't just historical curiosities - they're time-tested templates for community resilience. The key insight across all these systems is that money isn't just about numbers in an account - it's fundamentally about trust and coordination. When communities create their own financial resources and infrastructure, they're really creating new ways to work together, share resources, and take care of each other. That they are able to do this on the basis of their own resources, free from dependencies on external factors, is a feature, not a bug.
+These aren't just historical curiosities - they're time-tested templates for community resilience. The key insight across all these systems is that money isn't just about numbers in an account - it's fundamentally about *trust* and *coordination*. When communities create their own financial resources and infrastructure, they're really creating new ways to work together, share resources, and take care of each other. That they are able to do this on the basis of their own resources, free from dependencies on external factors, is a feature, not a bug.
 
 Web3 technologies offer powerful new tools for implementing these proven patterns while transcending many of their historical limitations. Smart contracts can automate complex trust relationships that previously required significant social capital or institutional overhead to maintain. This programmable trust infrastructure enables communities to:
 
@@ -68,7 +68,6 @@ Nature's most successful distribution systems offer profound insights for design
 5. Buffer Capacity: Mycelial networks maintain reserves that can be rapidly mobilized during stress. Community finance systems can similarly use automated liquidity pools and emergency response protocols to build systemic resilience.
     
 6. Adaptive Growth: Successful pathways in fungal networks naturally strengthen while unsuccessful ones fade. Token economics and reputation systems can create similar positive feedback loops for beneficial behaviors.
-    
 
 These patterns are already emerging in web3 experiments worldwide. Decentralized Autonomous Organizations (DAOs) demonstrate distributed intelligence through on-chain governance. Automated Market Makers (AMMs) enable dynamic resource flows through programmatic liquidity provision. Multi-signature protocols create redundant security through distributed key management.
 
@@ -129,10 +128,10 @@ The convergence of web3 technologies with time-tested patterns of community fina
 
 The tools for building resilient community financial systems are at hand and ready to bear. The challenge is not technical feasibility but clarity of vision and coordination. By learning from both historical examples and natural systems, we can create financial infrastructure using new coordinative technologies that strengthen communities rather than extracting from them.
 
-If this is your vibe, join us at MycoFi.Earth to connect with others building these systems and access open-source tools and frameworks for implementation.
+If this is your vibe, join us at **MycoFi.Earth** to connect with others building these systems and access open-source tools and frameworks for implementation.
 
 ---
 
----
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: We Got Us - A Regen Hub Playbook](ethereum-localism-book-17-regen-hub.md) | [Previous: From Information Tsunamis to Local Streams](ethereum-localism-book-15-information-tsunamis.md)
 
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: From Information Tsunamis to Local Streams](https://claude.ai/chat/ethereum-localism-information-tsunamis) | [Next: We Got Us - A Regen Hub Playbook](https://claude.ai/chat/ethereum-localism-regen-hub)
+[^1]: “Every Week, 1.5 Million People Are Moving Into Cities Across The Globe,” July 2024, World Economic Forum, https://www.weforum.org/videos/20444-this-is-how-cities-are-getting-bigger-and-changing-our-world/

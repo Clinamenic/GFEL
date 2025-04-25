@@ -67,6 +67,6 @@ But this transformation requires more than just good ideas – it requires the p
 
 ---
 
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: Walkthrough of the Green Crypto Handbook](ethereum-localism-book-10-green-crypto.md) | [Next: Neighbourhoods](ethereum-localism-book-12-neighbourhoods.md)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Third Interlude](ethereum-localism-book-12-interlude-3.md) | [Previous: Walkthrough of the Green Crypto Handbook](ethereum-localism-book-10-green-crypto.md)
 
 [^1]: “Idea Machines,” https://nadia.xyz/idea-machines.

@@ -24,9 +24,9 @@ These civic infrastructures serve communities, cooperatives, and the commons by 
 
 Civic utilities increase the quality of life of our community through agent-centric coordination, enabling members of our communities to contribute what they have and receive what they need.
 
-To illustrate this concept in practice, let's take a look at a case study currently underway in Boulder, CO.
+*To illustrate this concept in practice, let's take a look at a case study currently underway in Boulder, CO.*
 
-## Case Study: The Regen Hub
+## *Case Study*: The Regen Hub
 
 The COVID-19 pandemic rapidly accelerated an existing pattern of "work from home," a trend that initially seemed liberatory for many as a means to avoid stale corporate workplace culture. But a few years into this new paradigm, after the peak of the pandemic had subsided, the lack of camaraderie, connection, and in-person collaboration had taken a toll.
 
@@ -164,12 +164,10 @@ Our next local goal in Boulder is the creation of SaunaDAO, collectively owned s
 
 We imagine a world where these types of civic utilities are a commonplace aspect of our local economies, empowering collective ownership of the shared infrastructures that add value and improve the quality of our lives. While we're not against profit as a concept, we see the tremendous unlock that decentralized coordination can provide to remove the profit incentive in the context of the foundations of what make life and community meaningful, rich, and abundant. We hope this guide will inspire you to create civic utilities and commons architectures in your own community. If you end up creating your own Regen Hub, come say hi in our open community Telegram so we can explore creating a loose federation of Regen Hubs around the world.
 
-We Got Us,
+*We Got Us,*
 
 – Benjamin Life and Kevin Owocki
 
 ---
 
----
-
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: MycoFi](https://claude.ai/chat/ethereum-localism-mycofi)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: MycoFi](ethereum-localism-book-16-mycofi.md)

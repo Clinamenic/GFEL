@@ -50,7 +50,7 @@ Now, contrast this with the traditional public administration approach. In a con
 
 With the dPAN model, the local government shifts from an active agent to an overseer, ensuring quality control and regulatory compliance rather than managing every aspect of road maintenance. The result? A more agile and responsive system where far more roads can be repaired in a given time frame, communities have direct influence over infrastructure improvements, and funding is allocated efficiently to maximize public benefit. By decentralizing the decision-making process and removing bureaucratic barriers, this approach transforms a long-standing coordination problem into a dynamic, self-sustaining solution.
 
-[IMAGE](image.png)
+![](suits-dpans-1.png)
 ### Structural Applications
 
 These applications are designed to reorganize the way in which governments, organizations, and citizens interact with one another. This includes activities such nonprofit funding, voting, health services, volunteer networks, homeless services, permits, etc.
@@ -65,7 +65,7 @@ This structural shift fundamentally changes the incentive landscape. Under this 
 
 By decentralizing funding and shifting control closer to those directly affected, the HSP Network restructures the way homelessness is addressed in cities. The role of government shifts from dictating service models to providing funding, allowing HSPs the flexibility to expand their services and focus on the needs of the homeless. This transformation turns a system of scarcity and competition into one of abundance and collaboration, demonstrating the power of structural dPANs to redefine public service delivery for the better.
 
-[IMAGE](image.png)
+![](suite-dpans-2.png)
 
 While these categorizations are a broad attempt to describe the design space, the types of potential applications are limitless, and can be tailored to fit the needs and context of the local community initializing the effort. Since these applications can be open-sourced, the successful implementation of a network application in one city can also be provided as a solution for another, in essence, creating a marketplace of administrative solutions that can shift the role of local governments from an active agent in our communities to that of an overseer.
 
@@ -76,4 +76,5 @@ Additionally, decentralized Public Administration Networks (dPANs) introduce a c
 The use of new allocation funding mechanisms can enable dPAN's to create a system that shifts the dominant sources of coordination capital from a taxation-based process via government to a voluntary or algorithmically distributed process through citizen contributions based on necessity. Over time, as these networks prove their ability to deliver superior services at lower costs, they can gradually absorb more administrative functions, allowing local governments to transition into light-touch oversight roles. If scaled successfully, dPANs could redefine local governance, replacing hierarchical government structures with self-sustaining, community-driven networks that provide essential public goods more effectively, ultimately transforming governance into a decentralized, participatory system tailored to the needs of its citizens.
 
 ---
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Neighbourhoods](https://claude.ai/chat/ethereum-localism-neighbourhoods) | Next: [From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy](ethereum-localism-book-14-information-tsunamis.md)
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: From Information Tsunamis to Local Streams: Rebuilding Community News to Protect Democracy](ethereum-localism-book-15-information-tsunamis.md) | [Previous: Neighbourhoods](ethereum-localism-book-13-neighbourhoods.md)
