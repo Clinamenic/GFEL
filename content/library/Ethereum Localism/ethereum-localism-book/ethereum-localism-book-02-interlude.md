@@ -16,4 +16,4 @@ _When rescued from the attic and brought once again to the ground floor, to be r
 
 ---
 
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Introduction](https://claude.ai/chat/ethereum-localism-introduction) | [Next: The Cosmo-Local Plan](https://claude.ai/chat/ethereum-localism-cosmo-local-plan)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Introduction](ethereum-localism-book-01-introduction.md) | [Next: The Cosmo-Local Plan](ethereum-localism-book-03-cosmo-local-plan.md)
