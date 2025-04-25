@@ -85,4 +85,4 @@ Visit ethereumlocalism.xyz to find insights from and documentation of Ethereum L
 [^4]: See “Appropriate Technology,” Appropedia, https://www.appropedia.org/Appropriate_technology#cite_note-nytimes08-1
 ---
 
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Next: Interlude](ethereum-localism-book-02-interlude.md)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Interlude](ethereum-localism-book-02-interlude.md)
