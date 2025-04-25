@@ -125,7 +125,8 @@ On the one hand, we have a thriving and well-funded field of Web3 technologies, 
 To achieve the next great civilizational advance, towards a cosmo-local world order, we will need to bring those two worlds together!
 
 ---
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index.md) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md) | [Previous: Interlude](ethereum-localism-book-02-interlude.md)
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md) | [Previous: Interlude](ethereum-localism-book-02-interlude.md)
 
 [^1]: Michel Bauwens, “Three times as many raw materials are used to export traded goods than are used in their manufacture,” P2P Foundation, https://blog.p2pfoundation.net/three-times-as-many-raw-materials-are-used-to-export-traded-goods-than-are-used-in-their-manufacture/2013/09/15
 [^2]: “True Accelerationism,” https://blog.p2pfoundation.net/?s=True+Accelerationism

@@ -50,14 +50,12 @@ The core CER belief is that all of these networks are working on different dimen
 
 It will be clear at this point that our work is very much aligned with the vision and strategy of Ethereum Localism, which itself has been a strong influence in the development of the CER protocol. We want to support the great work that has been carried out by the thousands of tech workers worldwide, animated by the supernarrative of decentralization, so that these important infrastructures can be developed in alliance and symbiosis with the broader movements for social and ecological regeneration.
 
-For such new narrative layers to be successful, all these meaning building blocks should be assembled and recombined through an endogenous process, driven by the continuous bridging of existing stakeholders narratives, revealing and strengthening what the Ethereum Localism framework calls cosmolocal patterns. Just as Ethereum and blockchains in general provide technical protocols to enable decentralized coordination of economic resources, semiotic bridging can be used to design sensemaking protocols that accelerate the emergence of effective system-wide narratives.
+For such new narrative layers to be successful, all these meaning building blocks should be assembled and recombined through an endogenous process, driven by the continuous bridging of existing stakeholders narratives, revealing and strengthening what the Ethereum Localism framework calls *cosmolocal* patterns. Just as Ethereum and blockchains in general provide technical protocols to enable decentralized coordination of economic resources, semiotic bridging can be used to design sensemaking protocols that accelerate the emergence of effective system-wide narratives.
 
 The future of Ethereum Localism and the Commons depends on our ability to bridge multiple worlds: the technical and the social, the global and the local, the digital and the ecological. Organizing plurality without leaving anybody behind is the most demanding mode of existence one can choose in general, and much more so when fascism is coming back on the global stage with the precise goal of exterminating such diversity. We are convinced the semiotic bridging practices introduced in this piece can better equip us all in this struggle, helping us to appreciate both the wonderful variety of our efforts and their fundamental unity, as well as the deep beauty of this tension.
 
-For updates on this work and to join the conversation, subscribe to the Commons Economy Roadmap newsletter or contact giulioquarta@protonmail.com
+*For updates on this work and to join the conversation, subscribe to the Commons Economy Roadmap newsletter or contact [giulioquarta@protonmail.com](mailto:giulioquarta@protonmail.com)*
 
 ---
 
----
-
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city) | [Next: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: The Inverted City](ethereum-localism-book-05-inverted-city.md) | [Next: Second Interlude](ethereum-localism-book-07-interlude-2.md)

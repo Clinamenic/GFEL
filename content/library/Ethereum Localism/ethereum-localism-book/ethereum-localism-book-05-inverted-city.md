@@ -79,7 +79,8 @@ On the other hand, these experiments in many-worlding remain scarce, offering li
 Cities represent an ancient and creative locus for the capture and censorship resistance Ethereum aspires to. If their cultural undergrounds have long since discovered open protocolization as a natural defense against an (often legally enforced) institutional hegemony, along with scenes and extitutional storefronts to expand those protocols, their sole limitation is the one of scaling. To our eye, many scene veterans are morbidly content with the fatalism of this project: to scale is to die (a sensible impulse, given the barriers mentioned above). Against this self-reinforcing impasse, Ethereum's pragmatic sensibility offers an exit: in a machinic, thermodynamically grounded *formalization without institutions*, the social tendency to pluralism and empathic imagination could be unleashed.
 
 ---
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index.md) | [Next: Semiotic Bridging](ethereum-localism-book-06-semiotic-bridging.md) | [Previous: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective)
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Semiotic Bridging](ethereum-localism-book-06-semiotic-bridging.md) | [Previous: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md)
 
 [^1]: Aleksandr Svyatogor, “Biocosmic Individualism,” https://cosmos.art/cosmic-bulletin/2022/biocosmic-interindividualism
 [^2]: Check Ven and Exeunt’s pre-OPRG publication Friends of the Outside: Control, Substrates and the Afterlife of DAOs for a little lyrical indulgence on this topic. https://zora.co/collect/oeth:0x2d17e1c913a616e30ff267afda30a69d9ad25343
