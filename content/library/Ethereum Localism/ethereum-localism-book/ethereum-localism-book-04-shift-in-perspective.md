@@ -32,7 +32,7 @@ To the extent that the diverse processes of our world are construed as mere prod
 
 ---
 
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: The Cosmo-Local Plan](ethereum-localism-book-03-cosmo-local-plan.md) | [Next: The Inverted City](ethereum-localism-book-05-inverted-city.md)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: The Inverted City](ethereum-localism-book-05-inverted-city.md) | [Previous: The Cosmo-Local Plan](ethereum-localism-book-03-cosmo-local-plan.md)
 
 [^1]: Geoffrey West, Scale, Oxford, England: Weidenfeld & Nicolson, 2018.
 [^2]: Kate Raworth, Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist, White River Junction, VT: Chelsea Green Publishing, 2017.

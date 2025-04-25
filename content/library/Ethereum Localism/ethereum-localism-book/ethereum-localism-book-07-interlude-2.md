@@ -16,4 +16,4 @@ Localism: the crazy potency that unfolds with attentive observation to that whic
 
 ---
 
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: Semiotic Bridging](ethereum-localism-book-06-semiotic-bridging.md) | [Next: The Rooted Society Manifesto](ethereum-localism-book-08-manifesto.md)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: The Rooted Society Manifesto](ethereum-localism-book-08-manifesto.md) | [Previous: Semiotic Bridging](ethereum-localism-book-06-semiotic-bridging.md)

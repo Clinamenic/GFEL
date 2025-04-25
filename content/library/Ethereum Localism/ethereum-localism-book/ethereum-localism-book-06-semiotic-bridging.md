@@ -58,4 +58,4 @@ The future of Ethereum Localism and the Commons depends on our ability to bridge
 
 ---
 
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: The Inverted City](ethereum-localism-book-05-inverted-city.md) | [Next: Second Interlude](ethereum-localism-book-07-interlude-2.md)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Second Interlude](ethereum-localism-book-07-interlude-2.md) | [Previous: The Inverted City](ethereum-localism-book-05-inverted-city.md)

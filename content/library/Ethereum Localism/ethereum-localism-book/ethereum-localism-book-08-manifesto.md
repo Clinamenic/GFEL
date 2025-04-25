@@ -68,6 +68,6 @@ We advocate for the understanding that we are a global tribe and that our planet
 
 ---
 
-[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Previous: Second Interlude](ethereum-localism-book-07-interlude-2) | [Next: On Open Civic Systems](ethereum-localism-book-09-open-civics.md)
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: On Open Civic Systems](ethereum-localism-book-09-open-civics.md) | [Previous: Second Interlude](ethereum-localism-book-07-interlude-2.md)
 
 [^1]: Tristan Bove, “Bioregionalism: A Model for a Self-Sufficient and Democratic Earth,” March 2021, Earth.org, https://earth.org/bioregionalism/
