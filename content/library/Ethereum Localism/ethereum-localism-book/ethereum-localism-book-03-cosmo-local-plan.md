@@ -145,7 +145,7 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 [^16]: “Neo-Venetianism,” https://wiki.p2pfoundation.net/Neo-Venetianism
 [^17]: “Phyles,” https://wiki.p2pfoundation.net/Phyles
 [^18]: Michel Bauwens, “Beirut - Istanbul - Athens: the fate of tribes in a cosmo-local world” https://4thgenerationcivilization.substack.com/p/beirut-istanbul-athens-the-fate-of
-[^19]: Michel Bauwens, “A system of sovereign bonds but for alternative types of sovereignties?” https://4thgenerationcivilization.substack.com/p/a-system-of-sovereign-bonds-
+[^19]: Michel Bauwens, “A system of sovereign bonds but for alternative types of sovereignties?” https://4thgenerationcivilization.substack.com/p/a-system-of-sovereign-bonds-but-for
 [^20]: “FairBnB,” https://wiki.p2pfoundation.net/FairBnB
 [^21]: “Sphere Sovereignty,” https://wiki.p2pfoundation.net/Sphere_Sovereignty
 [^22]: Akseli Vertanin, “Crypto-Political Economy: Transcending Hayek and his digital disciples,” econaut, https://medium.com/econaut/crypto-political-economy-dd91c6fcff7
