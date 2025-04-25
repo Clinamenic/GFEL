@@ -10,6 +10,8 @@ uuid: eba51060-ea8d-451c-adaa-a26cb971db7e
 license: CC BY-SA 4.0
 date: 2025-02-21
 ---
+## Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
+
 _by Michel Bauwens_
 
 In this essay I want to summarize the specificity of the cosmo-local approach to the present and future of human civilization. Cosmo-localism is a third option, next to the two great competing options of the Western 'mercantile' world order and the neo-sovereignist alternatives that are based on a renewed control of associated nation-states. In these two options, the digital is merely used to reinforce existing logics of power and control; in cosmo-localism, the digital is used to fundamentally reorganize the world order.
