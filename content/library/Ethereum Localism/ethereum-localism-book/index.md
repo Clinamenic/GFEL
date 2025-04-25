@@ -10,6 +10,12 @@ uuid: 5af313e6-2a4a-48aa-a05d-a3036c87ea6d
 license: CC BY-SA 4.0
 date: 2025-02-21
 ---
+View and Download as a PDF: [Ethereum Localism book](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ)
+
+Claim a free NFT version of the book on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
+
+---
+
 ## Table of Contents
 
 This table of contents provides links to all the Markdown sections of the book "Ethereum Localism: Grounding the Future of Coordination" for easy navigation.
