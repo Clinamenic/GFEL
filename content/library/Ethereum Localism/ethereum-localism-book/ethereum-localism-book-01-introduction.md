@@ -79,10 +79,9 @@ As mentioned above, the 2023 GFEL conference took place at a community warehouse
 Visit ethereumlocalism.xyz to find insights from and documentation of Ethereum Localism events, more essays in the vein of this book, and a space to contribute if you have perspective to add to this conversation.
 
 ---
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Interlude](ethereum-localism-book-02-interlude.md)
+
 [^1]: Vitalik Buterin, “Making Ethereum alignment legible,” September 2024, https://vitalik.eth.limo/general/2024/09/28/alignment.html
 [^2]: “The 12 Permaculture Design Principles” https://permacultureprinciples.com/perma-culture-principles/?srsltid=AfmBOooz_ZdW7lRn4lJE9j-SUWk7mqFhHmy_WunWDylXv-jMQ-XfHmk4-
 [^3]: For some interesting reflections on the functional adequacy of decentralization in the context of Stafford Beer’s Viable Systems Model, see Thomas Swann, “Anarchist Cybernetics,” Anarchist Studies, https://anarchiststudies.org/acybernetics/
 [^4]: See “Appropriate Technology,” Appropedia, https://www.appropedia.org/Appropriate_technology#cite_note-nytimes08-1
----
-
-[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Interlude](ethereum-localism-book-02-interlude.md)
