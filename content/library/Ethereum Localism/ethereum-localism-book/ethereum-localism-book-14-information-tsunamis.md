@@ -48,4 +48,4 @@ Can hyperlocal rivers of information flowing on and within Ethereum ecosystems r
 
 ---
 
-[Back to Introduction](https://claude.ai/chat/ethereum-localism-introduction) | [Previous: dPAN's](https://claude.ai/chat/ethereum-localism-dpans-continued)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: dPAN's](https://claude.ai/chat/ethereum-localism-dpans-continued)

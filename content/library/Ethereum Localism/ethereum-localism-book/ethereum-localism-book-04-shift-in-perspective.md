@@ -34,4 +34,4 @@ To the extent that the diverse processes of our world are construed as mere prod
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Cosmo-Local Plan](https://claude.ai/chat/ethereum-localism-cosmo-local-plan) | [Next: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: The Cosmo-Local Plan](https://claude.ai/chat/ethereum-localism-cosmo-local-plan) | [Next: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city)

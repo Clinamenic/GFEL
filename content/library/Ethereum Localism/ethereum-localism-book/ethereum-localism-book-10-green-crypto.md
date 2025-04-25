@@ -48,4 +48,4 @@ The rise of Web3 unlocks a new substrate for computational civilization to exper
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics) | [Next: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics) | [Next: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional)

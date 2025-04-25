@@ -60,4 +60,4 @@ If humanity can align around open civic innovation models, our collective intell
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Rooted Society Manifesto](https://claude.ai/chat/ethereum-localism-manifesto) | [Next: Walkthrough of the Green Crypto Handbook](https://claude.ai/chat/ethereum-localism-green-crypto)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: The Rooted Society Manifesto](https://claude.ai/chat/ethereum-localism-manifesto) | [Next: Walkthrough of the Green Crypto Handbook](https://claude.ai/chat/ethereum-localism-green-crypto)

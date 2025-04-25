@@ -74,4 +74,4 @@ Cities represent an ancient and creative locus for the capture and censorship re
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective) | [Next: Semiotic Bridging](https://claude.ai/chat/ethereum-localism-semiotic-bridging)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective) | [Next: Semiotic Bridging](https://claude.ai/chat/ethereum-localism-semiotic-bridging)

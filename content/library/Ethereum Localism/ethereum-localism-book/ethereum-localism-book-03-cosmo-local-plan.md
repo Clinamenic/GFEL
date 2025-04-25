@@ -148,4 +148,4 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 [^23]: “Timocratic Governance,” https://wiki.p2pfoundation.net/Timocratic_Governance
 ---
 
-[Back to Table of Contents](ethereum-localism-book-toc.md) | [Previous: Interlude](ethereum-localism-book-interlude.md) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-shift-in-perspective.md)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Interlude](ethereum-localism-book-02-interlude.md) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md)

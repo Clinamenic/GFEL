@@ -16,4 +16,4 @@ _Localism: the crazy potency that unfolds with attentive observation to that whi
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Semiotic Bridging](https://claude.ai/chat/ethereum-localism-semiotic-bridging) | [Next: The Rooted Society Manifesto](https://claude.ai/chat/ethereum-localism-manifesto)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Semiotic Bridging](https://claude.ai/chat/ethereum-localism-semiotic-bridging) | [Next: The Rooted Society Manifesto](https://claude.ai/chat/ethereum-localism-manifesto)

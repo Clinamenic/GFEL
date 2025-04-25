@@ -172,4 +172,4 @@ We Got Us,
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: MycoFi](https://claude.ai/chat/ethereum-localism-mycofi)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: MycoFi](https://claude.ai/chat/ethereum-localism-mycofi)

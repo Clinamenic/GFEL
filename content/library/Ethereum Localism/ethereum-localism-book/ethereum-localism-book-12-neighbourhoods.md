@@ -60,4 +60,4 @@ In summary: hold data in common with the community of purpose that generates it!
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional) | [Next: dPAN's](https://claude.ai/chat/ethereum-localism-dpans)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Bioregional Organizing Networks](https://claude.ai/chat/ethereum-localism-bioregional) | [Next: dPAN's](https://claude.ai/chat/ethereum-localism-dpans)

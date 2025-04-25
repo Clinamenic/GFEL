@@ -60,4 +60,4 @@ For updates on this work and to join the conversation, subscribe to the Commons 
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city) | [Next: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: The Inverted City](https://claude.ai/chat/ethereum-localism-inverted-city) | [Next: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2)

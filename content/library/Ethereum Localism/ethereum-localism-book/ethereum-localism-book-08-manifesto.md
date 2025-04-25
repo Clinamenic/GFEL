@@ -70,4 +70,4 @@ We advocate for the understanding that we are a global tribe and that our planet
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2) | [Next: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2) | [Next: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics)

@@ -135,4 +135,4 @@ If this is your vibe, join us at MycoFi.Earth to connect with others building th
 
 ---
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: From Information Tsunamis to Local Streams](https://claude.ai/chat/ethereum-localism-information-tsunamis) | [Next: We Got Us - A Regen Hub Playbook](https://claude.ai/chat/ethereum-localism-regen-hub)
+[Back to Table of Contents](content/library/Ethereum-Localism/ethereum-localism-book/index.md) | [Previous: From Information Tsunamis to Local Streams](https://claude.ai/chat/ethereum-localism-information-tsunamis) | [Next: We Got Us - A Regen Hub Playbook](https://claude.ai/chat/ethereum-localism-regen-hub)
