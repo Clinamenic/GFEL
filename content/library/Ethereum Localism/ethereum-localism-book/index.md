@@ -3,7 +3,9 @@ title: "Ethereum Localism: Grounding the Future of Coordination"
 subtitle: 
 author: 
 authorURL: 
-tags: 
+tags:
+  - format/book
+  - theme/ethereum-localism
 source: 
 language: en
 uuid: 5af313e6-2a4a-48aa-a05d-a3036c87ea6d
