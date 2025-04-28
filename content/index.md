@@ -36,6 +36,12 @@ Our Digital Knowledge Garden is an interconnected collection of ideas, concepts,
 _What is heavy should be local. What is light should be global and shared._ Welcome to the garden.
 
 <div class="home-grid">
+<div class="home-card">
+    <h3>Introduction</h3>
+    <p>An introduction to Ethereum Localism.</p>
+    <a href="/introduction">Read →</a>
+  </div>
+
   <div class="home-card">
     <h3>Library</h3>
     <p>Curated collection of resources foundational to the movement.</p>
