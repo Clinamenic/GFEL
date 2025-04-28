@@ -41,14 +41,20 @@ Living examples where cosmo-local principles meet on-the-ground application — 
 Innovations in commons-based finance, bioregional investment systems, and post-extractive capital architectures.  
 
 **Bioregional Finance Prototypes**  
-Frameworks like Bioregional Financing Facilities (BFFs) that operationalize decentralized finance in service to place, ecology, and culture.
+Frameworks like [Bioregional Financing Facilities (BFFs)](BioFi-Project.md) that operationalize decentralized finance in service to place, ecology, and culture.
 
 ---
 ## Contribute  
 
-Have Ethereum Localist knowledge to share? This Library is a growing commons, and your contributions are not only welcome, but vital.
+The Ethereum Localism Library is a living, growing commons — and your voice is vital.  
 
-→ [Contribution Guide](contribution-guide.md)
+Whether you're experimenting with local DAOs, stewarding bioregional ecosystems, crafting regenerative finance models, designing new governance patterns, or weaving culture through story and art — your insights, field notes, and frameworks belong here.
+
+If you have knowledge, experiments, or creative works to share that align with Ethereum Localism’s spirit of applied cosmo-localism and decentralized solidarity, we invite you to contribute.  
+
+→ [Read the Contribution Guide](contribution-guide.md)  
+
+Together, we are weaving the intellectual and practical foundations for the worlds to come.
 
 ---
 
