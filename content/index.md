@@ -1,5 +1,5 @@
 ---
-title: ethereumlocalism.xyz
+title: Ethereum Localism
 date: 2025-04-01
 ---
 
