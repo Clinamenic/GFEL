@@ -80,7 +80,13 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 ![](assets/gfel-bouldercircle.jpg)
 
 ---
+## Featured Resource: Greenpill Ethereum Localism Guest Season hosed by Ethereal Forest
 
+Watch Season 8 of the Greenpill podcast as Ethereal Forest frens Macks, Josh and Alex explore the many dimensions of the question: What is Ethereum Localism?
+
+![Greenpill Ethereum Localism Guest Season](https://www.youtube.com/watch?v=LR4ry8MzZGs)
+
+---
 ## Featured Resource: GFEL Boulder 2025 Video Recap
 
 The most recent gathering of [a General Forum on Ethereum Localism (GFEL) in Boulder](library/GFEL/GFEL-2025-Boulder-Documentation) was more than a conference—it was a living inquiry into how we build and sustain systems of coordination, community, and care in a time of both precarity and possibility.
