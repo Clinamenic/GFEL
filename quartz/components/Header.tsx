@@ -24,11 +24,7 @@ const Header: QuartzComponentConstructor<Options> = (opts) => {
         <div className="container flex h-14 items-center">
           <div className="mr-4 flex">
             <a href="/" className="mr-6 flex items-center space-x-2">
-              <img
-                src="https://images.mirror-media.xyz/publication-images/SKk5S18WGHjwOouknm_1k.png"
-                alt="Ethereum Localism"
-                style={{ height: "2rem", objectFit: "contain", margin: "0rem" }}
-              /> 
+              <p style={{ margin: "0rem" }}>Ethereum Localism</p>
             </a>
           </div>
           <div className="flex flex-1 items-center justify-end space-x-2">

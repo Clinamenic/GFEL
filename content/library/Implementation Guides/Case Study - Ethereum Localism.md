@@ -4,11 +4,9 @@ tags:
   - format/case-study
   - theme/ethereum-localism
 ---
-
-# Case Study: ethereumlocalism.xyz  
 **Location:** Global online network  
 **Launched:** February 2025  
-**Status:** Active  
+**Status:** Active 🟢  
 **Website:** [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz)  
 
 ---
@@ -33,9 +31,9 @@ The project engages a global network of builders, long-time Ethereum contributor
 ---
 
 ## Tools & Infrastructure  
-- **Core Platforms:** [Arweave](https://www.arweave.org/), [DAOHaus](https://daohaus.club/)  
-- **Collaborative Stack:** Telegram, Obsidian, GitHub, Gitcoin, and shared Google Docs  
-- **Pre-existing Networks:** GFEL community, Knowledge Garden stewards  
+- **Core Platforms:** [Arweave](https://www.arweave.org/), Obsidian, GitHub, [DAOHaus](https://daohaus.club/)  
+- **Collaborative Stack:** Telegram and shared Google Docs  
+- **Pre-existing Networks:** the GFEL community, Knowledge Garden stewards, Gitcoin  
 
 ---
 
@@ -51,9 +49,9 @@ Governance is informal yet participatory: decisions are made by the most engaged
 ---
 
 ## Lessons & Challenges  
-- **Challenge:** Building collaboratively on a volunteer basis (up to this point) across time zones.  
-- **Lesson:** You can just do things. Especially when you're connected to and a active participant within communities that share your values.  
-- **Advice to Others:** Build what you believe in! Communities of Practice and Knowledge Gardens are powerful containers for shared learning and action.
+- **Challenge:** Building collaboratively and continually as project stewards across time zones, and around existing life obligations and constraints. 
+- **Lesson:** You can just do things. Especially when you're connected to and an active participant within communities that share your values.  
+- **Advice to Others:** Build what you believe in! Communities of Practice and Knowledge Gardens are powerful containers for shared learning and progressive action.
 
 ---
 

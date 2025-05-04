@@ -1,5 +1,5 @@
 ---
-title: ethereumlocalism.xyz
+title: Ethereum Localism
 date: 2025-04-01
 ---
 
@@ -36,6 +36,12 @@ Our Digital Knowledge Garden is an interconnected collection of ideas, concepts,
 _What is heavy should be local. What is light should be global and shared._ Welcome to the garden.
 
 <div class="home-grid">
+<div class="home-card">
+    <h3>Introduction</h3>
+    <p>An introduction to Ethereum Localism.</p>
+    <a href="/introduction">Read →</a>
+  </div>
+
   <div class="home-card">
     <h3>Library</h3>
     <p>Curated collection of resources foundational to the movement.</p>
@@ -101,6 +107,9 @@ As you’ll see in the recap, Ethereum Localism is not a fixed ideology, rather 
 
 **Ethereum Localism: Grounding the Future of Coordination**
 Collated by The Open Machine (February 2025)
+
+**==Explore Ethereum Localism: Grounding the Future of Coordination as navigable Knowledge Garden pages:==**
+[Start Reading →](library/Ethereum-Localism/ethereum-localism-book/index)
 
 Download the book PDF [here](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ), and claim a free NFT version on [Manifold](https://app.manifold.xyz/c/ethereum-localism)
 

@@ -1,3 +1,15 @@
+---
+title: The Rooted Society Manifesto
+subtitle: 
+author: AgroforestDAO
+authorURL: 
+tags: 
+source: 
+language: en, pt-br
+uuid: 3bcc303b-50cc-44e4-85d2-93f1292e8c6d
+license: CC BY-SA 4.0
+date: 2025-02-21
+---
 # Manifesto da Sociedade Enraizada
 
 _via AgroforestDAO_
@@ -6,7 +18,7 @@ Este documento foi escrito por diversas mãos ao longo do período de um ano den
 
 Muitas sociedades humanas esgotaram o ambiente que as rodeia e por isso tiveram que conquistar novos territórios. A cultura dos conquistadores dominou as sociedades modernas e, com o advento da globalização, o padrão de esgotamento regional que levou ao colapso do Império Romano e de outras civilizações antigas atingiu um padrão globalizado e está a ameaçar todas as formas de vida.
 
-Face a este possível colapso global, muitas pessoas no movimento ambientalista defendem um regresso às antigas formas de organização e governação, como o biorregionalismo e o localismo. De acordo com Tristan Bove, "o biorregionalismo considera que as biorregiões são definidas pelas pessoas que as habitam, que partilham uma identidade cultural única e se consideram igualmente em casa dentro da biorregião".
+Face a este possível colapso global, muitas pessoas no movimento ambientalista defendem um regresso às antigas formas de organização e governação, como o biorregionalismo e o localismo. De acordo com Tristan Bove, "o biorregionalismo considera que as biorregiões são definidas pelas pessoas que as habitam, que partilham uma identidade cultural única e se consideram igualmente em casa dentro da biorregião".[^1]
 
 Hoje em dia, a maior parte da população consome direta ou indiretamente bens globalizados, e alguns consideram uma hipocrisia defender o localismo enquanto consomem bens produzidos globalmente. Muitas pessoas não querem abrir mão do café, do chocolate, do açúcar, da carne ou das redes sociais globais. A maior parte da população urbana está mais envolvida com as cadeias de abastecimento globais do que com as locais e, portanto, o biorregionalismo parece-lhes estranho e não existem atualmente incentivos para mudar a sua mentalidade.
 
@@ -35,7 +47,7 @@ This document is the result of a collaborative effort opened for 2 years on Agro
 
 Most human societies have depleted the environment around them and for that reason had to conquer new territories. The culture of the conquerors have dominated modern societies and with the advent of Globalization the regional depletion pattern that led to the collapse of the Roman Empire and other ancient civilizations has scaled to a globalized pattern and is threatening all life forms.
 
-In the face of this possible global collapse, a lot of people in the environmental movement advocate for a return to ancient forms of organization and governance such as bioregionalism and localism. According to Tristan Bove, "bioregionalism considers bioregions to be defined by the people that inhabit them, who share a unique cultural identity and consider themselves equally at home within the bioregion."
+In the face of this possible global collapse, a lot of people in the environmental movement advocate for a return to ancient forms of organization and governance such as bioregionalism and localism. According to Tristan Bove, "bioregionalism considers bioregions to be defined by the people that inhabit them, who share a unique cultural identity and consider themselves equally at home within the bioregion."[^1]
 
 Today most of the population directly or indirectly consumes globalized goods, and some find it hypocritical to advocate for localism while consuming globally produced goods. A lot of people don't want to let go of their coffee, chocolate, sugar, meat or global social media. Most of the urban population is more engaged with the global supply chains than with the local ones, and therefore bioregionalism feels alien to them and there are currently no incentives to change their mindset.
 
@@ -54,4 +66,8 @@ We advocate for the understanding that we are a global tribe and that our planet
 7. The ability to create regulations without the infringement of an outside authority.
 8. Decentralized decision-making in the case of larger commons.
 
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Second Interlude](https://claude.ai/chat/ethereum-localism-interlude-2) | [Next: On Open Civic Systems](https://claude.ai/chat/ethereum-localism-open-civics)
+---
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: On Open Civic Systems](ethereum-localism-book-09-open-civics.md) | [Previous: Second Interlude](ethereum-localism-book-07-interlude-2.md)
+
+[^1]: Tristan Bove, “Bioregionalism: A Model for a Self-Sufficient and Democratic Earth,” March 2021, Earth.org, https://earth.org/bioregionalism/

@@ -8,9 +8,8 @@ source:
 language: en
 uuid: 9f56bb07-d4a6-4a9d-b5b2-02dfaf765461
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
-# Bioregional Organizing Networks
-
 _By Andrea Farias_
 
 In Barcelona, Spain, we've lived with drought since I settled here in 2020. Our reservoirs hover around 30% capacity, even after recent devastating floods that ravaged nearby coastal cities, throwing cars around like toys and tragically claiming hundreds of lives. Every summer, we fear running out of water... and every summer, the solutions proposed feel increasingly desperate.
@@ -21,7 +20,7 @@ Change is blossoming through a growing movement of people relearning how to orga
 
 The bioregional movement operates as an interconnected ecosystem with three key elements working in dynamic relationship: bioregional organizing teams working directly in their territories; learning networks and support providers creating infrastructure for knowledge sharing and capacity building; and broader players such as funders that play a crucial role in supporting bioregional work.
 
-![Diagram showing ecosystem of bioregional movement with three interconnected elements](https://i.imgur.com/yyyyyyy.png)
+![](farias-bon-1.png)
 
 This diagram is loosely based on ***Idea Machines*** by Nadia Asparouhova.[^1]
 
@@ -37,19 +36,12 @@ It is **plural** in both knowledge and practice, making space for multiple ways 
 
 This philosophy is translated into local action by bioregional organizing teams – groups working to coordinate regenerative activities within their bioregions. These teams implement place-based processes to maintain healthy ecosystems while meeting human needs. This includes both ecological regeneration and organizational processes – the essential activities of bringing people together and coordinating resources. Some examples of bioregional organizing teams are pictured in the map below.
 
-![Map showing various bioregional organizing teams across different regions](https://i.imgur.com/zzzzzzz.png)
+![](farias-bon-2.png)
 
 While early-stage organizing teams might focus on basic community building and knowledge gathering, mature teams develop complex systems for governance, strategic development, and financial management. The table below details how some of these key organizational processes manifest, particularly in more mature bioregional efforts:
 
-|Process|Description|Examples|
-|---|---|---|
-|Knowledge Management|Gathering, organizing, and sharing knowledge about the bioregion|Waterloo Region Climate Collective: online knowledge base cataloging local watersheds and ecological assets|
-|Strategic Development|Creating shared visions and strategies for bioregional regeneration|Regenerate Paris: 10-year climate and biodiversity strategy with regular community revisions|
-|Financial Management|Managing resources to support sustainable operations|Regenerative Communities Network: shared service entity to support multiple organizing teams|
-|Communications|Sharing stories, information, and invitations for involvement|Colorado Watershed: regular email storytelling from community members about watershed restoration|
-|Governance|Coordinating decisions and resources across the bioregion|Regenerative Communities Network: rotating council of local organizations making key network decisions|
-|Social Cohesion|Building connections, shared identity, and trust|Waterloo Region Climate Collective: monthly social gatherings combining storytelling and eating together|
-|Impact Measurement|Tracking and evaluating outcomes of bioregional work|For The Wild: open-source platform for tracking ecological and community indicators|
+![](farias-bon-3.png)
+![](farias-bon-4.png)
 
 This **process-centered** approach allows us to learn how to create life-enhancing social systems informed by ecosystem processes in place. Since transformation moves at the speed of trust, the most crucial element of bioregional organizing is building the social capital and relational capacities that enable genuine collaboration. Teams must demonstrate sustained commitment over time to build the legitimacy needed for deep systemic change.
 
@@ -65,7 +57,7 @@ Learning networks offer different approaches, areas of expertise and value syste
 
 The diagram below illustrates some of the key learning networks in the movement, along with their core focus areas.
 
-![Diagram of learning networks in the bioregional movement with their focus areas](https://i.imgur.com/wwwwwww.png)
+![](farias-bon-5.png)
 
 Through the dedicated work of bioregional organizing teams and the networks that support them, the infrastructure to enable systemic transformation is being built today. Together we are re-learning through practice how **process-centered**, **fractal** and **plural** principles can be embodied in how we organize ourselves.
 
@@ -74,6 +66,7 @@ This ecological embeddedness uncovers new approaches to ongoing crises like Barc
 But this transformation requires more than just good ideas – it requires the patient work of building new organizational capacities and ways of relating. Through the growing ecosystem of bioregional organizing teams and the learning networks that support them, we're developing the social and technological protocols needed to reorganize human activity around ecological rather than political processes. By strengthening how these groups learn and work together, we can help catalyze the deeper shift in how human communities relate to the living systems that sustain us all.
 
 ---
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Third Interlude](ethereum-localism-book-12-interlude-3.md) | [Previous: Walkthrough of the Green Crypto Handbook](ethereum-localism-book-10-green-crypto.md)
+
 [^1]: “Idea Machines,” https://nadia.xyz/idea-machines.
----
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Walkthrough of the Green Crypto Handbook](https://claude.ai/chat/ethereum-localism-green-crypto) | [Next: Neighbourhoods](https://claude.ai/chat/ethereum-localism-neighbourhoods)

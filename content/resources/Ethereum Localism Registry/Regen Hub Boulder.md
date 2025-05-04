@@ -12,29 +12,24 @@ license: CC BY-SA 4.0
 **Location:** Boulder, Colorado  
 **Bioregion:** Southern Rockies  
 **Started:** March 2024  
-**Status:** Active  
+**Status:** Active
+**ENS:** 
 **Website / Socials:** [forum.regenhub.xyz](https://forum.regenhub.xyz/t/welcome-to-regen-hub/5)
 
 ## Initiative Type  
-- Regenerative Finance Hub  
-- Community Coordination Project  
-- Commons Infrastructure
+- Community Coordination and Governance Project  
+- Regenerative Commons Infrastructure
 
 ## Local Resonance  
-Emerging from Boulder's environmentalist and regenerative agriculture movements, Regen Hub Boulder blends on-the-ground organizing with Ethereum tooling to support land, food, and cooperative economies.
+The mission of the Regen Hub is to catalyze community thriving and innovation in Boulder by providing a common space that is generative, accessible, and converges various related Boulder communities through events.
 
 ## Core Activities  
-- Local workshops on regen finance and public goods  
-- Experimenting with coordination for watershed and land stewardship  
-- Supporting local farmers and land trusts with crypto-native tools
+- Experimenting with new coordination mechanisms  
+- Holding a space for productive work and meaningful connection 
+- Supporting local community members with crypto-native tools
 
 ## Core Tools & Practices  
 - Gnosis Safe, Coordinape, decentralized budgeting pilots  
 - Collaborative governance and tool-sharing between local groups
 
-## Needs & Offers  
-**Needs:** Local web3 stewards, mapping collaborators, ETH funders  
-**Offers:** Protocol templates for regen hubs, open coordination methods
-
 ## Contributor  
-regenbldr.eth

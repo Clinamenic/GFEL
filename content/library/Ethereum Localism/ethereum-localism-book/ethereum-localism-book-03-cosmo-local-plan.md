@@ -8,9 +8,8 @@ source:
 language: en
 uuid: eba51060-ea8d-451c-adaa-a26cb971db7e
 license: CC BY-SA 4.0
+date: 2025-02-21
 ---
-# The Cosmo-Local Plan for our Next Civilization
-
 ## Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
 
 _by Michel Bauwens_
@@ -126,6 +125,9 @@ On the one hand, we have a thriving and well-funded field of Web3 technologies, 
 To achieve the next great civilizational advance, towards a cosmo-local world order, we will need to bring those two worlds together!
 
 ---
+
+[Back to Table of Contents](library/Ethereum-Localism/ethereum-localism-book/index) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](ethereum-localism-book-04-shift-in-perspective.md) | [Previous: Interlude](ethereum-localism-book-02-interlude.md)
+
 [^1]: Michel Bauwens, “Three times as many raw materials are used to export traded goods than are used in their manufacture,” P2P Foundation, https://blog.p2pfoundation.net/three-times-as-many-raw-materials-are-used-to-export-traded-goods-than-are-used-in-their-manufacture/2013/09/15
 [^2]: “True Accelerationism,” https://blog.p2pfoundation.net/?s=True+Accelerationism
 [^3]: “Factor 20 Reduction,” https://wiki.p2pfoundation.net/Factor_20_Reduction
@@ -144,10 +146,8 @@ To achieve the next great civilizational advance, towards a cosmo-local world or
 [^16]: “Neo-Venetianism,” https://wiki.p2pfoundation.net/Neo-Venetianism
 [^17]: “Phyles,” https://wiki.p2pfoundation.net/Phyles
 [^18]: Michel Bauwens, “Beirut - Istanbul - Athens: the fate of tribes in a cosmo-local world” https://4thgenerationcivilization.substack.com/p/beirut-istanbul-athens-the-fate-of
-[^19]: Michel Bauwens, “A system of sovereign bonds but for alternative types of sovereignties?” https://4thgenerationcivilization.substack.com/p/a-system-of-sovereign-bonds-
+[^19]: Michel Bauwens, “A system of sovereign bonds but for alternative types of sovereignties?” https://4thgenerationcivilization.substack.com/p/a-system-of-sovereign-bonds-but-for
 [^20]: “FairBnB,” https://wiki.p2pfoundation.net/FairBnB
 [^21]: “Sphere Sovereignty,” https://wiki.p2pfoundation.net/Sphere_Sovereignty
 [^22]: Akseli Vertanin, “Crypto-Political Economy: Transcending Hayek and his digital disciples,” econaut, https://medium.com/econaut/crypto-political-economy-dd91c6fcff7
 [^23]: “Timocratic Governance,” https://wiki.p2pfoundation.net/Timocratic_Governance
----
-[Back to Table of Contents](https://claude.ai/chat/ethereum-localism-toc) | [Previous: Interlude](https://claude.ai/chat/ethereum-localism-interlude) | [Next: Does organizing at the Cosmo-local level require a profound shift in perspective?](https://claude.ai/chat/ethereum-localism-shift-in-perspective)

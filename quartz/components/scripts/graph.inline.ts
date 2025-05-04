@@ -8,12 +8,13 @@ import {
   forceCenter,
   forceLink,
   forceCollide,
+  forceRadial,
   zoomIdentity,
   select,
   drag,
   zoom,
 } from "d3"
-import { Text, Graphics, Application, Container, Circle } from "pixi.js"
+import { Text, Graphics, Application, Container, Circle, Sprite, Texture } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
@@ -21,7 +22,7 @@ import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
   color: string
-  gfx: Graphics
+  gfx: Graphics | Sprite
   alpha: number
   active: boolean
 }
@@ -51,6 +52,21 @@ type NodeRenderData = GraphicsInfo & {
   label: Text
 }
 
+type NodeStyles = {
+  regularNode: {
+    fillColor: string
+    strokeColor: string
+    strokeWidth: number
+  }
+  tagNode: {
+    fillColor: string
+    strokeColor: string
+    strokeWidth: number
+    backgroundColor: string
+    backgroundRadius: number
+  }
+}
+
 const localStorageKey = "graph-visited"
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
@@ -67,12 +83,148 @@ type TweenNode = {
   stop: () => void
 }
 
+function resolveStrokeColor(color: string): string {
+  if (color === "none") {
+    return "#000000"
+  }
+  if (color.startsWith("var(")) {
+    // Extract the CSS variable name
+    const varName = color.slice(4, -1)
+    // Get the computed value
+    const computed = getComputedStyle(document.documentElement).getPropertyValue(varName).trim()
+    // Convert the color to hex
+    if (computed.startsWith("#")) {
+      return computed
+    }
+    // For now, just return black if we can't parse it
+    return "#000000"
+  }
+  if (color.startsWith("#")) {
+    return color
+  }
+  // If we can't parse the color, return black
+  return "#000000"
+}
+
+function resolveFillColor(color: string): number {
+  if (color === "none") {
+    return 0x000000
+  }
+  if (color.startsWith("var(")) {
+    // Extract the CSS variable name
+    const varName = color.slice(4, -1)
+    // Get the computed value
+    const computed = getComputedStyle(document.documentElement).getPropertyValue(varName).trim()
+    // Convert the color to hex
+    if (computed.startsWith("#")) {
+      return parseInt(computed.slice(1), 16)
+    }
+    // For now, just return black if we can't parse it
+    return 0x000000
+  }
+  if (color.startsWith("#")) {
+    return parseInt(color.slice(1), 16)
+  }
+  // If we can't parse the color, return black
+  return 0x000000
+}
+
+function createHashtagGraphics(radius: number, styles: NodeStyles["tagNode"]): Graphics {
+  // Scale the path to fit within the given radius
+  const scale = radius / 18 // SVG viewBox is 36x36, so divide by 2 for radius
+  
+  // Center offset (since SVG viewBox is 0,0,36,36 we need to center around 18,18)
+  const offsetX = -18 * scale
+  const offsetY = -18 * scale
+  
+  const gfx = new Graphics()
+    // Draw background circle for hashtag
+    .beginFill(resolveFillColor(styles.backgroundColor))
+    .circle(0, 0, radius * styles.backgroundRadius)
+    .endFill()
+    // Draw outer shape for hashtag
+    .beginFill(resolveFillColor(styles.fillColor))
+    .moveTo(31.87 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(26.32 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(27.32 * scale + offsetX, 5.17 * scale + offsetY)
+    .lineTo(26.35 * scale + offsetX, 4 * scale + offsetY)
+    .lineTo(24.35 * scale + offsetX, 4 * scale + offsetY)
+    .lineTo(23.35 * scale + offsetX, 4.78 * scale + offsetY)
+    .lineTo(22.33 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(16.93 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(17.93 * scale + offsetX, 5.17 * scale + offsetY)
+    .lineTo(17 * scale + offsetX, 4 * scale + offsetY)
+    .lineTo(15 * scale + offsetX, 4 * scale + offsetY)
+    .lineTo(14 * scale + offsetX, 4.78 * scale + offsetY)
+    .lineTo(13 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(7 * scale + offsetX, 10 * scale + offsetY)
+    .lineTo(6 * scale + offsetX, 10.8 * scale + offsetY)
+    .lineTo(5.59 * scale + offsetX, 12.8 * scale + offsetY)
+    .lineTo(6.59 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(12.14 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(10.5 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(4.5 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(3.5 * scale + offsetX, 22.8 * scale + offsetY)
+    .lineTo(3.09 * scale + offsetX, 24.8 * scale + offsetY)
+    .lineTo(4.09 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(9.68 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(8.68 * scale + offsetX, 30.83 * scale + offsetY)
+    .lineTo(9.68 * scale + offsetX, 32 * scale + offsetY)
+    .lineTo(11.68 * scale + offsetX, 32 * scale + offsetY)
+    .lineTo(12.63 * scale + offsetX, 31.22 * scale + offsetY)
+    .lineTo(13.67 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(19.07 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(18.07 * scale + offsetX, 30.83 * scale + offsetY)
+    .lineTo(19.07 * scale + offsetX, 32 * scale + offsetY)
+    .lineTo(21.07 * scale + offsetX, 32 * scale + offsetY)
+    .lineTo(22.07 * scale + offsetX, 31.22 * scale + offsetY)
+    .lineTo(23.05 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(29.05 * scale + offsetX, 26 * scale + offsetY)
+    .lineTo(30.05 * scale + offsetX, 25.2 * scale + offsetY)
+    .lineTo(30.45 * scale + offsetX, 23.2 * scale + offsetY)
+    .lineTo(29.45 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(23.87 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(25.5 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(31.5 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(32.5 * scale + offsetX, 13.2 * scale + offsetY)
+    .lineTo(32.91 * scale + offsetX, 11.2 * scale + offsetY)
+    .lineTo(31.91 * scale + offsetX, 10 * scale + offsetY)
+    .closePath()
+    .endFill()
+    // Draw inner square for hashtag in background color to create the hole effect
+    .beginFill(resolveFillColor(styles.backgroundColor))
+    .moveTo(19.87 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(14.47 * scale + offsetX, 22 * scale + offsetY)
+    .lineTo(16.11 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(21.51 * scale + offsetX, 14 * scale + offsetY)
+    .lineTo(19.87 * scale + offsetX, 22 * scale + offsetY)
+    .closePath()
+    .endFill()
+
+  return gfx
+}
+
 async function renderGraph(container: string, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
   const graph = document.getElementById(container)
   if (!graph) return
   removeAllChildren(graph)
+
+  const defaultNodeStyles: NodeStyles = {
+    regularNode: {
+      fillColor: "var(--tertiary)",
+      strokeColor: "var(--dark)",
+      strokeWidth: 0.5
+    },
+    tagNode: {
+      fillColor: "white",
+      strokeColor: "white",
+      strokeWidth: 0,
+      backgroundColor: "var(--gray)",
+      backgroundRadius: 1.2
+    }
+  }
 
   let {
     drag: enableDrag,
@@ -87,7 +239,14 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     removeTags,
     showTags,
     focusOnHover,
+    nodeStyles
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
+
+  // Use default styles if none provided
+  const styles = (nodeStyles ?? defaultNodeStyles) as NodeStyles
+
+  // Load the hashtag SVG texture
+  const tagTexture = await Texture.from("/static/hashtag_solid_icon_235931.svg")
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
@@ -144,7 +303,10 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   }
 
   const nodes = [...neighbourhood].map((url) => {
-    const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    // For tag nodes, add spaces after each subtag to enable wrapping
+    const text = url.startsWith("tags/") 
+      ? "#" + url.substring(5).split("/").join(" / ")
+      : (data.get(url)?.title ?? url)
     return {
       id: url,
       text,
@@ -161,15 +323,17 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       })),
   }
 
-  // we virtualize the simulation and use pixi to actually render it
-  const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
-    .force("charge", forceManyBody().strength(-2000 * repelForce))
-    .force("center", forceCenter().strength(3 * centerForce))
-    .force("link", forceLink(graphData.links).distance(linkDistance * 1))
-    .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
-
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
+
+  // we virtualize the simulation and use pixi to actually render it
+  // Calculate the radius of the container circle
+  const radius = Math.min(width, height) / 2 - 40 // 40px padding
+  const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
+    .force("charge", forceManyBody().strength(-100 * repelForce))
+    .force("center", forceCenter().strength(centerForce))
+    .force("link", forceLink(graphData.links).distance(linkDistance))
+    .force("collide", forceCollide<NodeData>((n) => collisionRadius(n)).iterations(3))
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -193,13 +357,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
-    
-    // Check for specific tags
-    if (d.tags.includes("IMRC/resource")) {
-      return "#ff0000" // red
-    } else if (d.tags.includes("IMRC/note")) {
-      return "#0000ff" // blue
-    } else if (isCurrent) {
+    if (isCurrent) {
       return computedStyleMap["--secondary"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
@@ -212,7 +370,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 2 + Math.sqrt(numLinks)
+    return 3 + Math.sqrt(numLinks) * 2
+  }
+
+  function collisionRadius(d: NodeData) {
+    return (nodeRadius(d) * 3) + 20 // Creates an invisible buffer zone around each node
   }
 
   let hoveredNodeId: string | null = null
@@ -257,15 +419,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     for (const l of linkRenderData) {
-      let alpha = 1
+      let alpha = 0.1  // default alpha for no hover state
 
-      // if we are hovering over a node, we want to highlight the immediate neighbours
-      // with full alpha and the rest with default alpha
+      // if we are hovering over a node
       if (hoveredNodeId) {
-        alpha = l.active ? 1 : 0.2
+        // connected lines get full opacity, unconnected lines fade to 0
+        alpha = l.active ? 1 : 0
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      l.color = computedStyleMap["--dark"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -286,28 +448,31 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
+      let targetAlpha = 0
 
-      if (hoveredNodeId === nodeId) {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: 1,
-              scale: { x: activeScale, y: activeScale },
-            },
-            100,
-          ),
-        )
-      } else {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: n.label.alpha,
-              scale: { x: defaultScale, y: defaultScale },
-            },
-            100,
-          ),
-        )
+      if (hoveredNodeId === nodeId || hoveredNeighbours.has(nodeId)) {
+        targetAlpha = 1
       }
+
+      tweenGroup.add(
+        new Tweened<Text>(n.label).to(
+          {
+            alpha: targetAlpha,
+            scale: { x: activeScale, y: activeScale },
+          },
+          100,
+        ),
+      )
+
+      tweenGroup.add(
+        new Tweened<Text>(n.label).to(
+          {
+            alpha: targetAlpha,
+            scale: { x: hoveredNodeId === nodeId ? activeScale : defaultScale, y: hoveredNodeId === nodeId ? activeScale : defaultScale },
+          },
+          100,
+        ),
+      )
     }
 
     tweenGroup.getAll().forEach((tw) => tw.start())
@@ -331,7 +496,11 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         alpha = n.active ? 1 : 0.2
       }
 
-      tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
+      if (n.gfx instanceof Graphics) {
+        tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
+      } else {
+        tweenGroup.add(new Tweened<Sprite>(n.gfx, tweenGroup).to({ alpha }, 200))
+      }
     }
 
     tweenGroup.getAll().forEach((tw) => tw.start())
@@ -369,9 +538,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3 })
-  const nodesContainer = new Container<Graphics>({ zIndex: 2 })
-  const linkContainer = new Container<Graphics>({ zIndex: 1 })
+  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
+  const nodesContainer = new Container<Graphics | Sprite>({ zIndex: 2, isRenderGroup: true })
+  const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
   stage.addChild(nodesContainer, labelsContainer, linkContainer)
 
   for (const n of graphData.nodes) {
@@ -384,9 +553,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       alpha: 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
-        fontSize: fontSize * 15,
+        fontSize: fontSize * 12,
         fill: computedStyleMap["--dark"],
         fontFamily: computedStyleMap["--bodyFont"],
+        stroke: computedStyleMap["--light"],
+        strokeThickness: 1,
+        wordWrap: true,
+        wordWrapWidth: 60,
+        align: 'center',
+        lineHeight: fontSize * 14,
       },
       resolution: window.devicePixelRatio * 4,
     })
@@ -394,30 +569,51 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
     let oldLabelOpacity = 0
     const isTagNode = nodeId.startsWith("tags/")
-    const gfx = new Graphics({
-      interactive: true,
-      label: nodeId,
-      eventMode: "static",
-      hitArea: new Circle(0, 0, nodeRadius(n)),
-      cursor: "pointer",
+    
+    let gfx: Graphics
+    if (isTagNode) {
+      // Create a hashtag icon for tag nodes
+      gfx = createHashtagGraphics(nodeRadius(n), styles.tagNode)
+      gfx.interactive = true
+      gfx.eventMode = "static"
+      gfx.cursor = "pointer"
+      gfx.hitArea = new Circle(0, 0, nodeRadius(n) * styles.tagNode.backgroundRadius)
+    } else {
+      // Create a circle for regular nodes
+      gfx = new Graphics({
+        interactive: true,
+        eventMode: "static",
+        hitArea: new Circle(0, 0, nodeRadius(n)),
+        cursor: "pointer",
+      })
+
+      // Apply stroke style first if it's not "none"
+      if (styles.regularNode.strokeColor !== "none") {
+        gfx.lineStyle(styles.regularNode.strokeWidth, resolveStrokeColor(styles.regularNode.strokeColor))
+      }
+
+      // Then draw the filled circle
+      gfx.beginFill(resolveFillColor(styles.regularNode.fillColor))
+        .circle(0, 0, nodeRadius(n))
+        .endFill()
+    }
+
+    // Add common event handlers
+    gfx.label = nodeId
+    gfx.on("pointerover", (e) => {
+      updateHoverInfo(e.target.label)
+      oldLabelOpacity = label.alpha
+      if (!dragging) {
+        renderPixiFromD3()
+      }
     })
-      .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
-      .stroke({ width: isTagNode ? 2 : 0, color: color(n) })
-      .on("pointerover", (e) => {
-        updateHoverInfo(e.target.label)
-        oldLabelOpacity = label.alpha
-        if (!dragging) {
-          renderPixiFromD3()
-        }
-      })
-      .on("pointerleave", () => {
-        updateHoverInfo(null)
-        label.alpha = oldLabelOpacity
-        if (!dragging) {
-          renderPixiFromD3()
-        }
-      })
+    gfx.on("pointerleave", () => {
+      updateHoverInfo(null)
+      label.alpha = oldLabelOpacity
+      if (!dragging) {
+        renderPixiFromD3()
+      }
+    })
 
     nodesContainer.addChild(gfx)
     labelsContainer.addChild(label)
@@ -426,7 +622,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       simulationData: n,
       gfx,
       label,
-      color: color(n),
+      color: '#' + resolveFillColor(isTagNode ? styles.tagNode.fillColor : styles.regularNode.fillColor).toString(16).padStart(6, '0'),
       alpha: 1,
       active: false,
     }
@@ -442,7 +638,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       simulationData: l,
       gfx,
       color: computedStyleMap["--lightgray"],
-      alpha: 1,
+      alpha: 0.1,
       active: false,
     }
 
@@ -503,7 +699,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.25, 4])
+        .scaleExtent([0.125, 6])
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
@@ -511,12 +707,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 2) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
           for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
+            if (activeNodes.includes(label)) {
+              label.alpha = 1
+            } else {
+              label.alpha = 0
             }
           }
         }),
@@ -535,11 +732,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
     for (const l of linkRenderData) {
       const linkData = l.simulationData
-      l.gfx.clear()
-      l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
-      l.gfx
-        .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+      if (l.gfx instanceof Graphics) {
+        l.gfx.clear()
+        l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
+        l.gfx
+          .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
+          .stroke({ alpha: l.alpha, width: 0.3, color: l.color })
+      }
     }
 
     tweens.forEach((t) => t.update(time))
@@ -586,7 +785,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   function hideGlobalGraph() {
     container?.classList.remove("active")
     if (sidebar) {
-      sidebar.style.zIndex = "unset"
+      sidebar.style.zIndex = ""
     }
   }
 
