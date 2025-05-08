@@ -10,9 +10,7 @@ language: en
 uuid: b6c7b2c7-13d0-4593-8e70-c38a30e97d45
 license: CC BY-SA 4.0
 ---
-# Community Blogs and Gardens
-
-Personal reflections, field notes, essays, and experiments from Ethereum Localists around the world. These blogs and digital gardens are independently maintained — living documents of place-based coordination, tech in practice, and new patterns of thought.
+Personal field notes, reflections, essays, curated articles, and experiments from Ethereum Localists around the world. These blogs and digital gardens are independently maintained — living documents of place-based coordination, tech in practice, and new patterns of thought.
 
 > _Want to add yours?_ [Submit your blog →](contribution-guide.md)
 
