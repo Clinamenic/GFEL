@@ -22,7 +22,7 @@ GreenSofa, also known as Greenpill Taiwan, is a local initiative cultivating Eth
 ## Context  
 Operating in Taiwan—a democratically vibrant island and globally recognized hub for digital democracy and civic tech—GreenSofa (an iconic name, voted for by the community) bridges Ethereum-based public goods infrastructure with grassroots organizing. Taiwan presents a unique landscape for Ethereum Localism: on one hand, it is internationally recognized for its leadership in semiconductors, digital democracy and infrastructure, and open-source civic culture and tech (exemplified by [g0v.tw](https://g0v.tw/intl/en/)). On the other hand, blockchain adoption in public goods and NGO sectors remains low despite emerging regulatory clarity.
 
-> Green Sofa embodies the spirit originated from FAB DAO's first principle: Be fun and not exhausting ([source](https://snapshot.org/#/fabdao.eth/proposal/0x8d10709297c7f530543ddd7550c72f585169d519b18884bab92710284c003769)). While we are serious about making contributions, we also take time to relax on the sofa and build connections with our members.
+> **Green Sofa embodies the spirit originated from FAB DAO's first principle: Be fun and not exhausting ([source](https://snapshot.org/#/fabdao.eth/proposal/0x8d10709297c7f530543ddd7550c72f585169d519b18884bab92710284c003769)). While we are serious about making contributions, we also take time to relax on the sofa and build connections with our members.**
 
 **FAB DAO (Formosa Art Bank DAO):** FAB DAO ([Twitter](https://x.com/FAB_DAO), [Website](https://fabdao.world/)) is a self-governing organization that has led Taiwan’s charity NFT movement since 2021. Known for the [“Project Percentage (%)” campaign on OpenSea](https://opensea.io/collection/projectpercentage)), FAB DAO blends art, culture, and philanthropy through nonprofit NFT projects. It creates public blockchain experiences, supports artists and collectors, and promotes Web3 education. In April 2023, it transitioned to a DAO model, enabling the community to propose and lead new initiatives. FAB DAO’s alignment with [Greenpill Network](https://greenpill.network) led to the founding of GreenSofa as its local Ethereum public goods chapter.
 
@@ -79,23 +79,23 @@ Directly supported 18 local public goods projects with onboarding, tracking, and
 
 - **Tooling vs. Trust:** GreenSofa has learned that while Ethereum tools provide structure and funding, local engagement relies heavily on cultural translation and relationship-building. Communication—not just code—is key.
   
->   Web3 public goods work is 20% tooling and 80% communication. Education, cultural translation, and relational trust-building are as essential as the tools themselves.
+>   **Web3 public goods work is 20% tooling and 80% communication. Education, cultural translation, and relational trust-building are as essential as the tools themselves.**
 
 - **IRL Still Matters:** In-person workshops and events are far more effective for onboarding than digital materials alone. Moving forward, GreenSofa is prioritizing real-world interaction for trust-building and education.
   
->   Face-to-face interaction builds trust more quickly and effectively than online workshops. IRL meetings make it easier to explain abstract concepts, answer questions immediately, and guide people step-by-step through the onboarding process.
+>   **Face-to-face interaction builds trust more quickly and effectively than online workshops. IRL meetings make it easier to explain abstract concepts, answer questions immediately, and guide people step-by-step through the onboarding process.**
 
 - **Simplify to Localize:** Tools like easyRetroPGF proved too complex for many Taiwanese civic groups. To bridge the gap, GreenSofa has developed a 1-1 model where global funds are stewarded locally, sometimes off-chain, but always transparently.
   
->   Local-first design requires both technical adaptation and community co-creation, not just deployment of global tools. Ethereum gave us the infrastructure—but the real transformation came through localized stewardship.
+>   **Local-first design requires both technical adaptation and community co-creation, not just deployment of global tools. Ethereum gave us the infrastructure—but the real transformation came through localized stewardship.**
 
 ## Next Steps  
+Green Sofa's goal is to demonstrate that Ethereum-based public goods funding can provide meaningful resources to existing civic movements—not just in theory, but in practice.
+
 GreenSofa is sponsoring the [**g0v SofaSoGood Hackath67n**](https://g0v-jothon.kktix.cc/events/g0v-hackath67n) (May 2025) (Reference: **[x.com/GreenSofa_TW/status/1901609302852288930](https://x.com/GreenSofa_TW/status/1901609302852288930)**. As one of Taiwan’s most influential civic tech gatherings, this event offers a prime opportunity to introduce Web3 public goods funding in a real-world setting. Goals for the event are to:
 
 - Integrate Web3 public goods tools into local civic hackathons and workflows  
 - Onboard g0v projects into GreenSofa's ongoing tracker, for follow-up and continued support through surveys, onboarding, and education — projects that express readiness and open a crypto wallet will be provided with resources for decentralized fundraising
 - Act as a bridge for global donors seeking credible local projects, and local projects seeking greater global exposure.
 
-**Green Sofa's goal is to demonstrate that Ethereum-based public goods funding can provide meaningful resources to existing civic movements—not just in theory, but in practice.**
-
-> By combining Web3 innovation with g0v’s civic infrastructure, Green Sofa aims to create a lasting model for cross-network public goods collaboration—one where global donors empower local change, and local communities co-shape the future of Ethereum public goods.
+> **By combining Web3 innovation with g0v’s civic infrastructure, Green Sofa aims to create a lasting model for cross-network public goods collaboration—one where global donors empower local change, and local communities co-shape the future of Ethereum public goods.**
