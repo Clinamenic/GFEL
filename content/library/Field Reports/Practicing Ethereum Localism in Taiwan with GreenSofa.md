@@ -11,7 +11,6 @@ language: en
 uuid: eeda8eb7-462e-4fe1-9735-14ddea82c212
 license: CC BY-SA 4.0
 ---
-# GreenSofa (Greenpill Taiwan)  
 **By GreenSofa Team**  
 *Taiwan, founded 2023 - Active*
 
