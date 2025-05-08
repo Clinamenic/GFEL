@@ -50,15 +50,15 @@ Raised stablecoin funding via Gitcoin, Giveth, and Hypercerts, then redirected i
 	- [See the Published Results](https://www.craft.me/s/3q3zGEVAwHEEce)
 - **2024-01: [GIVETH approved Green Sofa](https://giveth.io/project/greensofa-greenpill-taiwan)**
 - **2024-01: Supported Japan earthquake relief fund by GreenPill Japan ([tweet](https://x.com/GreenSofa_TW/status/1743773826364969072))** - 0.09 ETH
-- 2025-04: **FAB DAO x Huangxi Environmental Education Programme**
+- **2025-04: FAB DAO x Huangxi Environmental Education Programme**
 	- A collaboration between FAB DAO and the Huangxi Environmental Education Programme (HEEP), which used Web3 tools and NFTs to engage over 3,000 students and 50,000 local residents in ecological restoration along Taipei’s Huangxi River. Participants earned digital badges and NFTs by completing environmental missions, blending civic action with blockchain-based impact tracking. The project demonstrates how Ethereum tools can support urban watershed stewardship through education, community building, and on-chain proof of participation. [Watch the video →](https://www.youtube.com/watch?v=JhdOdtcD_8Y)
 
 ### Cross-Regional Collaborations
 Facilitated dialogue and AMAs across Chinese-speaking public goods communities, working with MattersLab, Blocktrend, DeSciAsia, and more.
   
+- **2024: GreenSofa Advisor and Core Member mashbean.eth contributed to [GreenPill: Local Regen Guide #1](https://greenpill.network/pdf/local-regen-guide.pdf)**
 - **2025-02: Became the sponsor of Taiwan g0v hackath67n (May 2025)!**
 	- [Working Draft](https://g0v.hackmd.io/@jothon/GreenSofa), [Registration](https://g0v-jothon.kktix.cc/events/g0v-hackath67n)
-- **GreenSofa Advisor and Core Member mashbean.eth contributed to [GreenPill: Local Regen Guide #1](https://greenpill.network/pdf/local-regen-guide.pdf)**
 
 ### Follow-Up & Human-Centered Design 
 Directly supported 18 local public goods projects with onboarding, tracking, and funding—all while reducing technical barriers.
