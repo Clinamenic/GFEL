@@ -6,9 +6,6 @@ tags:
 
 Welcome to the **Ethereum Localism Library** - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
-## 📰 [Movement Signals](library/Movement-Signals)
-Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
-
 ## 📁 [Ethereum Localism](library/Ethereum-Localism)
 General content on the Ethereum Localism thesis.
 
@@ -17,6 +14,9 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 
 ## 📁 [Field Reports](library/Field-Reports)
 First person narratives of the messy work of implementation .
+
+## 📰 [Movement Signals](library/Movement-Signals)
+Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
 ## 🖼️ [Cultural Outputs](resources/gallery)
 Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
