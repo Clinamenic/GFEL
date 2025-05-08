@@ -72,6 +72,7 @@ Directly supported 18 local public goods projects with onboarding, tracking, and
 - [Karma GAP](https://gap.karmahq.xyz/project/greensofa) -- building an on-chain reputation
 - [Hypercerts](https://www.hypercerts.org) -- recording the project’s impact
 - [Giveth](https://giveth.io) and [Gitcoin](https://www.gitcoin.co) -- participation in international public goods grants
+- [POAP](https://poap.xyz) -- "Proof of Attendance Protocol" free mint NFT
 
 ## Reflections  
 
