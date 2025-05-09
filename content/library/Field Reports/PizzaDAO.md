@@ -49,13 +49,13 @@ At the same time, a vibrant NFT community on Clubhouse was energized by the idea
 
 PizzaDAO is a **global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
 
-The DAO:
+**The DAO:**
 - Funds pizza for grassroots Ethereum and web3 meetups around the world
 - Onboards small businesses into crypto infrastructure using friendly tools and guidance
 - Partners with aligned orgs like Gitcoin, GreenPill, and NFT projects
 - Uses NFTs (like the 314-artist *Rare Pizzas* collection) to bootstrap and sustain its treasury
 
-PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and collective memory. Blending decentralized funding with IRL celebration—a live demo of what Ethereum Localism can look like at scale.
+**PizzaDAO is a decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and collective memory. **Blending decentralized funding and coordination with IRL celebration—a live demo of what Ethereum Localism can look like at scale.**
 
 ---
 
@@ -71,7 +71,9 @@ PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, an
 
 ## Community Practice
 
-PizzaDAO’s culture is highly participatory and intentionally fun:
+PizzaDAO’s culture is highly participatory and intentionally fun! Rigid structures are avoided in favor of permeable boundaries and living documentation.
+
+**Founding Goal:** Bring small businesses—especially pizzerias—onchain in ways that allow for community ownership, transparent funding, and mutual support.
 
 - **Onboarding with personality**: New members are asked their favorite topping + mafia movie to generate their “pizza mafia name” (e.g., *Al Pachicken* or *Pepperoni Corleone*).
 - **Open and async coordination**: Workstreams and meeting agendas are tracked in public spreadsheets and managed through [crew.pizzadao.xyz](https://crew.pizzadao.xyz), an impressive Google sheets workspace.
@@ -79,21 +81,12 @@ PizzaDAO’s culture is highly participatory and intentionally fun:
 - **Global-local rhythm**: The community maintains an international presence while supporting highly local activations. PizzaDAO’s community operates across Twitter Spaces, Discord, Telegram, and IRL events, embracing both synchronous and asynchronous engagement.
 - **Advocate cultivation**: Organizers who champion the mission in their own regions are empowered to host events and tap DAO support.
 
----
-
-## Goals & Values
-
-**Founding Goal:**  
-Bring small businesses—especially pizzerias—onchain in ways that allow for community ownership, transparent funding, and mutual support.
-
 **Guiding Values:**  
 - “Yes and” improvisational thinking  
 - Permissionless contribution  
 - Joyful experimentation  
 - Radical hospitality  
 - Trust through transparency
-
-The DAO avoids rigid structures in favor of permeable boundaries and living documentation.
 
 ---
 
