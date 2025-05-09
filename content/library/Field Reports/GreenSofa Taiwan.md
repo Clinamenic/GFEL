@@ -23,6 +23,8 @@ license: CC BY-SA 4.0
 
 **Social:** [@greensofa_tw](https://twitter.com/greensofa_tw)
 
+---
+
 **Summary:** GreenSofa, also known as Greenpill Taiwan, is a local initiative cultivating Ethereum public goods culture in Taiwan. Founded in 2023 under the umbrella of FAB DAO, the group has transitioned through three stewardships, each building upon the last to deepen community-rooted funding, education, and infrastructure. Through web3 tools like Gitcoin, Giveth, Hypercerts, and more, GreenSofa has brought real funding and public goods tooling into Taiwan’s civic tech scene, particularly through partnerships with g0v.tw and local NGOs.
 
 ## Context  
@@ -37,17 +39,17 @@ Over the past two years, Taiwan has also emerged as a regional Web3 hub, hosting
 **Grassroots Opportunity Gap:** Among NGOs and public goods contributors in Taiwan, blockchain awareness is still limited. For example, **in the 10-year-old civic tech community [g0v.tw](https://g0v.tw/intl/en/), an estimated 80% of hackathon participants have little knowledge of Web3**. Despite experimenting with [Quadratic Voting (QV) via the RadicalxChange platform](https://quadraticvote.radicalxchange.org/), the community still relies on fiat-based donations and off-chain voting interfaces. No funds are distributed in stablecoins, and no onchain governance is currently used. **This revealed an opportunity for GreenSofa: to introduce Ethereum-based funding tools like Gitcoin QF, Hypercerts, and stablecoin-based sponsorships to these already-activated civic networks.**
 *Reference:* [g0v Hackathon QV video](https://youtu.be/XI8z0v9weFI)
 
-## What Happened  
-GreenSofa’s milestones reflect a blend of experimentation, education, and deepening impact:
+## How It's Going  
+GreenSofa’s milestones to date reflect a blend of experimentation, education, and deepening cosmo-local impact:
 
 ### DAO Evolution  
 Three distinct stewardship phases have matured GreenSofa’s governance and strategic focus:
 
-- As its first leader, Stanley ([Twitter](https://x.com/shi79536?s=21)) laid a solid foundation for Green Sofa. Under his leadership, **trust and communication protocols with FAB DAO and the Greenpill Network were established**, **internal governance frameworks (e.g., proposal discussion, voting mechanisms, regular weekly meeting) were built**, **GIVETH verification** was completed, and **critical infrastructure was launched, like the multi-signature wallet** (to securely manage funds).
+- As its first leader, **Stanley** ([Twitter](https://x.com/shi79536?s=21)) laid a solid foundation for Green Sofa. Under his leadership, **trust and communication protocols with FAB DAO and the Greenpill Network were established**, **internal governance frameworks (e.g., proposal discussion, voting mechanisms, regular weekly meeting) were built**, **GIVETH verification** was completed, and **critical infrastructure was launched, like the multi-signature wallet** (to securely manage funds).
 
-- Denken ([Twitter](https://x.com/denkeni)) brought a phase of experimentation and outreach, **launching [Karma GAP profiles](https://gap.karmahq.xyz/project/greensofa), [minting NFTs](https://www.akaswap.com/akaobj/25336) for contributors, and conducting [impact surveys](https://hackmd.io/@greensofa/quarterly-surveys)**. Under his term, GreenSofa began actively exploring its **identity and positioning—both within FAB DAO and across the international Ethereum Localism community**.
+- **Denken** ([Twitter](https://x.com/denkeni)) brought a phase of experimentation and outreach, **launching [Karma GAP profiles](https://gap.karmahq.xyz/project/greensofa), [minting NFTs](https://www.akaswap.com/akaobj/25336) for contributors, and conducting [impact surveys](https://hackmd.io/@greensofa/quarterly-surveys)**. Under his term, GreenSofa began actively exploring its **identity and positioning—both within FAB DAO and across the international Ethereum Localism community**.
 
-- With a clear identity now established, Swift Evo ([Twitter](https://x.com/swiftevo1)) is focused on **deepening local-global connections**. GreenSofa is actively expanding its network through cross-regional partnerships and aligning Green Sofa more strategically with the **broader Web3 and Ethereum Localism ecosystem**, while at the same time strengthening ties with **local Taiwanese NGOs, educators, and public goods builders**.
+- With a clear identity now established, **Swift Evo** ([Twitter](https://x.com/swiftevo1)) is focused on **deepening local-global connections**. GreenSofa is actively expanding its network through cross-regional partnerships and aligning Green Sofa more strategically with the **broader Web3 and Ethereum Localism ecosystem**, while at the same time strengthening ties with **local Taiwanese NGOs, educators, and public goods builders**.
 
 ### Global Crowdfunding, Local Impact
 Raised stablecoin funding via Gitcoin, Giveth, and Hypercerts, then redirected it toward civic tech projects like g0v Hackathon, often converting to fiat to respect local workflows.
