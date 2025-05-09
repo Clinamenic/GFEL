@@ -41,7 +41,7 @@ Three distinct stewardship phases—Stanley, Denken, and current steward Swift E
 
 - Denken ([Twitter](https://x.com/denkeni)) brought a phase of experimentation and outreach, launching **[Karma GAP profiles](https://gap.karmahq.xyz/project/greensofa)**, **[minting NFTs](https://www.akaswap.com/akaobj/25336)** for contributors, and conducting **[impact surveys](https://hackmd.io/@greensofa/quarterly-surveys)**. Under his term, GreenSofa began actively exploring its **identity and positioning—both within FAB DAO and across the international Ethereum Localism community**.
 
-- With a clear identity now established, Swift Evo ([Twitter](https://x.com/swiftevo1)) is focused on **deepening our local-global connections**. We are expanding our network through cross-regional partnerships and aligning Green Sofa more strategically with the broader Web3 and Ethereum localism ecosystem, while strengthening ties with **local Taiwanese NGOs, educators, and public goods builders**.
+- With a clear identity now established, Swift Evo ([Twitter](https://x.com/swiftevo1)) is focused on **deepening local-global connections**. GreenSofa is actively expanding its network through cross-regional partnerships and aligning Green Sofa more strategically with the **broader Web3 and Ethereum Localism ecosystem**, while at the same time strengthening ties with **local Taiwanese NGOs, educators, and public goods builders**.
 
 ### Global Crowdfunding, Local Impact
 Raised stablecoin funding via Gitcoin, Giveth, and Hypercerts, then redirected it toward civic tech projects like g0v Hackathon, often converting to fiat to respect local workflows.
