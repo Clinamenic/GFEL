@@ -21,7 +21,7 @@ Dispatches, articles, and project updates from the growing ecosystem of Ethereum
 ## 🖼️ [Cultural Outputs](resources/gallery)
 Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
 
-## 🪴 [Community Blogs & Gardens](library/Community-Blogs-and-Gardens)  
+## 🪴 [Community Digital Gardens](library/Community-Digital-Gardens)  
 Personal writings, digital gardens, and evolving reflections from Ethereum Localists around the world.
 
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
