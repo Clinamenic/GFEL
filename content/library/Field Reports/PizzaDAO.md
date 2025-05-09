@@ -1,5 +1,5 @@
 ---
-title: "PizzaDAO: The DAO the Feeds the World"
+title: "PizzaDAO: The DAO that Feeds the World"
 subtitle: 
 date: 2025-05-09
 author: 
