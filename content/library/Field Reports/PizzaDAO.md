@@ -152,6 +152,8 @@ Bring PizzaDAO to your town! Host a local pizza party, onboard your favorite piz
 
 **🍕 Learn more and get involved at [globalpizza.party](https://globalpizza.party) and on [Discord](https://discord.pizzadao.xyz)**
 
+![](assets/field-reports/pizzaDAO-comic.png)
+
 ---
 
 *This Case Study is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*
