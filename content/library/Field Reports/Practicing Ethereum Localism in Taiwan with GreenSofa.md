@@ -99,3 +99,7 @@ GreenSofa is sponsoring the [**g0v SofaSoGood Hackath67n**](https://g0v-jothon.k
 - Act as a bridge for global donors seeking credible local projects, and local projects seeking greater global exposure.
 
 > **By combining Web3 innovation with g0v’s civic infrastructure, Green Sofa aims to create a lasting model for cross-network public goods collaboration—one where global donors empower local change, and local communities co-shape the future of Ethereum public goods.**
+
+---
+
+*This Field Report is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*
