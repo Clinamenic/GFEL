@@ -9,18 +9,22 @@ source:
 language: en
 uuid: 885cbff7-97da-4864-bef8-f6e3f88737d1
 license: CC BY-SA 4.0
-bannerURI: assets/field-reports/pizzaDAO-global-pizza=party-2024.jpg
 ---
 > ✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉
-> 👋 **Welcome, PizzaDAO Global Pizza Party 2025 guest!**  
+>
+👋 **Welcome, PizzaDAO Global Pizza Party 2025 guest!**  
 > Thanks for scanning the code—we’re glad you’re here. This page tells the story of how PizzaDAO is using web3 tools, memes, and mozzarella to fund pizzerias and build joyful, decentralized public goods.  
 >  
 > Curious about the bigger picture? Start with our [Introduction to Ethereum Localism](introduction.md) to explore how communities around the world are coordinating locally with Ethereum. Then browse our [Knowledge Garden](/library) for more field reports, guides, and cultural experiments.
+> 
 > ✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉
 
 **Location:** Global
+
 **Started:** February 2021  
+
 **Current Status:** Active  
+
 **Website/Social:**  
 - 🌐 [globalpizza.party](https://globalpizza.party)  
 - 💬 [Discord](https://discord.pizzadao.xyz)  
@@ -34,8 +38,6 @@ PizzaDAO emerged during the early pandemic, when small businesses in Philadelphi
 At the same time, a vibrant NFT community on Clubhouse was energized by the idea of throwing a decentralized global pizza party for **Bitcoin Pizza Day**—the anniversary of Laszlo Hanyecz’s legendary 10,000 BTC pizza purchase—to support independent pizzerias and their communities. The convergence of **memes, mutual aid, and crypto culture** catalyzed PizzaDAO’s formation.
 
 ---
-
-## The Initiative
 
 PizzaDAO is a **global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
 
