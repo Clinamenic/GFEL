@@ -4,7 +4,11 @@ subtitle:
 date: YYYY-MM-DD
 author: 
 authorURL: 
-tags: 
+tags:
+  - format/case-study
+  - theme/community
+  - theme/public-goods
+  - tool/dao
 source: 
 language: en
 uuid: 885cbff7-97da-4864-bef8-f6e3f88737d1
