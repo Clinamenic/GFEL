@@ -49,7 +49,7 @@ At the same time, a vibrant NFT community on Clubhouse was energized by the idea
 
 ![](assets/field-reports/pizzaDAO-global-pizza-party-2024.jpg)
 
-PizzaDAO is a **global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
+**PizzaDAO is a global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
 
 **The DAO:**
 - Funds pizza for grassroots Ethereum and web3 meetups around the world
