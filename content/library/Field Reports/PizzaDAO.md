@@ -43,7 +43,7 @@ license: CC BY-SA 4.0
 
 PizzaDAO emerged during the early pandemic, when small businesses in Philadelphia were struggling and mutual aid efforts were gaining urgency. Snax ([@snack_man](https://x.com/snack_man)), a longtime community builder and early participant in the crypto-art world, asked: *How can communities own their local small businesses?*
 
-At the same time, a vibrant NFT community on Clubhouse was energized by the idea of throwing a decentralized global pizza party for **Bitcoin Pizza Day**—the anniversary of Laszlo Hanyecz’s legendary 10,000 BTC pizza purchase—to support independent pizzerias and their communities. The convergence of **memes, mutual aid, and crypto culture** catalyzed PizzaDAO’s formation.
+At the same time, a vibrant NFT community on Clubhouse was energized by the idea of throwing a decentralized global pizza party for **Bitcoin Pizza Day**—the anniversary of [Laszlo Hanyecz’s legendary 10,000 BTC pizza purchase](https://www.coinbase.com/learn/crypto-glossary/what-is-bitcoin-pizza)—to support independent pizzerias and their communities. The convergence of **memes, mutual aid, and crypto culture** catalyzed PizzaDAO’s formation.
 
 **Founding Goal:** Bring small businesses—especially pizzerias—onchain in ways that allow for community ownership, transparent funding, and mutual support.
 
