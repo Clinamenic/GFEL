@@ -45,6 +45,8 @@ PizzaDAO emerged during the early pandemic, when small businesses in Philadelphi
 
 At the same time, a vibrant NFT community on Clubhouse was energized by the idea of throwing a decentralized global pizza party for **Bitcoin Pizza Day**—the anniversary of Laszlo Hanyecz’s legendary 10,000 BTC pizza purchase—to support independent pizzerias and their communities. The convergence of **memes, mutual aid, and crypto culture** catalyzed PizzaDAO’s formation.
 
+**Founding Goal:** Bring small businesses—especially pizzerias—onchain in ways that allow for community ownership, transparent funding, and mutual support.
+
 ![](assets/field-reports/pizzaDAO-global-pizza-party-2024.jpg)
 
 PizzaDAO is a **global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
@@ -72,8 +74,6 @@ PizzaDAO is a **global cooperative experiment** that uses blockchain tools to th
 ## Community Practice
 
 PizzaDAO’s culture is highly participatory and intentionally fun! Rigid structures are avoided in favor of permeable boundaries and living documentation.
-
-**Founding Goal:** Bring small businesses—especially pizzerias—onchain in ways that allow for community ownership, transparent funding, and mutual support.
 
 - **Onboarding with personality**: New members are asked their favorite topping + mafia movie to generate their “pizza mafia name” (e.g., *Al Pachicken* or *Pepperoni Corleone*).
 - **Open and async coordination**: Workstreams and meeting agendas are tracked in public spreadsheets and managed through [crew.pizzadao.xyz](https://crew.pizzadao.xyz), an impressive Google sheets workspace.
