@@ -1,7 +1,7 @@
 ---
 title: "PizzaDAO: The DAO the Feeds the World"
 subtitle: 
-date: YYYY-MM-DD
+date: 2025-05-09
 author: 
 authorURL: 
 tags:
@@ -16,7 +16,7 @@ license: CC BY-SA 4.0
 ---
 > ✨🍕🎉✨🍕🎉✨🍕🎉✨
 >
->👋 **Welcome, PizzaDAO Global Pizza Party 2025 guest!**  
+>👋 **Welcome, PizzaDAO Global Pizza Party guest!**  
 > Thanks for scanning the code—we’re glad you’re here. This page tells the story of how PizzaDAO is using web3 tools, memes, and mozzarella to fund pizzerias and build joyful, decentralized public goods.  
 >  
 > Curious about the bigger picture? Start with our [Introduction to Ethereum Localism](introduction.md) to explore how communities around the world are coordinating locally with Ethereum. Then browse our [Knowledge Garden](/library) for more field reports, guides, and cultural experiments.
@@ -24,6 +24,8 @@ license: CC BY-SA 4.0
 > ✨🍕🎉✨🍕🎉✨🍕🎉✨
 
 ---
+
+*By Snax x Ethereum Localism*  
 
 **Location:** Global
 
