@@ -11,7 +11,7 @@ language: en
 uuid: eeda8eb7-462e-4fe1-9735-14ddea82c212
 license: CC BY-SA 4.0
 ---
-**GreenSofa Team x Ethereum Localism**  
+**By GreenSofa Team x Ethereum Localism**  
 *Taiwan, founded 2023 - Active*
 
 [@greensofa_tw](https://twitter.com/greensofa_tw)
