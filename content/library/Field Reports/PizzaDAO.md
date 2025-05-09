@@ -64,7 +64,7 @@ PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, an
 PizzaDAO’s culture is highly participatory and intentionally fun:
 
 - **Onboarding with personality**: New members are asked their favorite topping + mafia movie to generate their “pizza mafia name” (e.g., *Al Pachicken* or *Pepperoni Corleone*).
-- **Open and async coordination**: Workstreams are tracked in public spreadsheets and managed through [crew.pizzadao.xyz](https://crew.pizzadao.xyz), a Notion workspace with weekly agendas and docs.
+- **Open and async coordination**: Workstreams and meeting agendas are tracked in public spreadsheets and managed through [crew.pizzadao.xyz](https://crew.pizzadao.xyz), an impressive Google sheets workspace.
 - **Play and LARPing**: Community members are encouraged to step into playful roles and take initiative without gatekeeping.
 - **Global-local rhythm**: The community maintains an international presence while supporting highly local activations. PizzaDAO’s community operates across Twitter Spaces, Discord, Telegram, and IRL events, embracing both synchronous and asynchronous engagement.
 - **Advocate cultivation**: Organizers who champion the mission in their own regions are empowered to host events and tap DAO support.
