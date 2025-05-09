@@ -15,6 +15,8 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 ## 📁 [Field Reports](library/Field-Reports)
 Case studies and first person narratives around the messy and inspiring work of implementation.
 
+---
+
 ## 📰 [Movement Signals](library/Movement-Signals)
 Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
@@ -24,6 +26,8 @@ Personal writings, digital gardens, and evolving reflections from Ethereum Local
 ## 🖼️ [Cultural Outputs](resources/gallery)
 Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
 
+---
+
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
 
@@ -32,6 +36,8 @@ Documentation from past General Forums on Ethereum Localism.
 
 ## 📁 [Extitutions and Open Protocols](library/Extitutions-and-Open-Protocols)
 Research and theory into how both web and analogue protocols operate beyond institutional enclosures.
+
+---
 
 ## Emerging Themes
 
@@ -47,6 +53,7 @@ Innovations in commons-based finance, bioregional investment systems, and post-e
 Frameworks like [Bioregional Financing Facilities (BFFs)](BioFi-Project.md) that operationalize decentralized finance in service to place, ecology, and culture.
 
 ---
+
 ## Contribute  
 
 The Ethereum Localism Library is a living, growing commons — and your voice is vital.  
