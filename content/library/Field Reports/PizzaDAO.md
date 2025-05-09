@@ -53,7 +53,7 @@ The DAO:
 - Partners with aligned orgs like Gitcoin, GreenPill, and NFT projects
 - Uses NFTs (like the 314-artist *Rare Pizzas* collection) to bootstrap and sustain its treasury
 
-PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and collective memory.
+PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and collective memory. Blending decentralized funding with IRL celebration—a live demo of what Ethereum Localism can look like at scale.
 
 ---
 
@@ -120,8 +120,6 @@ The DAO avoids rigid structures in favor of permeable boundaries and living docu
 - **15,000+ people** fed in a single day during Bitcoin Pizza Day 2024  
 - **DAO-first funding model** using NFTs, grants, and voluntary labor  
 - **Cultural impact**: PizzaDAO serves as a replicable meme-vehicle for onboarding, localism, and web3 literacy
-
-PizzaDAO blends decentralized funding with IRL celebration—a live demo of what Ethereum Localism can look like at scale.
 
 ---
 
