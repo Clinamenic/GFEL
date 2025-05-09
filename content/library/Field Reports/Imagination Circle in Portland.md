@@ -38,3 +38,7 @@ Overall, though, we got a group together, broke some Overton windows and *talked
 Our plan is to hold another circle in 3-6 months. In the meantime, why not try your own, anon? 🔥 
 
 ![](assets/imag-circle-pdx-flyer.jpg)
+
+---
+
+*This Field Report is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*

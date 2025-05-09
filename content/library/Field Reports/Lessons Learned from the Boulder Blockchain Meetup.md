@@ -45,5 +45,6 @@ We post all of our scheduled meetups to [meetup.com](https://www.meetup.com). Th
 
 In addition to the Meetup.com page, we have a telegram group people can join to stay updated on monthly meetups and other community events. We would send out an email reminder and a Telegram Channel post to everyone the Sunday before our Tuesday meetup to remind everyone of the time/location/and suggestion to come with a few topics to discuss.
 
-
 ---
+
+*This Field Report is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*

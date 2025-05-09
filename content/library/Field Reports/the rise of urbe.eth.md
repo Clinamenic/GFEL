@@ -185,7 +185,7 @@ they got to know us, and i believe the fact the we were always moving together s
 
 ethprague was probably the best effort that we had in terms of brand awareness:
 
-a team of 5 urbers won $<redacted>k at the hackathon, building the infamous brian, the ai web3 assistant that recently launched in private beta
+a team of 5 urbers won $<'redacted>k at the hackathon, building the infamous brian, the ai web3 assistant that recently launched in private beta
 
 me and PG spent the whole prague blockchain week talking about ethrome, distributing flyers, and sticking posters around all the events we were going
 
@@ -232,3 +232,7 @@ what we did so far has been extraordinary and not easy to repeat, but still we s
 gloria ad urbe 🐺  
   
 PS. if you missed ethrome, we prepared an [aftermovie](https://www.youtube.com/watch?v=Nn-zTA9lEy8) for you
+
+---
+
+*This Field Report is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*
