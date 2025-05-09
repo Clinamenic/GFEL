@@ -59,6 +59,16 @@ PizzaDAO is a **decentralized cultural vehicle**: open-source, values-driven, an
 
 ---
 
+## Outcomes & Impact
+
+- **$1M+ spent on pizza** since 2021  
+- **Over 400 local relationships** with pizzerias and organizers  
+- **15,000+ people** fed in a single day during Bitcoin Pizza Day 2024  
+- **DAO-first funding model** using NFTs, grants, and volunteers  
+- **Cultural impact**: PizzaDAO serves as a replicable meme-vehicle for web3 onboarding, literacy, and localism
+
+---
+
 ## Community Practice
 
 PizzaDAO’s culture is highly participatory and intentionally fun:
@@ -110,18 +120,7 @@ The DAO avoids rigid structures in favor of permeable boundaries and living docu
 - Celebrate and support community organizers who bring new people in.
 - Open documentation lowers the barrier to participation.
 
-**Advice to others:**  
-> “Put any word in front of DAO and build for the Schelling point of what a DAO for that word would be. Go for it!”
-
----
-
-## Outcomes & Impact
-
-- **$1M+ spent on pizza** since 2021  
-- **Over 400 local relationships** with pizzerias and organizers  
-- **15,000+ people** fed in a single day during Bitcoin Pizza Day 2024  
-- **DAO-first funding model** using NFTs, grants, and voluntary labor  
-- **Cultural impact**: PizzaDAO serves as a replicable meme-vehicle for onboarding, localism, and web3 literacy
+> **“Put any word in front of DAO and build for the Schelling point of what a DAO for that word would be. Go for it!”**
 
 ---
 
