@@ -129,7 +129,7 @@ PizzaDAO’s culture is highly participatory and intentionally fun! Rigid struct
 
 ## Looking Forward
 
-PizzaDAO’s next big leap is **acquiring its first community-owned pizzeria**—transitioning from event support to long-term, DAO-governed ownership of local infrastructure.
+PizzaDAO’s next big leap is **acquiring its first community-owned pizzeria**—transitioning from event support to long-term, DAO-governed ownership of local infrastructure. Cowabunga! 😎
 
 As PizzaDAO evolves, it aims to:
 - Strengthen regional partnerships
