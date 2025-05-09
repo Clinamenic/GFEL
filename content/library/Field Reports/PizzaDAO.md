@@ -95,7 +95,7 @@ PizzaDAO’s culture is highly participatory and intentionally fun! Rigid struct
 - **Coordination Platforms:** [Discord](https://discord.com), [Telegram](https://telegram.org), [Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces)
 - **Governance & Finance:** [Safe multisig](https://safe.global/), [Zapper](https://zapper.xyz), [Octant](https://www.octant.build), [Collab.Land](https://collab.land/)
 - **Documentation & Organization:** [crew.pizzadao.xyz](https://crew.pizzadao.xyz), [manual.pizzadao.xyz](https://manual.pizzadao.xyz)
-- **NFTs & Access:** [Rare Pizzas NFT](https://rarepizzas.com/mint) offers access to voting, private channels, and funding tools, [POAP](https://poap.xyz)
+- **NFTs & Access:** [POAP](https://poap.xyz), [Rare Pizzas NFT](https://rarepizzas.com/mint) offers access to voting, private channels, and funding tools
 - **Fiat Access:** [Mercury](https://mercury.com/) banking enables pizza purchases in local currencies
 
 ---
