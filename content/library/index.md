@@ -6,6 +6,8 @@ tags:
 
 Welcome to the **Ethereum Localism Library** - a curated collection of resources, articles, research, and practical insights that form the intellectual foundation of our movement.
 
+*For curated resources from across the ecosystem visit the [Resources](resources.md) page.*
+
 ---
 
 ## 📁 [Ethereum Localism](library/Ethereum-Localism)
