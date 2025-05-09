@@ -113,11 +113,11 @@ PizzaDAO’s culture is highly participatory and intentionally fun! Rigid struct
 - Celebrate and support community organizers who bring new people in.
 - Open documentation lowers the barrier to participation.
 
-> **“Put any word in front of DAO and build for the Schelling point of what a DAO for that word would be. Go for it!”**
-
 ---
 
 ## Repeatable Tactics
+
+> **“Put any word in front of DAO and build for the Schelling point of what a DAO for that word would be. Go for it!”**
 
 - Use a familiar, joyful meme (pizza!) to build cross-cultural bridges  
 - Activate annual rituals to provide rhythm and cohesion  
