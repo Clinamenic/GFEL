@@ -18,11 +18,11 @@ First person narratives of the messy work of implementation .
 ## 📰 [Movement Signals](library/Movement-Signals)
 Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
-## 🖼️ [Cultural Outputs](resources/gallery)
-Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
-
 ## 🪴 [Community Digital Gardens](library/Community-Digital-Gardens)  
 Personal writings, digital gardens, and evolving reflections from Ethereum Localists around the world.
+
+## 🖼️ [Cultural Outputs](resources/gallery)
+Creative expressions from the Ethereum Localism ecosystem—art, media, memes, rituals, and zines that reflect, expand, question, and enrich our shared narratives.
 
 ## 📁 [Local DAO Summer](library/Local-DAO-Summer)
 Documentation from Local DAO Summer, our reoccurring online gathering on localist applications of Decentralized Autonomous Organizations. 
