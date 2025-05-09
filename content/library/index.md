@@ -13,7 +13,7 @@ General content on the Ethereum Localism thesis.
 Detailed resources for how to implement Ethereum Localist principles and toolkits.
 
 ## 📁 [Field Reports](library/Field-Reports)
-First person narratives of the messy work of implementation .
+Case studies and first person narratives around the messy, inspiring work of implementation.
 
 ## 📰 [Movement Signals](library/Movement-Signals)
 Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
