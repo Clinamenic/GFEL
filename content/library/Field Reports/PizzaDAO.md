@@ -12,7 +12,7 @@ license: CC BY-SA 4.0
 ---
 > ✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉✨🍕🎉
 >
-👋 **Welcome, PizzaDAO Global Pizza Party 2025 guest!**  
+>👋 **Welcome, PizzaDAO Global Pizza Party 2025 guest!**  
 > Thanks for scanning the code—we’re glad you’re here. This page tells the story of how PizzaDAO is using web3 tools, memes, and mozzarella to fund pizzerias and build joyful, decentralized public goods.  
 >  
 > Curious about the bigger picture? Start with our [Introduction to Ethereum Localism](introduction.md) to explore how communities around the world are coordinating locally with Ethereum. Then browse our [Knowledge Garden](/library) for more field reports, guides, and cultural experiments.
