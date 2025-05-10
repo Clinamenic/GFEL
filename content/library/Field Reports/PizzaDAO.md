@@ -68,7 +68,7 @@ At the same time, a vibrant NFT community on Clubhouse was energized by the idea
 - **$1M+ spent on pizza** since 2021  
 - **Over 400 local relationships** with pizzerias and organizers  
 - **15,000+ people** fed in a single day during Bitcoin Pizza Day 2024  
-- **DAO-first funding model** using NFTs, grants, and volunteers  
+- **DAO-first funding model** using NFTs, grants, and volunteer effort  
 - **Cultural impact**: PizzaDAO serves as a replicable meme-vehicle for web3 onboarding, literacy, and localism
 
 ---
