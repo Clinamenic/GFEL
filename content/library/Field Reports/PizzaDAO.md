@@ -51,13 +51,15 @@ At the same time, a vibrant NFT community on Clubhouse was energized by the idea
 
 **PizzaDAO is a global cooperative experiment** that uses blockchain tools to throw pizza parties and fund independent pizzerias. Its flagship event is the [**Global Pizza Party**](https://globalpizza.party), held every May 22. In 2024, the event activated over **220 cities in 80+ countries**, serving pizza to more than **15,000 people**.
 
+**PizzaDAO is a decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and community lore.
+
 **The DAO:**
 - Funds pizza for grassroots Ethereum and web3 meetups around the world
 - Onboards small businesses into crypto infrastructure using friendly tools and guidance
 - Partners with aligned orgs like Gitcoin, GreenPill, and NFT projects
 - Uses NFTs (like the 314-artist *Rare Pizzas* collection) to bootstrap and sustain its treasury
 
-**PizzaDAO is a decentralized cultural vehicle**: open-source, values-driven, and powered by joy, food, and collective memory. **Blending decentralized funding and coordination with IRL celebration—a live demo of what Ethereum Localism can look like at scale.**
+**Blending decentralized funding and coordination with IRL celebration—PizzaDAO is a live demo of what Ethereum Localism can look like at scale.**
 
 ---
 
