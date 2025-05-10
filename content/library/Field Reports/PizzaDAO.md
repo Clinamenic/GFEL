@@ -105,7 +105,7 @@ PizzaDAO’s culture is highly participatory and intentionally fun! Rigid struct
 ## Lessons & Challenges
 
 **Challenges faced:**
-- Many pizzerias are unfamiliar with or wary of crypto—PizzaDAO continually adapts language, tools, and messaging to build trust.
+- Many pizzerias are unfamiliar with or understandably wary of crypto—PizzaDAO continually adapts language, tools, and messaging to build trust and educate.
 - DAO coordination at global scale required flexible tools and constant iteration of onboarding.
 - Differentiating between “audience” and “community” meant shifting focus from followers to collaborators.
 
