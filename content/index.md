@@ -86,7 +86,7 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 ![](assets/gfel-bouldercircle.jpg)
 
 ---
-## Featured Resource: GreenPill podcast "Ethereum Localism" Guest Season
+## Featured Resource: GreenPill podcast "Ethereum Localism" Guest Season Hosted by Ethereal Forest
 
 Listen to Season 8, Episode 1 of the [GreenPill podcast](https://pod.link/1609313639) as Portland's Ethereal Forest DAO contributors Macks, Josh and Alex dive into an exploration of the many dimensions of the question: "**What is Ethereum Localism?**"
 
