@@ -146,7 +146,7 @@ Bring PizzaDAO to your town! Host a local pizza party, onboard your favorite piz
 
 **🍕 Learn more and get involved at [globalpizza.party](https://globalpizza.party) and on [Discord](https://discord.pizzadao.xyz)**
 
-![](assets/field-reports/pizzaDAO-comic.png)
+![](pizzaDAO-comic.png)
 
 ---
 
