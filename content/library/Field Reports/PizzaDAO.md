@@ -131,7 +131,7 @@ PizzaDAO’s culture is highly participatory and intentionally fun! Rigid struct
 
 ## Looking Forward
 
-PizzaDAO’s next big leap is **acquiring its first community-owned pizzeria**—transitioning from event support to long-term, DAO-governed ownership of local infrastructure. Cowabunga! 😎
+PizzaDAO’s next big leap is **acquiring its first community-owned pizzeria**—transitioning from event support to long-term, DAO-governed ownership of local infrastructure. Cowabunga! 🍕😎
 
 As PizzaDAO evolves, it aims to:
 - Strengthen regional partnerships
@@ -147,6 +147,8 @@ Bring PizzaDAO to your town! Host a local pizza party, onboard your favorite piz
 **🍕 Learn more and get involved at [globalpizza.party](https://globalpizza.party) and on [Discord](https://discord.pizzadao.xyz)**
 
 ![](pizzaDAO-comic.png)
+
+[Download PDF](assets/field-reports/ethlocalism-pizzadaycomic.pdf) - Print & Share with your community!
 
 ---
 
