@@ -19,14 +19,19 @@ bannerURI: https://www.ethereumlocalism.xyz/assets/gfel23-rainbow.png
 
 > **By hosting a GFEL, you can directly help grow the movement of Ethereum Localism from your bioregion, while contributing back to a global commons of ideas, tools, and practices.**
 
-**Steps to Hosting a GFEL**
-
-1. Read through the GFEL Planning Guide to understand the event history, format, and organizer commitments: [**GFEL Planning Guide**](https://docs.google.com/document/d/11Cwsk4MaRzYysADmczofbqSRcyvtvCugc360KoDlCkc/edit?usp=sharing)
-2. Reach out to share your interest in hosting via the [Ethereum Localism Telegram chat](https://t.me/+5Enk4J4d98MyMDkx).
-3. Plan and execute your GFEL!
-
-**GFEL Documentation:**
+**👉 Past GFEL Documentation:**
 [Ethereum Localism Library > GFEL](library/GFEL)
+
+---
+
+## Steps to Hosting a GFEL
+
+1. Check out **Past GFEL Documentation: [Ethereum Localism Library > GFEL](library/GFEL)**.
+2. Read the [**GFEL Planning Guide**](https://docs.google.com/document/d/11Cwsk4MaRzYysADmczofbqSRcyvtvCugc360KoDlCkc/edit?usp=sharing) to understand the event’s unique format, community values, and organizer roles and commitments.
+3. Share your interest in hosting by reaching out via the [**Ethereum Localism Telegram chat**](https://t.me/+5Enk4J4d98MyMDkx) — it’s the best place to connect with fellow GFEL organizers before you begin planning.
+4. Plan, execute, and document your GFEL!
+
+---
 
 ![](assets/gfel24-panel.jpeg)
 
