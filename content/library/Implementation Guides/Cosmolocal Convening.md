@@ -46,5 +46,6 @@ The Forum itself was a three-day event, a structured unconference, hosted at a c
 
 ![](assets/gfel23-end.png)
 
+I*nterested in hosting a GFEL in your city? Learn more: [Hosting a General Forum on Ethereum Localism](Hosting-a-GFEL.md)*
 
 ---
