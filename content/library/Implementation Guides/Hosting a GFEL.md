@@ -28,11 +28,10 @@ bannerURI: https://www.ethereumlocalism.xyz/assets/gfel23-rainbow.png
 3. Share your interest in hosting by reaching out via the [**Ethereum Localism Telegram chat**](https://t.me/+5Enk4J4d98MyMDkx) — it’s the best place to connect with fellow GFEL organizers before you begin planning.
 4. Plan, execute, and document your GFEL!
 
----
-
 ![](assets/gfel24-panel.jpeg)
-### Account: A General Forum on Ethereum Localism, October 2023 - Portland, OR
 
+---
+### Account: A General Forum on Ethereum Localism, October 2023 - Portland, OR
 *From [The Inverted City](assets/invertedCity_digital.pdf)*
 
 In October 2023 PDX DAO put on the General Forum on Ethereum Localism (GFEL) in Portland, OR as a convening of 50+ web3 natives (and a handful of non-natives) thinking about and experimenting with onchain localism, i.e. the possibility of using DAOs to develop novel decentralized community/city/bioregional systems and infrastructure (maker space cooperatives, community currencies, small business coalitions, credit clearing circles, etc.); building mechanisms to bring p2p and ownership economies to local scale (neighbourhoods).
@@ -46,8 +45,9 @@ Many attendees stuck around post-forum, and, over the next few days re-convened 
 The convening was a success because we, a hyperlocal group of dedicated co-conspirators, had been working on the same problem and asking the same questions as a global consortium of both localized and distributed peers. Critically, we were fortunate to benefit from a reliable network of aligned and supportive individuals, both locally and globally, who offered invaluable resources — including and especially Bridge Space Commons, our main event venue — and skillshares (key to this network was a year’s work of passionate network weaving). To cover event costs, we received direct donations and matching funds from two Gitcoin grant rounds, applied for and received a grant from MetaCartel’s ETHos, and received support from Breadchain Co-operative (and beer from Raid Brood).
 
 **Resources:**
+
 – [wiki.p2pfoundation.net/Ethereum_Localism](https://wiki.p2pfoundation.net/Ethereum_Localism)  
 – [pdxdao.xyz/localism](https://pdxdao.xyz/localism)  
 – [mirror.xyz/ethpdx.eth](https://mirror.xyz/ethpdx.eth)
 
----
+![](assets/gfel23-end.png)
