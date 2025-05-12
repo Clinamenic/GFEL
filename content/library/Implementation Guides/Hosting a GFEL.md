@@ -1,5 +1,5 @@
 ---
-title: Hosting a GFEL
+title: Hosting a General Forum on Ethereum Localism
 subtitle: 
 date: 2025-04-01
 author: 
