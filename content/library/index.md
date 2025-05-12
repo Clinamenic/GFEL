@@ -13,11 +13,11 @@ Welcome to the **Ethereum Localism Library** - a curated, growing collection of 
 ## 📁 [Ethereum Localism](library/Ethereum-Localism)
 General content on the Ethereum Localism thesis.
 
+## 📁 [Field Reports](library/Field-Reports)
+Real-world case studies and narratives around the messy and inspiring work of experimentation and implementation.
+
 ## 📁 [Implementation Guides](library/Implementation-Guides)
 Detailed resources for how to implement Ethereum Localist principles and toolkits.
-
-## 📁 [Field Reports](library/Field-Reports)
-Case studies and first person narratives around the messy and inspiring work of implementation.
 
 ---
 
@@ -64,11 +64,9 @@ The Ethereum Localism Library is a living, growing commons — and your voice is
 
 Whether you're experimenting with local DAOs, stewarding bioregional ecosystems, crafting regenerative finance models, designing new governance patterns, or weaving culture through story and art — your insights, field notes, and frameworks belong here.
 
-If you have knowledge, experiments, or creative works to share that align with Ethereum Localism’s spirit of applied cosmo-localism and decentralized solidarity, we invite you to contribute.  
+If you have knowledge, experiments, or creative works to share that align with Ethereum Localism’s spirit of applied cosmo-localism and decentralized solidarity, we invite you to contribute. Together, we are weaving the intellectual and practical foundations for the worlds to come. 
 
 → [Read the Contribution Guide](contribution-guide.md)  
-
-Together, we are weaving the intellectual and practical foundations for the worlds to come.
 
 ---
 
