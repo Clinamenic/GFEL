@@ -26,7 +26,7 @@ bannerURI: https://www.ethereumlocalism.xyz/assets/gfel23-rainbow.png
 1. Check out **Past GFEL Documentation: [Ethereum Localism Library > GFEL](library/GFEL)**.
 2. Read the [**GFEL Planning Guide**](https://docs.google.com/document/d/11Cwsk4MaRzYysADmczofbqSRcyvtvCugc360KoDlCkc/edit?usp=sharing) to understand the event’s unique format, community values, and organizer roles and commitments.
 3. Share your interest in hosting by reaching out via the [**Ethereum Localism Telegram chat**](https://t.me/+5Enk4J4d98MyMDkx) — it’s the best place to connect with fellow GFEL organizers before you begin planning.
-4. Plan, execute, and document your GFEL!
+4. **Plan, Execute, & Document your GFEL!** (with dedicated support from existing organizers)
 
 ![](assets/gfel24-panel.jpeg)
 
