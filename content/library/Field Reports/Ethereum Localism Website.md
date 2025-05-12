@@ -1,11 +1,11 @@
 ---
-title:
-subtitle:
-date: YYYY-MM-DD
-author:
-authorURL:
-tags:
-source:
+title: Building ethereumlocalism.xyz
+subtitle: 
+date: 2025-04-01
+author: 
+authorURL: 
+tags: 
+source: 
 language: en
 uuid: f40e3378-43a7-479f-87ae-2b88de3e3800
 license: CC BY-SA 4.0
