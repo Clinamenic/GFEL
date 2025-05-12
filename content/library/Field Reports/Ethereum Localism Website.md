@@ -4,7 +4,9 @@ subtitle:
 date: 2025-04-01
 author: 
 authorURL: 
-tags: 
+tags:
+  - format/case-study
+  - theme/ethereum-localism
 source: 
 language: en
 uuid: f40e3378-43a7-479f-87ae-2b88de3e3800
