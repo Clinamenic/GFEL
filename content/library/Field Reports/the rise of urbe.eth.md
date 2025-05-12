@@ -8,7 +8,13 @@ tags:
   - rome
 author: limone.eth
 ---
-# the rise of urbe.eth
+**Location**: Rome, Italy
+
+**Started**: May 2022
+
+**Current Status**: Active
+
+**Website**: https://urbe.build
 
 ## not a brain dump, this is a special thingy
 
