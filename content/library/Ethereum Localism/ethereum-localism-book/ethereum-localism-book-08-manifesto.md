@@ -12,7 +12,7 @@ date: 2025-02-21
 ---
 # Manifesto da Sociedade Enraizada
 
-_via AgroforestDAO_
+_via [AgroforestDAO_](https://agroforestdao-ptbr.web.app)
 
 Este documento foi escrito por diversas mãos ao longo do período de um ano dentro do grupo de conversa da AgroforestDAO
 
@@ -41,7 +41,7 @@ Defendemos a compreensão de que somos uma tribo global e que o nosso planeta é
 
 # The Rooted Society Manifesto
 
-_via AgroforestDAO_
+_via [AgroforestDAO](https://agroforestdao.web.app)_
 
 This document is the result of a collaborative effort opened for 2 years on AgroforestDAO's chatgroup of 200+ members
 
