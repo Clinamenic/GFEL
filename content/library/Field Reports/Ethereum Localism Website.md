@@ -5,7 +5,7 @@ date: 2025-04-01
 author: 
 authorURL: 
 tags:
-  - format/case-study
+  - format/field-report
   - theme/ethereum-localism
 source: 
 language: en
@@ -81,3 +81,7 @@ ethereumlocalism.xyz is growing! Next milestones include:
 **We invite anyone drawn to the practice of Ethereum Localism—whether you're a builder, organizer, dreamer, or doer—to get involved. Join us in cultivating the commons and co-creating regenerative digital and physical futures.**
 
 [Connect on Telegram](https://t.me/+5Enk4J4d98MyMDkx)
+
+---
+
+*This Field Report is part of the [ethereumlocalism.xyz](https://www.ethereumlocalism.xyz) Knowledge Garden — a growing collection of real-world experiments, reflections, and tools for grounding coordination in place. Want to share your story or contribute an update? [Get in touch →](https://www.ethereumlocalism.xyz/contribution-guide)*
