@@ -19,9 +19,6 @@ bannerURI: https://www.ethereumlocalism.xyz/assets/gfel23-rainbow.png
 
 > **By hosting a GFEL, you can directly help grow the movement of Ethereum Localism from your bioregion, while contributing back to a global commons of ideas, tools, and practices.**
 
-**👉 Past GFEL Documentation:**
-[Ethereum Localism Library > GFEL](library/GFEL)
-
 ---
 
 ## Steps to Hosting a GFEL
