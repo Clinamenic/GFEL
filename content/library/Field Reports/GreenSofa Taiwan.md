@@ -27,6 +27,8 @@ license: CC BY-SA 4.0
 
 **Summary:** GreenSofa, also known as Greenpill Taiwan, is a local initiative cultivating Ethereum public goods culture in Taiwan. Founded in 2023 under the umbrella of FAB DAO, the group has transitioned through three stewardships, each building upon the last to deepen community-rooted funding, education, and infrastructure. Through web3 tools like Gitcoin, Giveth, Hypercerts, and more, GreenSofa has brought real funding and public goods tooling into Taiwan’s civic tech scene, particularly through partnerships with g0v.tw and local NGOs.
 
+![](assets/field-reports/GreenSofa-FABDAO24.jpg)
+(https://x.com/FAB_DAO/status/1815024029344108982, https://akaswap.com/akaobj/25806)
 ## Context  
 Operating in Taiwan—a democratically vibrant island and globally recognized hub for digital democracy and civic tech—GreenSofa (an iconic name, voted for by the community) bridges Ethereum-based public goods infrastructure with grassroots organizing. Taiwan presents a unique landscape for Ethereum Localism: on one hand, it is internationally recognized for its leadership in semiconductors, digital democracy and infrastructure, and open-source civic culture and tech (exemplified by [g0v.tw](https://g0v.tw/intl/en/)). On the other hand, blockchain adoption in public goods and NGO sectors remains low despite emerging regulatory clarity.
 
@@ -82,6 +84,7 @@ Directly supported 18 local public goods projects with onboarding, tracking, and
 - [Hypercerts](https://www.hypercerts.org) -- recording the project’s impact
 - [Giveth](https://giveth.io) and [Gitcoin](https://www.gitcoin.co) -- participation in international public goods grants
 - [POAP](https://poap.xyz) -- "Proof of Attendance Protocol" free mint NFT
+- [ENS](https://ens.domains) -- Web3 identity management
 
 ## Reflections  
 
