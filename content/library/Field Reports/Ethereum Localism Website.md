@@ -40,6 +40,8 @@ The project engages a global network of builders, long-time Ethereum contributor
 - Highlight stories of community practice and repeatable protocol, regeneration and resilience, and experimental governance  
 - Make participation easy and open for aligned individuals around the world  
 
+_(Read @Clinamenic's retrospective here: ["Retrospective: Ethereum Localism Knowledge Garden": Learnings from configuring a cosmolocal community knowledge base.](https://www.clinamenic.com/resources/Retrospective-on-Ethereum-Localism-Knowledge-Garden))_
+
 ---
 
 ## Tools & Infrastructure  
