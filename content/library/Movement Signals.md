@@ -1,6 +1,19 @@
 Dispatches, news articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
 ---
+### Ethereum Localism x Regen Coordination: Gitcoin 3.0 Sensemaking  
+
+**Date:** July 16, 2025
+
+**Source:** Gitcoin Governance Forum
+
+**Location:** Global / Digital
+
+This sensemaking report, authored by Regen Coordination and collaborators, proposes Ethereum Localism as a strategic domain for Gitcoin’s Dedicated Domain Allocation (DDA) process. It frames Ethereum Localism as a path to meaningful mass adoption - embedding Web3 tools like stablecoins, governance, and payments into local communities. Backed by $370K+ in grassroots funding rounds, the report outlines a plan for 3–5 local pilots during GG24, aiming to prototype scalable, cosmo-local public goods infrastructure.  
+
+[Read the forum post →](https://gov.gitcoin.co/t/ethereum-localism-x-regen-coordination-gitcoin-3-0-sensemaking-report/21940)
+
+---
 ### Wyoming State Gears Towards Launching a Stablecoin in 2025  
 
 **Date:** March 19, 2025
