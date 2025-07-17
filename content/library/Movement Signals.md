@@ -14,6 +14,21 @@ This sensemaking report, authored by Regen Coordination and collaborators, propo
 [Read the forum post →](https://gov.gitcoin.co/t/ethereum-localism-x-regen-coordination-gitcoin-3-0-sensemaking-report/21940)
 
 ---
+### Celo Localism in Brazil: Mobile-First ReFi in Chapada Diamantina  
+
+**Date:** June 26, 2025  
+
+**Source:** @celoorgbr (Twitter/X)  
+
+**Location:** Chapada Diamantina, Bahia, Brazil  
+
+Celo LatAm and local partners are piloting a community-first Web3 economy in the Chapada Diamantina region, connecting regenerative finance (ReFi) with mobile-native infrastructure. The initiative targets digital exclusion and economic fragility with MiniPay and task-based MiniApps—distributing $3,500 onchain in verifiable earnings across students, women entrepreneurs, and grassroots organizations.  
+
+Over 3 months, the pilot aims to launch 6 MiniApps, complete 2,000+ transactions, and onboard 10 local orgs—embedding Ethereum-aligned tools directly into the rhythms of territorial life.  
+
+[Read the thread →](https://x.com/celoorgbr/status/1938147875067990330?s=46&t=pL8JEAGv2UTP16nVi8QnmQ)  
+
+---
 ### Wyoming State Gears Towards Launching a Stablecoin in 2025  
 
 **Date:** March 19, 2025
