@@ -55,6 +55,19 @@ How Cooperation Jackson is developing a Mutual Exchange and Rotational Labor Ass
 [Read the blog post →](https://cooperationjackson.org/blog/creatingcommunityassetvouchersinjacksonms)
 
 ---
+### MiniPay Update Q4 2024: MiniPay Passes 5M Wallets, Scaling Stablecoins for Local Use  
+
+**Date:** January 20, 2025
+
+**Source:** Celo Forum
+
+**Location:** Global / Africa, Latin America  
+
+MiniPay is one of the fastest-growing tools for local stablecoin adoption. With #1 app store rankings in Kenya and expanding use in emerging markets, MiniPay is becoming infrastructure for real-world ReFi—bringing stablecoin utility to the hands of millions navigating economic volatility. The mobile-first wallet now supports seamless on/off ramps in 35+ local currencies, zero-fee cash-in/cash-out, and new MiniApps for donations, games, and Learn2Earn. 
+
+[Read the forum post →](https://forum.celo.org/t/minipay-update-q4-2024/10035)  
+
+---
 
 _Know of a signal we should include?_  
 
