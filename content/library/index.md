@@ -24,7 +24,7 @@ Detailed resources for how to implement Ethereum Localist principles and toolkit
 ## 📰 [Movement Signals](library/Movement-Signals)
 Dispatches, articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
-## 🪴 [Community Digital Gardens](library/Community-Digital-Gardens)  
+## 🪴 [Community Digital Garden](library/Community-Digital-Garden)  
 Personal writings, digital gardens, and evolving reflections from Ethereum Localists around the world.
 
 ## 🖼️ [Cultural Outputs](resources/gallery)
