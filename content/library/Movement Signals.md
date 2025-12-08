@@ -1,6 +1,19 @@
 Dispatches, news articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
 ---
+# "Inside Bioregionalism’s Tech-Driven Revival"
+
+**Date:** December 4, 2025
+
+**Source:** By [DOUG BIEREND](https://www.noemamag.com/author/dougbierend/), Noema Magazine
+
+**Location:** Global / Digital
+
+  This piece explores the onchain movement that reorients governance, economics, and community life around ecosystems rather than markets or nation-states, and traces emerging experiments that treat watersheds, bioregions, and ecological boundaries as the real units of coordination—shifting from extraction to reciprocity.
+  
+  For Ethereum Localism, the article signals broader cultural attention towards place-based governance, regenerative land stewardship, and community-anchored infrastructures. It reinforces the idea that technological systems (like blockchains) gain legitimacy and utility when they support the living worlds people inhabit, not abstract globalism.
+  
+---
 ### Ethereum Localism x Regen Coordination: Gitcoin 3.0 Sensemaking  
 
 **Date:** July 16, 2025
