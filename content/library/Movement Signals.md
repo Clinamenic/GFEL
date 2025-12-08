@@ -1,7 +1,7 @@
 Dispatches, news articles, and project updates from the growing ecosystem of Ethereum Localism and aligned movements.
 
 ---
-# "Inside Bioregionalism’s Tech-Driven Revival"
+### "Inside Bioregionalism’s Tech-Driven Revival"
 
 **Date:** December 4, 2025
 
