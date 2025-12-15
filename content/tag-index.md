@@ -25,6 +25,9 @@
 - **#format/video**  
   Audiovisual storytelling—recorded talks, walkthroughs, or documentaries.
 
+- **#format/transcript**
+  Transcripts—raw or lightly edited recorded talks, conversations, etc.
+
 ---
 
 ## Themes
