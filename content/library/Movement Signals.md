@@ -26,7 +26,7 @@ Dispatches, news articles, and project updates from the growing ecosystem of Eth
 
 **Project:** Taiwan Hypercerts Dashboard
 
-**Summary:** GreenSofa Taiwan has launched a localized Hypercerts Dashboard to make public goods impact visible, verifiable, and meaningful at the regional level. Built in **April 2025**, this dashboard aggregates and visualizes Taiwan-specific Hypercerts—onchain certificates of public goods contributions—transforming fragmented project data into structured, traceable impact evidence. 
+**Summary:** GreenSofa Taiwan has launched a localized Hypercerts Dashboard to make public goods impact visible, verifiable, and meaningful at the regional level. This dashboard aggregates and visualizes Taiwan-specific Hypercerts—onchain certificates of public goods contributions—transforming fragmented project data into structured, traceable impact evidence. 
 
 **What it Does:**
 
