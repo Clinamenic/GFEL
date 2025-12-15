@@ -12,7 +12,34 @@ Dispatches, news articles, and project updates from the growing ecosystem of Eth
   This piece explores the onchain movement that reorients governance, economics, and community life around ecosystems rather than markets or nation-states, and traces emerging experiments that treat watersheds, bioregions, and ecological boundaries as the real units of coordination—shifting from extraction to reciprocity.
   
   For Ethereum Localism, the article signals broader cultural attention towards place-based governance, regenerative land stewardship, and community-anchored infrastructures. It reinforces the idea that technological systems (like blockchains) gain legitimacy and utility when they support the living worlds people inhabit, not abstract globalism.
-  
+
+---
+### GreenSofa Taiwan: Localized Hypercerts Dashboard
+
+**Date:** October 31, 2025
+
+**Hosted at:** https://fabdaotw.github.io/ 
+
+**Location:** Taiwan
+
+**Project:** Taiwan Hypercerts Dashboard
+
+**Summary:** GreenSofa Taiwan has launched a localized Hypercerts Dashboard to make public goods impact visible, verifiable, and meaningful at the regional level. Built in **April 2025**, this dashboard aggregates and visualizes Taiwan-specific Hypercerts—onchain certificates of public goods contributions—transforming fragmented project data into structured, traceable impact evidence. 
+
+**What it Does:**
+
+- **Tracks and displays real-world impact** of local public goods funding initiatives in Taiwan, making contributions transparent and readable for community stakeholders. 
+
+- **Bridges the gap between onchain data and offchain outcomes** by connecting verifiable blockchain records with human-centered impact narratives and documentation. 
+
+- **Addresses key challenges** in the global public goods ecosystem—limited reviewer bandwidth and trustworthiness of impact evaluation—by offering a regionally focused verification layer. 
+
+- **Supports ecosystem growth** by enabling data visualization, a review interface, and IPFS-based storage for evidence of impact, thereby encouraging more builders and projects to participate.
+
+**Why It Matters:** Hypercerts aim to standardize how impact is certified across decentralized public goods efforts. By localizing this tooling for Taiwan, GreenSofa is not only advancing onchain accountability but also fostering a replicable model for other regions and communities seeking to ground public goods evaluation in shared data and transparency.
+
+**Proposal & Support Page:** [Gardens Fund entry](https://app.gardens.fund/gardens/10/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/0xd95bf6da95c77466674bd1210e77a23492f6eef9/178/0x588e935cf4dae4361f33af2aadd4c3c3a06cab7d-7)
+
 ---
 ### Ethereum Localism x Regen Coordination: Gitcoin 3.0 Sensemaking  
 
