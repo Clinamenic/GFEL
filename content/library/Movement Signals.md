@@ -13,6 +13,8 @@ Dispatches, news articles, and project updates from the growing ecosystem of Eth
   
   For Ethereum Localism, the article signals broader cultural attention towards place-based governance, regenerative land stewardship, and community-anchored infrastructures. It reinforces the idea that technological systems (like blockchains) gain legitimacy and utility when they support the living worlds people inhabit, not abstract globalism.
 
+[Read the piece in Noema Magazine](https://www.noemamag.com/inside-the-push-to-rebuild-society-around-ecosystems/)
+
 ---
 ### GreenSofa Taiwan: Localized Hypercerts Dashboard
 
