@@ -81,7 +81,7 @@ Over 3 months, the pilot aims to launch 6 MiniApps, complete 2,000+ transactions
 
 Wyoming moves closer to issuing its own state-backed stablecoin, The Wyoming Stable Token (WYST), aiming to create a blockchain-based public utility. The move reflects growing interest in localized financial infrastructure that leverages the global crypto network without ceding power to private intermediaries.  
 
-**Project website:** https://stabletoken.wyo.gov
+**Official website:** https://stabletoken.wyo.gov
 
 [Read the Article →](https://www.coindesk.com/policy/2025/03/26/wyoming-state-gears-towards-launching-a-stablecoin-this-year)
 
