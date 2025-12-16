@@ -45,9 +45,11 @@ How do we govern across difference, distance, and scale? Cosmolocal governance e
 ## Participatory Funding
 Funding is coordination. Who decides what gets resourced, and how? This section explores experiments in participatory, transparent, and collective funding—from quadratic voting to public goods games to locally rooted grants. These tools can help communities fund what matters, together.
 
-- [Easy Retro PGF](https://easyretropgf.xyz) – A lightweight platform for running retroactive public goods funding rounds.  
-- [Gitcoin Grants](https://grants.gitcoin.co) – A crowdfunding platform that uses quadratic funding to support open-source projects.  
-- [Allo IRL](https://irl.allo.capital) – A tool for running participatory funding experiments in real-life communities using Allo protocol.
+- [Easy Retro PGF](https://easyretropgf.xyz) – Lightweight tool for running retroactive public goods funding rounds that reward real-world impact with minimal overhead.
+- [Gitcoin Grants](https://grants.gitcoin.co) – Long-running quadratic funding platform for coordinating community capital around open-source software and public goods.
+- [Allo IRL](https://irl.allo.capital) – Participatory funding tool for running in-person, place-based funding experiments using the Allo Protocol.
+- [CLR.fund](https://clr.fund/#/) – Permissionless quadratic funding protocol enabling open, trust-minimized public goods funding rounds on Ethereum.
+- [Giveth](https://giveth.io) – Web3-native donation platform enabling zero-fee crypto funding for public goods, with GIVbacks and regenerative incentives.
 
 ## Community
 Movements grow through relationships. Ethereum Localism is part of a larger, interconnected web of communities building regenerative, commons-based, and cosmo-local futures. These are friends and fellow travelers—each experimenting with new ways to live, govern, and coordinate together.
