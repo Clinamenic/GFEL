@@ -72,8 +72,8 @@ _What is heavy should be local. What is light should be global and shared._ Welc
 <div class="home-grid">
   <div class="home-card">
     <h3>Connect</h3>
-    <p>Join the conversation in our Telegram chat.</p>
-    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a>
+    <p>Join the conversation in our Telegram chat:
+    <a href="https://t.me/+5Enk4J4d98MyMDkx">Join on Telegram →</a></p>
     <p><a href="/resources/Ethereum-Localism-Registry/index">Community Registry</a></p>
   </div>
 
