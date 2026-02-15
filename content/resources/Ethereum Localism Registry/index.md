@@ -16,8 +16,7 @@ Want to be listed? → [Submit your initiative](LINK-TO-FORM)
 
 ---
 
-- Ethereal ForestO](resources/Ethereum-localism)**  
-  **Portl
+- Ethereal Forest
  
 - **[PDX DAO](resources/Ethereum-localism)**  
   **Portland, Oregon** | Local DAO, Governance Experiments | 🟡 **On Hold**  
